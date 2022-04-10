@@ -1,0 +1,35 @@
+---
+title: Rebellion
+author: lmvincent
+type: post
+date: 2005-08-22T19:34:00+00:00
+url: /2005/08/22/rebellion/
+tumblr_jordanmarinvincent_permalink:
+  - http://jordanmarinvincent.tumblr.com/post/15658845682/rebellion
+tumblr_jordanmarinvincent_id:
+  - 15658845682
+tags:
+  - Journey
+  - The Big Steps
+  - the journey
+
+---
+You want to be wrong. You want everyone else to be right. For every negative thought that passes through your head, you want to believe that “thinking positive” will ward away what most you fear. Well-wishing friends instruct you to dispel skepticism, will against negativity, and imagine wellness. You try. You really try. But in the recesses of your mind, whispering just loud enough so that your rational stream of consciousness can hear, your inner voice gossips about what could really happen. And when fate agrees, and one of those pessimistic, back-biting ideas really does happen, the negative fringe incites rebellion. Every synapse in your brain attracts itself to the seemingly clairvoyant notion. Perception scrambles for a leader, and the logical point of view rescues sanity from the anarchy of positive thinking.<!--more-->
+
+We were cold-cocked today. Jordan’s condition deteriorated. She’s having seizures now. Though we are told they are causing no damage, they are horrific to witness. Our little girl with the sun-kissed hair, the hair she modestly tells strangers costs some women a hundred dollars, convulses and jerks uncontrollably. There is nothing we can do but look on. And inside my head, my worst fears begin rallying support. “See,” they murmur, “I told you this would happen.” Then I feel bad for even thinking this, imagining that worrying about it in the past caused it today. And then I think I’m cracking up. I’m analyzing every thought while my daughter suffers. I keep kissing her and holding her hand and telling her I’m by her side, even though she shows no sign of hearing. Jeanette and I take turns breaking down. Then we sit. And wait. And hope.<a name="more"></a>
+
+The day began on the battlefront: me versus the medical establishment. I went to bed angry the night before. I had no answers. No data. And the logic of the medical team seemed lacking. They dismissed Jordan’s fall on Saturday as coincidental â€“ having nothing to do with her condition. I asked them, “if you didn’t know this child had cancer, would you still be diagnosing as you are?” It got their attention, and my squeaky wheel summoned grease. All the big guns came by today, and before noon I started feeling a little better. Jordan was still unconscious, but she murmured once in awhile and she didn’t seem to be getting worse.
+
+My emotions ran hot and cold. Late in the morning, I had really worked up a lather about the pace of Jordan’s care. I didn’t feel she was getting enough attention. They hadn’t scheduled her EEG or her MRI, and we still had no answers. I went down to the garden to make two calls. The first was to a friend in the medical community, who counseled me on what to ask. Armed with her insights, I felt better equipped to navigate the establishment. But I was still mad, and I knew confronting the doctors angry would not get me very far. So I made the second call: to my good friend Lorena. I blew up and she listened patiently. And then, I broke down. I just fell apart in front of dozens of people. Lorena let me go. Deep down, I knew I had to let all this out if I wanted to keep my head in the game as I confronted professionals who had spent a lot more time in school than me. When I settled down, I gathered my things and headed back to Jordan’s room. I was going to plead my case: Jordan had head trauma and the medical team was not doing enough to address the obvious issue. She hit her head. Yes, she had cancer, but why was that the only route the team would consider. As far as we knew, Jordan had never had a seizure.
+
+But when the elevator door opened on the sixth floor, Jeanette was standing there. It felt scripted. Just as I was coming back, she was headed down to find me. The first words out of her mouth were “Jordan had a seizure.” Though she was trying to be very strong, I could tell she was in shock. I still hadn’t processed what she said, and my argument felt utterly useless. We went back to the room.
+
+People were moving faster now. Or, at least it seemed that way. They wanted to administer anti-seizure medication, but I still wasn’t ready. We hadn’t seen a neurologist and they hadn’t conducted the EEG study. I did what I do best: argue. The poor resident who came to get our consent for the medication didn’t know what hit her. And I confess, I felt bad at the intensity of my litigation. How could they prescribe anti-seizure medication when they weren’t positive she was having seizures? How could the neurology team prescribe medication when they hadn’t even examined my daughter? To make matters worse, we were told that there would be no way to get the EEG today. That was the final straw for me. I locked in my heels and said “No.”
+
+In retrospect, I feel guilty about this decision. Jordan was having seizures. Jeanette had seen it with her own eyes. My interference might be causing Jordan more pain and suffering. But I felt she was being ignored and I was terrified that we were medicating symptoms without having any real data or analysis. Fortunately, my intransigence paid off. Twenty minutes later, Jordan was wheeled to neurology and had her EEG. It showed no signs of seizures during the test, but one half of her brain was less active&#8211;a watermark that seizures may have occurred earlier. Jeanette and I agreed to allow the team to administer anti-seizure meds. But, we did this after a full consultation with the attending neurologist.
+
+The seizures kept coming. I was seeing them now. And with each one, more doctors and nurses ran to her bedside â€“ a fact that made Jeanette and I tense. This was serious. A second CT scan was ordered immediately. Her medication was increased, and people were being very careful to tell us everything. Ironically, it was during this time that Jordan began mumbling incomprehensible statements. We hadn’t heard her speak since we admitted her 48 hours ago. She called for me. I leaned in. She tried to form words but I couldn’t understand. Then she rolled her eyes back and disappeared. A little later, she opened her eyes and looked right at me. I leaned in and said “Hi, gorgeous.” She smiled and then faded out again. Somewhere, in all this chaos, there was a reason to hope. She was in there. Now, we just have to figure out how to get her back.
+
+<div class="blogger-post-footer">
+  <img loading="lazy" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-6403387207345357252?l=jordansjourney2.blogspot.com" alt="" width="1" height="1" />
+</div>

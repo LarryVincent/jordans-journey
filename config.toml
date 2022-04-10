@@ -1,0 +1,22 @@
+baseurl = "https://example.org/"
+title = "Jordan's Journey"
+author = "Larry Vincent	"
+paginate = 5
+theme = "blank"
+
+[params]
+    description = "A minimal Hugo theme"
+    dateFormatToUse = "2006-01-02"
+	mainSections = ['post']
+
+[menu]
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+[[menu.main]]
+  identifier = "journey"
+  name = "The Journey"
+  url = "/post/"
+  weight = 1

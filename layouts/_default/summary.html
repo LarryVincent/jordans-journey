@@ -1,0 +1,17 @@
+<article>
+	{{ if .Params.featured_image }}
+		<a href="{{ .Permalink }}"><img class="featured-image" src="{{ .Params.featured_image }}" style="padding-bottom: 2em;"></a>
+	{{ end }}
+	
+	<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+	<time class="dateline" datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">{{ .Date.Format "January 1, 2006" }}</time><span class="dateline">&nbsp;|&nbsp;</span>
+	{{ range .Params.tags }}
+	<a class="dateline-tags" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+	{{ end }}
+	<div>
+		<p>{{ .Summary }}</p>
+		{{ if .Truncated }}
+			<a href="{{ .Permalink }}">Read more...</a>
+		{{ end }}
+	</div>
+</article>

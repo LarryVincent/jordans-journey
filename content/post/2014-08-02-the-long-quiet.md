@@ -1,0 +1,41 @@
+---
+title: The Long Quiet
+author: lmvincent
+type: post
+date: 2014-08-02T23:48:00+00:00
+url: /2014/08/02/the-long-quiet/
+tumblr_jordanmarinvincent_permalink:
+  - http://jordanmarinvincent.tumblr.com/post/93630502696/the-long-quiet
+tumblr_jordanmarinvincent_id:
+  - 93630502696
+tags:
+  - Journey
+
+---
+It may have been one of the best turkey burgers I’ve ever had. Or, maybe it was the company and the conversation that affected my impression of this fried culinary masterpiece. I sat across from a friend of many years–a friend who I sadly don’t make a point to visit nearly enough. He is a creative mentor, an innovative entrepreneur who always manages to weave his creative pursuits into inspiring social causes, and a long-time supporter of our Slayer. They are connected in more ways than one. He, too has wrestled with cancer, and as a result he has always been there when we’ve been in the thick of the fight. He is my friend Roger Holzberg.<!--more-->
+
+Our conversation danced between our latest professional endeavors and the adventures of our families, all the while punctuated by the delicacy of my abundant supply of french fries (which Roger helped me finish). Midway through he asked the question we return to every time we chat: how is Jordan?<!-- more -->
+
+I rattled off my stock reply. The cancer appears to be stable. We don’t know if it’s gone, but it’s not growing, and it’s hard to tell if it is shrinking. She has been away from chemo for about two years. Our biggest issues now are the swarm of seizures and auras she encounters every day; her ongoing mobility issues; and, her precarious weight (she’s so thin she doesn’t even register on the charts doctors use to evaluate a girl her age). As usual, I bundled this information into an optimistic outlook–a “things are good” tone.
+
+That’s when Roger asked me about my writing. In a way only a true mentor can, he delicately asked why the posts to this blog went quiet.
+
+I’ve thought about this many times. I started this year with a pledge to restart the blog, even to make Jordan more of a participant. But I have been reluctant to write about our life. I think a lot of it has to do with business. But frankly, that’s somewhat of a crutch. I could find time to write. I’ve _chosen_ not to write about Jordan’s Journey. If I’m truly honest with myself and with you, I haven’t wanted to write because so much of what we encounter every day is the same. There doesn’t feel like there has been any progress. And there are many reasons why we feel a little deflated.
+
+A year ago, in an effort to improve the strength of Jordan’s legs, and to increase her mobility, her doctors wrapped her feet in plaster casts. These casts were designed to “reset” the position of her feet and stretch her muscles and tendons. The casts worked … sort of. When they were removed weeks later, her feet were indeed better positioned to support her weight. But, the casts caused troublesome blood blisters. When they burst, she had open wounds that refused to heal. These wounds were not infected, but they wouldn’t close–mostly because she uses her feet a lot. For the last year she has worked with a wound specialist to encourage healing, and Jeanette re-dresses her bandages several times a day. But Jordan’s feet have stubbornly refused to heal (why Jordan refers to them as “trouble feet”). Now, we’re gearing up for another surgery. A plastic surgeon will attempt to close the wounds for good. When that’s done, we’ll redouble her physical therapy program. In the meantime, she has a new wheelchair that makes it easier for her to get around on her own. And, her knees are heavily bruised and scabbed from all the time she spends crawling around the house. I have to hand it to her, she doesn’t sit still.
+
+Meanwhile, the seizures swarm about her and shake everyone’s confidence. If she has the slightest stirring in her abdomen she is instantly on-guard. Sometimes it’s nothing more than “the funny feeling,” which subsides after medicine–sometimes on its own. But other times it progresses and takes her out completely.
+
+Last night, in the span of only a few hours, she had five seizure episodes, the last very close to “the real thing.” When they cluster like that it drains everyone’s morale. I ended my evening feeling very down.
+
+And when I say that the seizures have evolved, what I mean is that they manifest in new and unusual ways. In the past week, Jordan has been plagued by a new phenomenon that inhibits her ability to speak. In fact, it seems to take over her speech. While looking at us she utters repetitive gibberish. Last night, it was “ma ma ma ma ma ma ma ma…” What is most peculiar about these new brain surges is that Jordan is aware of what’s happening the whole time. She is conscious of her odd speech, and unlike all the other seizures, she remembers every moment.
+
+In a few short weeks, Jordan will turn 16. I suppose it is unsurprising that she longs to do things on her own. In fact, she has expressed to us a strong desire for more independence. Sometimes that yearning even manifests as resentment toward her brother, whom she observes going out with friends and having the freedom to wander without supervision. For awhile, this resentment led to some pretty strong outbursts towards him. But lately she has been dealing with these feelings in a very mature way. In fact, she told us that she knows it is not Luc’s fault that he can go out and be a teenager while she must constantly stay close to her parents. And she has tried harder to be kind to him. I am very proud of her for that. But I feel sad when she the differences make her sad, and when she gets melancholy it is usually because she feels like a shut-in.
+
+This afternoon she wanted to come with me to grab a bite to eat. Still a bit shaken from all the seizure activity last night, I told her that I didn’t think it was a good idea. Jeanette had already eaten and Jordan really wanted to have daddy/daughter time, but I was fearful of how to handle a big seizure in public without assistance. I was candid about this with J, and she said she understood as she patted my shoulder. I immediately regretted my decision. I felt like a coward.
+
+Still, you can’t beat the girl on positive mental attitude. Her world has a predominantly sunny disposition, and we are encouraging her to do more and more on her own. She went to camp again this summer–always the highlight of her year. And for her birthday she is traveling up to Portland to celebrate with our extended family. She wanted to go alone, but the airlines are not very accommodating of people with seizure disorders. We were told that if she had a seizure in-flight they would not administer medication and they would be forced to make an emergency landing. So, Jordan reluctantly agreed to have her mother accompany her. She’s still looking forward to the trip.
+
+I shared many of these feelings with Roger that day at lunch. And that’s when he inspired me, and probably permanently altered my perception of the flavor of that delicious turkey burger. Roger encouraged me to start blogging about Jordan again, even if I kept the posts private. He reminded me that this blog serves as more than a way to keep people updated about Jordan’s status. And, it’s more than a writer’s way to dump his feelings. It’s a record. It’s a way to look back and follow a journey. Roger made me realize that everything we’ve shared here helps us understand the progress and the regressions, the triumphs and the setbacks, the joys and the heartaches. My dear friend reminded me that I am not writing this blog for me, but for Jordan.
+
+I have always dreamed that one day Jordan could take over for me; that she could blog about her life and tell her story in her own way. I don’t know if that will ever happen, but until it does I will find a way to keep posting. After my lunch with Roger, I went back and skimmed through the many posts in this blog. I relived so many of our experiences and actually felt a great sense of hope. Because through it all there have been two constants: the resilience of “the girl” and the encouragement of so many beautiful friends.

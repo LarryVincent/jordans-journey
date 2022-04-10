@@ -1,0 +1,16 @@
+<header>
+	<div class="masthead">
+	<a href="{{ .Site.BaseURL }}"><img class="site-logo" src="/images/logos/2011_journey_logo.png"></a>		
+	</div>
+		{{ with .Site.Menus.main }}
+	<nav>
+	<div class="navbar">
+		<ul>
+			{{ range . }}
+			<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+			{{ end }}
+		</ul>
+	</div>
+	</nav>
+	{{ end }}
+</header>
