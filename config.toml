@@ -1,11 +1,11 @@
-baseurl = "https://example.org/"
+baseurl = "https://jordansjourney.com/"
 title = "Jordan's Journey"
 author = "Larry Vincent	"
 paginate = 5
 theme = "blank"
 
 [params]
-    description = "A minimal Hugo theme"
+    description = "The story of Jordan Vincent, cancer slayer."
     dateFormatToUse = "2006-01-02"
 	mainSections = ['post']
 
