@@ -5,7 +5,7 @@ type: post
 date: 2009-11-22T09:01:00+00:00
 url: /2009/11/22/just-bacon/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659106219/just-bacon
+  - https://jordanmarinvincent.tumblr.com/post/15659106219/just-bacon
 tumblr_jordanmarinvincent_id:
   - 15659106219
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4123092701/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2595/4123092701_c01ecac3b3_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4123092701/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2595/4123092701_c01ecac3b3_m.jpg" alt="" /></a>
 
 Jordan: Bacon-Lover
 

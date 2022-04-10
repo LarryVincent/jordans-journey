@@ -5,7 +5,7 @@ type: post
 date: 2007-11-21T05:11:00+00:00
 url: /2007/11/21/the-trooper/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658976595/the-trooper
+  - https://jordanmarinvincent.tumblr.com/post/15658976595/the-trooper
 tumblr_jordanmarinvincent_id:
   - 15658976595
 tags:

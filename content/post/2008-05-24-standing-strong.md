@@ -5,7 +5,7 @@ type: post
 date: 2008-05-24T16:11:00+00:00
 url: /2008/05/24/standing-strong/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659009920/standing-strong
+  - https://jordanmarinvincent.tumblr.com/post/15659009920/standing-strong
 tumblr_jordanmarinvincent_id:
   - 15659009920
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2519064027/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2391/2519064027_4521e9f071_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2519064027/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2391/2519064027_4521e9f071_m.jpg" alt="" /></a>
 
 Jordan&rsquo;s Feet &#8211; A Testament
 

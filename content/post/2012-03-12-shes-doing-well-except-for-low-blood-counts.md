@@ -4,7 +4,7 @@ type: post
 date: 2012-03-12T02:54:00+00:00
 url: /2012/03/12/shes-doing-well-except-for-low-blood-counts/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/19161128539/shes-doing-well-except-for-low-blood-counts
+  - https://jordanmarinvincent.tumblr.com/post/19161128539/shes-doing-well-except-for-low-blood-counts
 tumblr_jordanmarinvincent_id:
   - 19161128539
 tags:

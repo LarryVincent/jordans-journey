@@ -5,7 +5,7 @@ type: post
 date: 2009-03-08T16:01:00+00:00
 url: /2009/03/08/perspective/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659066349/perspective
+  - https://jordanmarinvincent.tumblr.com/post/15659066349/perspective
 tumblr_jordanmarinvincent_id:
   - 15659066349
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3337220772/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3650/3337220772_dbeb6fd950_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3337220772/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3650/3337220772_dbeb6fd950_m.jpg" alt="" /></a>
 
 Jordan considers her next adventure
 

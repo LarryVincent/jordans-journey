@@ -5,7 +5,7 @@ type: post
 date: 2006-02-13T18:04:00+00:00
 url: /2006/02/13/family-feast/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658887955/family-feast
+  - https://jordanmarinvincent.tumblr.com/post/15658887955/family-feast
 tumblr_jordanmarinvincent_id:
   - 15658887955
 tags:

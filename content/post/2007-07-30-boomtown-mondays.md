@@ -5,7 +5,7 @@ type: post
 date: 2007-07-30T14:18:00+00:00
 url: /2007/07/30/boomtown-mondays/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658967778/boomtown-mondays
+  - https://jordanmarinvincent.tumblr.com/post/15658967778/boomtown-mondays
 tumblr_jordanmarinvincent_id:
   - 15658967778
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2009-08-27T18:34:00+00:00
 url: /2009/08/27/the-latest-scoop/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659090997/the-latest-scoop
+  - https://jordanmarinvincent.tumblr.com/post/15659090997/the-latest-scoop
 tumblr_jordanmarinvincent_id:
   - 15659090997
 publicize_facebook_url:
@@ -13,9 +13,9 @@ publicize_facebook_url:
 publicize_twitter_user:
   - lvincent
 publicize_twitter_url:
-  - http://t.co/t357g6rIR6
+  - https://t.co/t357g6rIR6
 publicize_tumblr_url:
-  - http://jordanvincent.com.tumblr.com/post/119234209131
+  - https://jordanvincent.com.tumblr.com/post/119234209131
 tags:
   - Journey
   - the journey

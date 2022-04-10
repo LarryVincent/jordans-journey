@@ -5,14 +5,14 @@ type: post
 date: 2013-01-10T23:00:26+00:00
 url: /2013/01/10/january-guest-photographer-of-the-month-jordan/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/40205474761/january-guest-photographer-of-the-month-jordan
+  - https://jordanmarinvincent.tumblr.com/post/40205474761/january-guest-photographer-of-the-month-jordan
 tumblr_jordanmarinvincent_id:
   - 40205474761
 tags:
   - Journey
 
 ---
-<a href="http://pabloveshutterbugs.tumblr.com/post/40178869347/january-guest-photographer-of-the-month-jordan-vincent" class="tumblr_blog" target="_blank" rel="noopener">pabloveshutterbugs</a>:
+<a href="https://pabloveshutterbugs.tumblr.com/post/40178869347/january-guest-photographer-of-the-month-jordan-vincent" class="tumblr_blog" target="_blank" rel="noopener">pabloveshutterbugs</a>:
 
 > **![][1]**
 > 
@@ -28,4 +28,4 @@ tags:
 
 My second assignment for Shutterbugs was published today.
 
- [1]: http://media.tumblr.com/ea9a1ad7202899563a7d7befdf26de60/tumblr_inline_mgf39rvHXk1r3lsam.jpg
+ [1]: https://media.tumblr.com/ea9a1ad7202899563a7d7befdf26de60/tumblr_inline_mgf39rvHXk1r3lsam.jpg

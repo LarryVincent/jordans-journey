@@ -5,7 +5,7 @@ type: post
 date: 2013-11-30T02:26:00+00:00
 url: /2013/11/30/the-slayer-and-i-posed-for-a-picture-on/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/68519477055/the-slayer-and-i-posed-for-a-picture-on
+  - https://jordanmarinvincent.tumblr.com/post/68519477055/the-slayer-and-i-posed-for-a-picture-on
 tumblr_jordanmarinvincent_id:
   - 68519477055
 tags:

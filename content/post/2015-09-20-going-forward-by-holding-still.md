@@ -15,9 +15,9 @@ tags:
   - shutterbugs
 
 ---
-While I was in New York last week I spoke at a fundraising event hosted by my friend and mentor, Alan Siegel. It benefited the <a href="http://www.pablove.org" target="_blank" rel="noopener">The Pablove Foundation</a>&#8216;s <a href="http://www.pablove.org/shutterbugs/" target="_blank" rel="noopener">Shutterbugs</a> program—a photography workshop for children living with cancer, of which Jordan was an inaugural student back in 2011. I’ve written about the <a href="http://jordanvincent.com/2011/05/14/the-artist-speaks/" target="_blank" rel="noopener">Pablove Shutterbugs Show</a> and the impact it had on the Slayer. One of my goals last Thursday was to demonstrate that impact for the room of potential supporters. But as I prepared for the event I reflected on the role photography has played throughout Jordan’s Journey.<!--more-->
+While I was in New York last week I spoke at a fundraising event hosted by my friend and mentor, Alan Siegel. It benefited the <a href="https://www.pablove.org" target="_blank" rel="noopener">The Pablove Foundation</a>&#8216;s <a href="https://www.pablove.org/shutterbugs/" target="_blank" rel="noopener">Shutterbugs</a> program—a photography workshop for children living with cancer, of which Jordan was an inaugural student back in 2011. I’ve written about the <a href="https://jordanvincent.com/2011/05/14/the-artist-speaks/" target="_blank" rel="noopener">Pablove Shutterbugs Show</a> and the impact it had on the Slayer. One of my goals last Thursday was to demonstrate that impact for the room of potential supporters. But as I prepared for the event I reflected on the role photography has played throughout Jordan’s Journey.<!--more-->
 
-<a href="http://www.moma.org/collection/artists/3373" target="_blank" rel="noopener">Dorothea Lange</a>, the great depression-era documentary photographer, wrote “photography is taking a moment in time, altering life by holding it still.” Indeed, photography has helped us preserve moments in time, and it has altered our family life from the beginning of Jordan’s Journey.
+<a href="https://www.moma.org/collection/artists/3373" target="_blank" rel="noopener">Dorothea Lange</a>, the great depression-era documentary photographer, wrote “photography is taking a moment in time, altering life by holding it still.” Indeed, photography has helped us preserve moments in time, and it has altered our family life from the beginning of Jordan’s Journey.
 
 Here’s a moment in time. The photo below is the Slayer one day before she was diagnosed with cancer.
 
@@ -31,17 +31,17 @@ The photo below was taken by Jeanette while we were on vacation in Hawaii, a fe
 
 <img loading="lazy" class="alignnone size-full wp-image-919" src="https://jordansjourney.files.wordpress.com/2015/09/8224374369_cf98f3f85b_o.jpg" alt="Jordan and Larry in Maui" width="800" height="533" /> 
 
-<a href="http://jordanvincent.com/2007/01/09/wish-day-2-quest-for-the-hard-ones/" target="_blank" rel="noopener">I wrote about the image</a> below right after it occurred. It’s from Jordan’s Make-A-Wish trip to Orlando.
+<a href="https://jordanvincent.com/2007/01/09/wish-day-2-quest-for-the-hard-ones/" target="_blank" rel="noopener">I wrote about the image</a> below right after it occurred. It’s from Jordan’s Make-A-Wish trip to Orlando.
 
 <img loading="lazy" class="alignnone size-full wp-image-920" src="https://jordansjourney.files.wordpress.com/2015/09/353355676_bbcb92a2e4_o.jpg" alt="Jordan and the Rock Wall" width="544" height="800" /> 
 
 Jordan loves rock walls, but she could never really scale them because of the weakness in her legs. The year before this photo was taken she was completely wheelchair-bound, the result of a rare reaction to Vincristine, a fairly common chemotherapy drug. But Jordan re-learned to walk through intense physical therapy. And, on this day, she surprised us all when, engaged in an intense competitive rivalry with her brother, she willed herself up that wall and rang the bell. It’s a wonder that we were able to take the photos. Our eyes were so wet.
 
-Finally, the photo below was taken in 2011, just minutes before Jordan was wheeled into the operating room for <a href="http://jordanvincent.com/2011/07/20/without-many-words/" target="_blank" rel="noopener">her riskiest surgery</a>—one to remove a tumor growing on her spine.
+Finally, the photo below was taken in 2011, just minutes before Jordan was wheeled into the operating room for <a href="https://jordanvincent.com/2011/07/20/without-many-words/" target="_blank" rel="noopener">her riskiest surgery</a>—one to remove a tumor growing on her spine.
 
 <img loading="lazy" class="alignnone size-full wp-image-921" src="https://jordansjourney.files.wordpress.com/2015/09/6008248679_8be5c70cd0_o.jpg" alt="Jordan Pre-Op" width="800" height="598" /> 
 
-We were told there was a 50/50 chance that the surgery alone would render her paralyzed from the waist down. But the risks of doing nothing with the tumor were far greater. As I captured this image, Jordan was losing patience. She wanted to “get it over with.” Her resolve humbled me then as it does now. When I look back on this photo I am filled with the same anxiety and tension that I felt then, but it is mixed with a healthy dose of pride and love for my daughter’s relentless fighting spirit. To me, this is an image of strength and courage. So, too, is the image below thatI caught 24 hours later. It&#8217;s of Jordan taking <a href="http://jordanvincent.com/2011/08/06/magic/" target="_blank" rel="noopener">her first steps after surgery</a>.
+We were told there was a 50/50 chance that the surgery alone would render her paralyzed from the waist down. But the risks of doing nothing with the tumor were far greater. As I captured this image, Jordan was losing patience. She wanted to “get it over with.” Her resolve humbled me then as it does now. When I look back on this photo I am filled with the same anxiety and tension that I felt then, but it is mixed with a healthy dose of pride and love for my daughter’s relentless fighting spirit. To me, this is an image of strength and courage. So, too, is the image below thatI caught 24 hours later. It&#8217;s of Jordan taking <a href="https://jordanvincent.com/2011/08/06/magic/" target="_blank" rel="noopener">her first steps after surgery</a>.
 
 <img loading="lazy" class="alignnone size-full wp-image-927" src="https://jordansjourney.files.wordpress.com/2015/09/tumblr_lyuf9uabkd1rn5v6ko7_1280.jpg" alt="Jordan Post-Op" width="800" height="533" /> 
 
@@ -63,7 +63,7 @@ In the photo below, you’ll notice purple lines on Jordan’s face. These were 
 
 At first, Jordan thought it was hysterical that someone would write on her face. That is, until she learned that the lines had to stay there for 40 days of treatment. Then, she was devastated—despondent at the thought of going to middle school and facing her classmates with these strange and unflattering markings.
 
-That’s when I suggested <a href="http://jordanvincent.com/2011/02/07/marked-up/" target="_blank" rel="noopener">the War Paint Session</a>. I told her we should do some portraits, but rather than hide the markings we should make more. She was going to war against the tumor. And like all the great tribal warriors around the world, she needed to paint her face for the battle. With the help of some very generous partners (a makeup artist, hair stylist, and studio owner) we captured the images below. This was therapy through photography. Jordan felt beautiful and strong. It was a day I will never forget.
+That’s when I suggested <a href="https://jordanvincent.com/2011/02/07/marked-up/" target="_blank" rel="noopener">the War Paint Session</a>. I told her we should do some portraits, but rather than hide the markings we should make more. She was going to war against the tumor. And like all the great tribal warriors around the world, she needed to paint her face for the battle. With the help of some very generous partners (a makeup artist, hair stylist, and studio owner) we captured the images below. This was therapy through photography. Jordan felt beautiful and strong. It was a day I will never forget.
 
 <img loading="lazy" class="alignnone size-full wp-image-938" src="https://jordansjourney.files.wordpress.com/2015/09/lmv_4366_2.jpg" alt="Jordan in War Paint" width="576" height="720" /> 
 
@@ -83,7 +83,7 @@ But Shutterbugs gave Jordan one thing that she could completely control: the ima
 
 <img loading="lazy" class="alignnone size-full wp-image-932" src="https://jordansjourney.files.wordpress.com/2015/09/247235_10150261634125891_504441_n.jpg" alt="Jordan at Pablove Sale" width="720" height="478" /> 
 
-As <a href="http://jordanvincent.com/2011/05/14/the-artist-speaks/" target="_blank" rel="noopener">I wrote in 2011</a>, when the program came to an end Jordan’s work was featured in a gallery show in Culver City. Two of her prints were displayed for the public. She walked joyfully down a red carpet, granted interviews with the press about her work, and relished a special day where she wasn’t celebrated as a cancer fighter, but instead as a creator.
+As <a href="https://jordanvincent.com/2011/05/14/the-artist-speaks/" target="_blank" rel="noopener">I wrote in 2011</a>, when the program came to an end Jordan’s work was featured in a gallery show in Culver City. Two of her prints were displayed for the public. She walked joyfully down a red carpet, granted interviews with the press about her work, and relished a special day where she wasn’t celebrated as a cancer fighter, but instead as a creator.
 
 > Altering life by holding it still.
 

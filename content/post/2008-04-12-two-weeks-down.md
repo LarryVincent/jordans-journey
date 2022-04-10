@@ -5,7 +5,7 @@ type: post
 date: 2008-04-12T20:43:00+00:00
 url: /2008/04/12/two-weeks-down/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658995984/two-weeks-down
+  - https://jordanmarinvincent.tumblr.com/post/15658995984/two-weeks-down
 tumblr_jordanmarinvincent_id:
   - 15658995984
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2409568288/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2033/2409568288_a34be61203_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2409568288/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2033/2409568288_a34be61203_m.jpg" alt="" /></a>
 
 Watching Together
 

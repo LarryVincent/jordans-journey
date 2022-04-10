@@ -5,7 +5,7 @@ type: post
 date: 2010-10-27T13:08:00+00:00
 url: /2010/10/27/in-the-tube/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728156981/in-the-tube
+  - https://jordanmarinvincent.tumblr.com/post/15728156981/in-the-tube
 tumblr_jordanmarinvincent_id:
   - 15728156981
 tags:

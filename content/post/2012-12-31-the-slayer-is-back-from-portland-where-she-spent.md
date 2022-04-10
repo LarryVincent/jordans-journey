@@ -4,7 +4,7 @@ type: post
 date: 2012-12-31T07:11:23+00:00
 url: /2012/12/31/the-slayer-is-back-from-portland-where-she-spent/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/39289818441/the-slayer-is-back-from-portland-where-she-spent
+  - https://jordanmarinvincent.tumblr.com/post/39289818441/the-slayer-is-back-from-portland-where-she-spent
 tumblr_jordanmarinvincent_id:
   - 39289818441
 tags:

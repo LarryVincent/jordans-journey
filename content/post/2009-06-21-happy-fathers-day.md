@@ -5,7 +5,7 @@ type: post
 date: 2009-06-21T20:05:00+00:00
 url: /2009/06/21/happy-fathers-day/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659082945/happy-fathers-day
+  - https://jordanmarinvincent.tumblr.com/post/15659082945/happy-fathers-day
 tumblr_jordanmarinvincent_id:
   - 15659082945
 tags:

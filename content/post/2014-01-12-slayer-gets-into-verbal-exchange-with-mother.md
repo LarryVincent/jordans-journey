@@ -5,7 +5,7 @@ type: post
 date: 2014-01-12T08:01:23+00:00
 url: /2014/01/12/slayer-gets-into-verbal-exchange-with-mother/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/73069664989/slayer-gets-into-verbal-exchange-with-mother
+  - https://jordanmarinvincent.tumblr.com/post/73069664989/slayer-gets-into-verbal-exchange-with-mother
 tumblr_jordanmarinvincent_id:
   - 73069664989
 tags:

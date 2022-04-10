@@ -5,7 +5,7 @@ type: post
 date: 2004-11-16T19:43:00+00:00
 url: /2004/11/16/the-secret-society/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658834323/the-secret-society
+  - https://jordanmarinvincent.tumblr.com/post/15658834323/the-secret-society
 tumblr_jordanmarinvincent_id:
   - 15658834323
 tags:

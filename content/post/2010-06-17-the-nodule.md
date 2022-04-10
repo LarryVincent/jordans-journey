@@ -5,7 +5,7 @@ type: post
 date: 2010-06-17T00:22:00+00:00
 url: /2010/06/17/the-nodule/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728134219/the-nodule
+  - https://jordanmarinvincent.tumblr.com/post/15728134219/the-nodule
 tumblr_jordanmarinvincent_id:
   - 15728134219
 tags:

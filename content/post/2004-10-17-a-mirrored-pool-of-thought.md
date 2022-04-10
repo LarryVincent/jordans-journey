@@ -5,7 +5,7 @@ type: post
 date: 2004-10-17T19:46:00+00:00
 url: /2004/10/17/a-mirrored-pool-of-thought/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658830307/a-mirrored-pool-of-thought
+  - https://jordanmarinvincent.tumblr.com/post/15658830307/a-mirrored-pool-of-thought
 tumblr_jordanmarinvincent_id:
   - 15658830307
 tags:

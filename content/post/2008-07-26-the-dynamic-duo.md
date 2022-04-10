@@ -5,7 +5,7 @@ type: post
 date: 2008-07-26T21:04:00+00:00
 url: /2008/07/26/the-dynamic-duo/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659018244/the-dynamic-duo
+  - https://jordanmarinvincent.tumblr.com/post/15659018244/the-dynamic-duo
 tumblr_jordanmarinvincent_id:
   - 15659018244
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2681506722/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3140/2681506722_ed893dd9d2_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2681506722/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3140/2681506722_ed893dd9d2_m.jpg" alt="" /></a>
 
 The Dynamic Duo Dines in Style
 

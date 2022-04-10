@@ -5,7 +5,7 @@ type: post
 date: 2008-05-05T14:52:00+00:00
 url: /2008/05/05/a-hall-pass/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659000312/a-hall-pass
+  - https://jordanmarinvincent.tumblr.com/post/15659000312/a-hall-pass
 tumblr_jordanmarinvincent_id:
   - 15659000312
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2009-07-04T11:27:00+00:00
 url: /2009/07/04/home-again/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659085516/home-again
+  - https://jordanmarinvincent.tumblr.com/post/15659085516/home-again
 tumblr_jordanmarinvincent_id:
   - 15659085516
 tags:

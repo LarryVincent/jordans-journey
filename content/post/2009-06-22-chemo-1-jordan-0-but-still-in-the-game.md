@@ -5,7 +5,7 @@ type: post
 date: 2009-06-22T19:29:00+00:00
 url: /2009/06/22/chemo-1-jordan-0-but-still-in-the-game/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659083943/chemo-1-jordan-0-but-still-in-the-game
+  - https://jordanmarinvincent.tumblr.com/post/15659083943/chemo-1-jordan-0-but-still-in-the-game
 tumblr_jordanmarinvincent_id:
   - 15659083943
 tags:

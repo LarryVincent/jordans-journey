@@ -5,7 +5,7 @@ type: post
 date: 2011-03-22T09:42:00+00:00
 url: /2011/03/22/finish-line/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728179072/finish-line
+  - https://jordanmarinvincent.tumblr.com/post/15728179072/finish-line
 tumblr_jordanmarinvincent_id:
   - 15728179072
 tags:

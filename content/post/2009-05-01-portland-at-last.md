@@ -5,7 +5,7 @@ type: post
 date: 2009-05-01T20:05:00+00:00
 url: /2009/05/01/portland-at-last/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659073600/portland-at-last
+  - https://jordanmarinvincent.tumblr.com/post/15659073600/portland-at-last
 tumblr_jordanmarinvincent_id:
   - 15659073600
 tags:

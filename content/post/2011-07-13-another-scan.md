@@ -5,7 +5,7 @@ type: post
 date: 2011-07-13T13:42:00+00:00
 url: /2011/07/13/another-scan/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728186164/another-scan
+  - https://jordanmarinvincent.tumblr.com/post/15728186164/another-scan
 tumblr_jordanmarinvincent_id:
   - 15728186164
 tags:

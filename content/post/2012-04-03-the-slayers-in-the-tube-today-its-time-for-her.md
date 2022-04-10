@@ -4,7 +4,7 @@ type: post
 date: 2012-04-03T16:41:00+00:00
 url: /2012/04/03/the-slayers-in-the-tube-today-its-time-for-her/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/20412998505/the-slayers-in-the-tube-today-its-time-for-her
+  - https://jordanmarinvincent.tumblr.com/post/20412998505/the-slayers-in-the-tube-today-its-time-for-her
 tumblr_jordanmarinvincent_id:
   - 20412998505
 tags:

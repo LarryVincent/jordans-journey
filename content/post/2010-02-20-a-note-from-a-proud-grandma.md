@@ -5,7 +5,7 @@ type: post
 date: 2010-02-20T18:45:00+00:00
 url: /2010/02/20/a-note-from-a-proud-grandma/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728123840/a-note-from-a-proud-grandma
+  - https://jordanmarinvincent.tumblr.com/post/15728123840/a-note-from-a-proud-grandma
 tumblr_jordanmarinvincent_id:
   - 15728123840
 tags:

@@ -4,7 +4,7 @@ type: post
 date: 2012-01-04T17:20:00+00:00
 url: /2012/01/04/mri-a-day-at-chla-with-the-slayer/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/16012130247/mri-a-day-at-chla-with-the-slayer
+  - https://jordanmarinvincent.tumblr.com/post/16012130247/mri-a-day-at-chla-with-the-slayer
 tumblr_jordanmarinvincent_id:
   - 16012130247
 tags:

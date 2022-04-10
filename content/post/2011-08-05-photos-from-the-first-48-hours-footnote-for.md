@@ -4,7 +4,7 @@ type: post
 date: 2011-08-05T07:00:00+00:00
 url: /2011/08/05/photos-from-the-first-48-hours-footnote-for/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/17001569239/photos-from-the-first-48-hours-footnote-for
+  - https://jordanmarinvincent.tumblr.com/post/17001569239/photos-from-the-first-48-hours-footnote-for
 tumblr_jordanmarinvincent_id:
   - 17001569239
 tags:

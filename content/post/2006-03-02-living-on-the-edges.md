@@ -5,7 +5,7 @@ type: post
 date: 2006-03-02T06:04:00+00:00
 url: /2006/03/02/living-on-the-edges/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658888877/living-on-the-edges
+  - https://jordanmarinvincent.tumblr.com/post/15658888877/living-on-the-edges
 tumblr_jordanmarinvincent_id:
   - 15658888877
 tags:
@@ -17,7 +17,7 @@ tags:
 
 I nod, forcing a smile as best I can, my lips stretched across my tightly-clenched jaw. My lungs burn as I kneel forward onto my hands. My calves spasm, reminding me that about a year has passed since I last exercised.
 
-<img src="http://jordanvincent.com/images/2006/03/lv_snow_success.jpg" alt="Larry Snowboards" class="alignnone size-full wp-image-88" />  
+<img src="https://jordanvincent.com/images/2006/03/lv_snow_success.jpg" alt="Larry Snowboards" class="alignnone size-full wp-image-88" />  
 The author takes time from falling to pose for a portrait.
 
 I look up to see Dean, my snowboarding instructor, stepping out of his bindings and walking towards me. He is the most patient man in Aspen. The rest of my group waits for me at the base. But I am only halfway, and I&rsquo;ve lost count of how many times I&rsquo;ve wiped out. <a name="more"></a>

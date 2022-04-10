@@ -5,7 +5,7 @@ type: post
 date: 2005-12-10T00:59:00+00:00
 url: /2005/12/10/an-open-letter-to-my-grandchildren/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658878080/an-open-letter-to-my-grandchildren
+  - https://jordanmarinvincent.tumblr.com/post/15658878080/an-open-letter-to-my-grandchildren
 tumblr_jordanmarinvincent_id:
   - 15658878080
 tags:

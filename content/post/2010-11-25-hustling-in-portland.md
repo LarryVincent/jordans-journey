@@ -5,7 +5,7 @@ type: post
 date: 2010-11-25T13:48:00+00:00
 url: /2010/11/25/hustling-in-portland/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728162791/hustling-in-portland
+  - https://jordanmarinvincent.tumblr.com/post/15728162791/hustling-in-portland
 tumblr_jordanmarinvincent_id:
   - 15728162791
 tags:
@@ -31,10 +31,10 @@ Anyway, during Jordan&rsquo;s visit downtown, she sweet-talked her uncle into pl
 
 ![][7]
 
- [1]: http://media.tumblr.com/tumblr_lyvxvoSsrq1r5aaue.jpg
- [2]: http://media.tumblr.com/tumblr_lyvxw2dB4N1r5aaue.jpg
- [3]: http://media.tumblr.com/tumblr_lyvxwcvA8O1r5aaue.jpg
- [4]: http://media.tumblr.com/tumblr_lyvxwmRsNW1r5aaue.jpg
- [5]: http://media.tumblr.com/tumblr_lyvxwxDBcV1r5aaue.jpg
- [6]: http://media.tumblr.com/tumblr_lyvxx8AkJx1r5aaue.jpg
- [7]: http://media.tumblr.com/tumblr_lyvxxk7OVR1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvxvoSsrq1r5aaue.jpg
+ [2]: https://media.tumblr.com/tumblr_lyvxw2dB4N1r5aaue.jpg
+ [3]: https://media.tumblr.com/tumblr_lyvxwcvA8O1r5aaue.jpg
+ [4]: https://media.tumblr.com/tumblr_lyvxwmRsNW1r5aaue.jpg
+ [5]: https://media.tumblr.com/tumblr_lyvxwxDBcV1r5aaue.jpg
+ [6]: https://media.tumblr.com/tumblr_lyvxx8AkJx1r5aaue.jpg
+ [7]: https://media.tumblr.com/tumblr_lyvxxk7OVR1r5aaue.jpg

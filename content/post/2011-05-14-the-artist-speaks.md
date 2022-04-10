@@ -5,7 +5,7 @@ type: post
 date: 2011-05-14T23:56:00+00:00
 url: /2011/05/14/the-artist-speaks/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728181935/the-artist-speaks
+  - https://jordanmarinvincent.tumblr.com/post/15728181935/the-artist-speaks
 tumblr_jordanmarinvincent_id:
   - 15728181935
 tags:
@@ -15,7 +15,7 @@ tags:
 ---
 <div>
   <p>
-     What a night! Jordan attended the <a href="http://pablove.org/galleryshow2011/" target="_blank" rel="noopener">Pablove Shutterbugs Graduation Show</a> this evening. Two of her photographs were included in the featured collection. They were also available for sale, and she was very proud that her prints sold out quickly.
+     What a night! Jordan attended the <a href="https://pablove.org/galleryshow2011/" target="_blank" rel="noopener">Pablove Shutterbugs Graduation Show</a> this evening. Two of her photographs were included in the featured collection. They were also available for sale, and she was very proud that her prints sold out quickly.
   </p>
 </div>
 

@@ -5,7 +5,7 @@ type: post
 date: 2009-11-11T19:33:00+00:00
 url: /2009/11/11/oblivious/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659104265/oblivious
+  - https://jordanmarinvincent.tumblr.com/post/15659104265/oblivious
 tumblr_jordanmarinvincent_id:
   - 15659104265
 tags:

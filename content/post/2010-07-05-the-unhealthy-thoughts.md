@@ -5,7 +5,7 @@ type: post
 date: 2010-07-05T20:08:00+00:00
 url: /2010/07/05/the-unhealthy-thoughts/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728138200/the-unhealthy-thoughts
+  - https://jordanmarinvincent.tumblr.com/post/15728138200/the-unhealthy-thoughts
 tumblr_jordanmarinvincent_id:
   - 15728138200
 tags:

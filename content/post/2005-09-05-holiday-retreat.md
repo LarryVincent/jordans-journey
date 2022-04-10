@@ -5,7 +5,7 @@ type: post
 date: 2005-09-05T18:13:00+00:00
 url: /2005/09/05/holiday-retreat/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658858922/holiday-retreat
+  - https://jordanmarinvincent.tumblr.com/post/15658858922/holiday-retreat
 tumblr_jordanmarinvincent_id:
   - 15658858922
 tags:

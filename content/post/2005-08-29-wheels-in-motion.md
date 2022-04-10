@@ -5,7 +5,7 @@ type: post
 date: 2005-08-29T15:47:00+00:00
 url: /2005/08/29/wheels-in-motion/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658855717/wheels-in-motion
+  - https://jordanmarinvincent.tumblr.com/post/15658855717/wheels-in-motion
 tumblr_jordanmarinvincent_id:
   - 15658855717
 tags:

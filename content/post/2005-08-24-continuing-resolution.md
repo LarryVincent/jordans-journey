@@ -5,7 +5,7 @@ type: post
 date: 2005-08-24T22:08:00+00:00
 url: /2005/08/24/continuing-resolution/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658847817/continuing-resolution
+  - https://jordanmarinvincent.tumblr.com/post/15658847817/continuing-resolution
 tumblr_jordanmarinvincent_id:
   - 15658847817
 tags:

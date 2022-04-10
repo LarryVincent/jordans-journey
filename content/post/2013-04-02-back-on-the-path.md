@@ -5,7 +5,7 @@ type: post
 date: 2013-04-02T14:50:33+00:00
 url: /2013/04/02/back-on-the-path/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/46938219613/back-on-the-path
+  - https://jordanmarinvincent.tumblr.com/post/46938219613/back-on-the-path
 tumblr_jordanmarinvincent_id:
   - 46938219613
 tags:

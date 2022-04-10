@@ -5,7 +5,7 @@ type: post
 date: 2012-04-01T21:52:00+00:00
 url: /2012/04/01/hello-april/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/20310702554/hello-april
+  - https://jordanmarinvincent.tumblr.com/post/20310702554/hello-april
 tumblr_jordanmarinvincent_id:
   - 20310702554
 tags:
@@ -13,7 +13,7 @@ tags:
   - The Big Steps
 
 ---
-<img src="http://farm7.staticflickr.com/6033/7036487507_6c5a7e961c_z.jpg" width="500" />
+<img src="https://farm7.staticflickr.com/6033/7036487507_6c5a7e961c_z.jpg" width="500" />
 
 The sun showers her hair as she leans across the railing of our third floor patio. She rests her head on her hand, with an elbow braced against the iron, and rambles on about a playdate she plans with a new friend. She has quilted me with random observations and anecdotes for the past 20 minutes. Each patch of one-sided conversation is stitched to the next with an obligatory silence. She knows that I have come here to write. She promised not to bother me. And she doesn&rsquo;t &hellip; for a half minute at a time.
 

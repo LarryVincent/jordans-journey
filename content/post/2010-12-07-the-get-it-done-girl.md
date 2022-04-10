@@ -5,7 +5,7 @@ type: post
 date: 2010-12-07T00:59:00+00:00
 url: /2010/12/07/the-get-it-done-girl/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728163451/the-get-it-done-girl
+  - https://jordanmarinvincent.tumblr.com/post/15728163451/the-get-it-done-girl
 tumblr_jordanmarinvincent_id:
   - 15728163451
 tags:

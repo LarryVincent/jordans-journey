@@ -5,7 +5,7 @@ type: post
 date: 2010-02-19T14:45:00+00:00
 url: /2010/02/19/another-nickel/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728123159/another-nickel
+  - https://jordanmarinvincent.tumblr.com/post/15728123159/another-nickel
 tumblr_jordanmarinvincent_id:
   - 15728123159
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.jordanvincent.com/images/2010/02/p_800_600_8C5A5546-68C5-4AB2-B38B-568D58334CAE.jpeg" target="_blank" rel="noopener"><img src="http://media.tumblr.com/tumblr_lyvzbdWJTr1r5aaue.jpg" /></a>
+<a href="https://www.jordanvincent.com/images/2010/02/p_800_600_8C5A5546-68C5-4AB2-B38B-568D58334CAE.jpeg" target="_blank" rel="noopener"><img src="https://media.tumblr.com/tumblr_lyvzbdWJTr1r5aaue.jpg" /></a>
 
 As we approached Children&rsquo;s Hospital this morning, Jordan sighed and said,
 

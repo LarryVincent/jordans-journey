@@ -5,7 +5,7 @@ type: post
 date: 2010-02-14T20:36:00+00:00
 url: /2010/02/14/valentines/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728121482/valentines
+  - https://jordanmarinvincent.tumblr.com/post/15728121482/valentines
 tumblr_jordanmarinvincent_id:
   - 15728121482
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4357378615/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm5.static.flickr.com/4065/4357378615_0b4376c310_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4357378615/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm5.static.flickr.com/4065/4357378615_0b4376c310_m.jpg" alt="" /></a>
 
 Valentines
 

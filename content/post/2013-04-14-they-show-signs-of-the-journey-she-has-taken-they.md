@@ -4,7 +4,7 @@ type: post
 date: 2013-04-14T02:24:19+00:00
 url: /2013/04/14/they-show-signs-of-the-journey-she-has-taken-they/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/47917115673/they-show-signs-of-the-journey-she-has-taken-they
+  - https://jordanmarinvincent.tumblr.com/post/47917115673/they-show-signs-of-the-journey-she-has-taken-they
 tumblr_jordanmarinvincent_id:
   - 47917115673
 tags:

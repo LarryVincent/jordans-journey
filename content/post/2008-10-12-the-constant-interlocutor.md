@@ -5,7 +5,7 @@ type: post
 date: 2008-10-12T06:58:00+00:00
 url: /2008/10/12/the-constant-interlocutor/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659027815/the-constant-interlocutor
+  - https://jordanmarinvincent.tumblr.com/post/15659027815/the-constant-interlocutor
 tumblr_jordanmarinvincent_id:
   - 15659027815
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2934778304/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3233/2934778304_470924b0d4_m.jpg" alt="" style="clear:left;float:right;" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2934778304/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3233/2934778304_470924b0d4_m.jpg" alt="" style="clear:left;float:right;" /></a>
 
 <p style="padding-top:12px;">
   The prey is nearly always caught off guard. They have no reason to suspect an attack. The predator stalks in plain sight&ndash;charming, glowing, smiling. She moseys toward them with a twinkle in her eye and a disarming swagger in her step.

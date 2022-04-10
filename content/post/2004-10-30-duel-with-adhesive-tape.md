@@ -5,7 +5,7 @@ type: post
 date: 2004-10-30T19:44:00+00:00
 url: /2004/10/30/duel-with-adhesive-tape/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658833446/duel-with-adhesive-tape
+  - https://jordanmarinvincent.tumblr.com/post/15658833446/duel-with-adhesive-tape
 tumblr_jordanmarinvincent_id:
   - 15658833446
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2011-06-15T16:10:00+00:00
 url: /2011/06/15/radioactive/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728183989/radioactive
+  - https://jordanmarinvincent.tumblr.com/post/15728183989/radioactive
 tumblr_jordanmarinvincent_id:
   - 15728183989
 tags:
@@ -39,4 +39,4 @@ After the one hour wait was up, Jordan rose and made her way to the scanning tub
 
 I was only too glad to oblige. As her eyes rolled back and her face relaxed, I got a little misty. Even though she&rsquo;s comfortable and far from harm, it&rsquo;s always hard for me to watch her fade away. But I was smiling, too. I&rsquo;ve never known anyone who is as full of life as she. It isn&rsquo;t a radioactive isotope that makes her a superhero. She was like that before.
 
- [1]: http://media.tumblr.com/tumblr_lyvo70vUmN1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvo70vUmN1r5aaue.jpg

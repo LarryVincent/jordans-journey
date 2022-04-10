@@ -5,7 +5,7 @@ type: post
 date: 2004-12-16T19:40:00+00:00
 url: /2004/12/16/rite-of-passage/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658838367/rite-of-passage
+  - https://jordanmarinvincent.tumblr.com/post/15658838367/rite-of-passage
 tumblr_jordanmarinvincent_id:
   - 15658838367
 tags:

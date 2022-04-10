@@ -5,7 +5,7 @@ type: post
 date: 2008-12-31T10:54:00+00:00
 url: /2008/12/31/attention-walmart-shoppers/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659052644/attention-walmart-shoppers
+  - https://jordanmarinvincent.tumblr.com/post/15659052644/attention-walmart-shoppers
 tumblr_jordanmarinvincent_id:
   - 15659052644
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3151175005/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3130/3151175005_70e07ee37a_m.jpg" alt="" /></a>In the midst of an animated conversation on the art of shopping, Jordan snacks on Trader Joes Spanakopita.
+<a href="https://www.flickr.com/photos/larryvincent/3151175005/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3130/3151175005_70e07ee37a_m.jpg" alt="" /></a>In the midst of an animated conversation on the art of shopping, Jordan snacks on Trader Joes Spanakopita.
 
 Jordan sashays into the kitchen, swaggering from hip to hip as she often does. In fairness, her gait is partially out of her control. It&rsquo;s the product of the way her body shifts her weight to compensate for the trouble with her legs. But she takes some joy in the sassy walk. She works it.
 

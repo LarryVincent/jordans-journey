@@ -5,7 +5,7 @@ type: post
 date: 2007-04-16T10:19:00+00:00
 url: /2007/04/16/normality/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658953132/normality
+  - https://jordanmarinvincent.tumblr.com/post/15658953132/normality
 tumblr_jordanmarinvincent_id:
   - 15658953132
 tags:

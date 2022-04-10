@@ -5,7 +5,7 @@ type: post
 date: 2009-06-14T12:44:00+00:00
 url: /2009/06/14/two-strong-women/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659080376/two-strong-women
+  - https://jordanmarinvincent.tumblr.com/post/15659080376/two-strong-women
 tumblr_jordanmarinvincent_id:
   - 15659080376
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3626542744/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2441/3626542744_3e03b1ff12_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3626542744/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2441/3626542744_3e03b1ff12_m.jpg" alt="" /></a>
 
 Two Strong Women
 

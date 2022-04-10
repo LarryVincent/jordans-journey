@@ -5,7 +5,7 @@ type: post
 date: 2012-10-21T02:21:21+00:00
 url: /2012/10/21/youre-just-saying/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/34000111989/youre-just-saying
+  - https://jordanmarinvincent.tumblr.com/post/34000111989/youre-just-saying
 tumblr_jordanmarinvincent_id:
   - 34000111989
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2011-07-18T01:06:00+00:00
 url: /2011/07/18/the-worker/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728187037/the-worker
+  - https://jordanmarinvincent.tumblr.com/post/15728187037/the-worker
 tumblr_jordanmarinvincent_id:
   - 15728187037
 tags:
@@ -23,4 +23,4 @@ Her body is revolting and she has been kidnapped. Each incursion exacts a toll. 
 
 Still, she presses on. At the end of a long day that left her feeling less than herself she insisted on doing her homework. I watched her and could only think to grab my camera. It is moments like these that give me strength, hope, and inspiration. She never accepts a setback. Never.
 
- [1]: http://media.tumblr.com/tumblr_lyvnxilSuC1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvnxilSuC1r5aaue.jpg

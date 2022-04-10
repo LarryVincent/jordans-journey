@@ -5,7 +5,7 @@ type: post
 date: 2009-09-16T12:13:00+00:00
 url: /2009/09/16/girl-unleashed/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659099811/girl-unleashed
+  - https://jordanmarinvincent.tumblr.com/post/15659099811/girl-unleashed
 tumblr_jordanmarinvincent_id:
   - 15659099811
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://farm3.static.flickr.com/2653/3914774296_201ec073d1_m.jpg" target="_blank" rel="noopener"><img loading="lazy" alt="" src="http://farm3.static.flickr.com/2653/3914774296_201ec073d1_m.jpg" class="alignnone" width="159" height="240" /></a>  
+<a href="https://farm3.static.flickr.com/2653/3914774296_201ec073d1_m.jpg" target="_blank" rel="noopener"><img loading="lazy" alt="" src="https://farm3.static.flickr.com/2653/3914774296_201ec073d1_m.jpg" class="alignnone" width="159" height="240" /></a>  
 There were murmurs on the other end of the phone. Before I could finish saying hello, Jordan interrupted me.
 
 &ndash; Daddy, I can stop chemo!

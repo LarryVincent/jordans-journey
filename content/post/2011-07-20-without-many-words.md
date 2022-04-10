@@ -5,7 +5,7 @@ type: post
 date: 2011-07-20T11:35:00+00:00
 url: /2011/07/20/without-many-words/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728187723/without-many-words
+  - https://jordanmarinvincent.tumblr.com/post/15728187723/without-many-words
 tumblr_jordanmarinvincent_id:
   - 15728187723
 tags:

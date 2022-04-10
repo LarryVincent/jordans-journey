@@ -4,7 +4,7 @@ type: post
 date: 2012-03-21T20:11:28+00:00
 url: /2012/03/21/school-bus-was-full-so-they-sent-a-cab-to-pick-up/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/19691239106/school-bus-was-full-so-they-sent-a-cab-to-pick-up
+  - https://jordanmarinvincent.tumblr.com/post/19691239106/school-bus-was-full-so-they-sent-a-cab-to-pick-up
 tumblr_jordanmarinvincent_id:
   - 19691239106
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2009-08-04T07:53:00+00:00
 url: /2009/08/04/notes-on-a-move/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659089957/notes-on-a-move
+  - https://jordanmarinvincent.tumblr.com/post/15659089957/notes-on-a-move
 tumblr_jordanmarinvincent_id:
   - 15659089957
 tags:

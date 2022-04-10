@@ -5,7 +5,7 @@ type: post
 date: 2006-10-17T17:04:00+00:00
 url: /2006/10/17/depth-of-field/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658911539/depth-of-field
+  - https://jordanmarinvincent.tumblr.com/post/15658911539/depth-of-field
 tumblr_jordanmarinvincent_id:
   - 15658911539
 tags:

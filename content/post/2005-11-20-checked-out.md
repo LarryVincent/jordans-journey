@@ -5,7 +5,7 @@ type: post
 date: 2005-11-20T20:34:00+00:00
 url: /2005/11/20/checked-out/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658872425/checked-out
+  - https://jordanmarinvincent.tumblr.com/post/15658872425/checked-out
 tumblr_jordanmarinvincent_id:
   - 15658872425
 tags:

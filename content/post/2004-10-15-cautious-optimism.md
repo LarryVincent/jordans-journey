@@ -5,7 +5,7 @@ type: post
 date: 2004-10-15T19:47:00+00:00
 url: /2004/10/15/cautious-optimism/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658829213/cautious-optimism
+  - https://jordanmarinvincent.tumblr.com/post/15658829213/cautious-optimism
 tumblr_jordanmarinvincent_id:
   - 15658829213
 tags:

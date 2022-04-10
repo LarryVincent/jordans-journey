@@ -5,7 +5,7 @@ type: post
 date: 2011-08-09T01:15:00+00:00
 url: /2011/08/09/the-troubles-of-a-superhuman/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728198729/the-troubles-of-a-superhuman
+  - https://jordanmarinvincent.tumblr.com/post/15728198729/the-troubles-of-a-superhuman
 tumblr_jordanmarinvincent_id:
   - 15728198729
 tags:
@@ -35,4 +35,4 @@ Nurses came in occasionally to check on this or that. One said, &ldquo;I want to
 
 Tomorrow she begins in-patient physical therapy. She&rsquo;ll put her body to the test on an aggressive regimen geared towards making her legs obey her will. That&rsquo;s a tall order, but she&rsquo;s given it before. No one doubts what she&#8217;lll accomplish. Not her doctors or her parents or even her. Still, that&rsquo;s small consolation for a girl who wants to do what all the other girls do. It must be lonely. As much as I&rsquo;m grateful she&rsquo;s superhuman, my greatest wish is that she can be super as an ordinary human.
 
- [1]: http://media.tumblr.com/tumblr_lyud8aYnww1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyud8aYnww1r5aaue.jpg

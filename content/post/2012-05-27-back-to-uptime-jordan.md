@@ -5,7 +5,7 @@ type: post
 date: 2012-05-27T00:58:00+00:00
 url: /2012/05/27/back-to-uptime-jordan/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/23831127119/back-to-uptime-jordan
+  - https://jordanmarinvincent.tumblr.com/post/23831127119/back-to-uptime-jordan
 tumblr_jordanmarinvincent_id:
   - 23831127119
 tags:

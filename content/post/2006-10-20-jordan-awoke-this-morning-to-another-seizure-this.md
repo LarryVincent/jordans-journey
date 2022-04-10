@@ -4,7 +4,7 @@ type: post
 date: 2006-10-20T07:45:00+00:00
 url: /2006/10/20/jordan-awoke-this-morning-to-another-seizure-this/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658917291/jordan-awoke-this-morning-to-another-seizure-this
+  - https://jordanmarinvincent.tumblr.com/post/15658917291/jordan-awoke-this-morning-to-another-seizure-this
 tumblr_jordanmarinvincent_id:
   - 15658917291
 tags:

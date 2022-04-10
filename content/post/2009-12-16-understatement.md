@@ -5,7 +5,7 @@ type: post
 date: 2009-12-16T19:57:00+00:00
 url: /2009/12/16/understatement/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659109196/understatement
+  - https://jordanmarinvincent.tumblr.com/post/15659109196/understatement
 tumblr_jordanmarinvincent_id:
   - 15659109196
 tags:

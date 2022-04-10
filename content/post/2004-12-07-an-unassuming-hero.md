@@ -5,7 +5,7 @@ type: post
 date: 2004-12-07T19:40:00+00:00
 url: /2004/12/07/an-unassuming-hero/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658837482/an-unassuming-hero
+  - https://jordanmarinvincent.tumblr.com/post/15658837482/an-unassuming-hero
 tumblr_jordanmarinvincent_id:
   - 15658837482
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2011-04-20T11:08:00+00:00
 url: /2011/04/20/survey-says/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728179704/survey-says
+  - https://jordanmarinvincent.tumblr.com/post/15728179704/survey-says
 tumblr_jordanmarinvincent_id:
   - 15728179704
 tags:

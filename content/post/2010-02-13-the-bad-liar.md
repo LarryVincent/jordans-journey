@@ -5,7 +5,7 @@ type: post
 date: 2010-02-13T20:32:00+00:00
 url: /2010/02/13/the-bad-liar/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728120813/the-bad-liar
+  - https://jordanmarinvincent.tumblr.com/post/15728120813/the-bad-liar
 tumblr_jordanmarinvincent_id:
   - 15728120813
 tags:

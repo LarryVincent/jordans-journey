@@ -5,7 +5,7 @@ type: post
 date: 2011-02-21T01:09:00+00:00
 url: /2011/02/21/sneak-peek/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728175357/sneak-peek
+  - https://jordanmarinvincent.tumblr.com/post/15728175357/sneak-peek
 tumblr_jordanmarinvincent_id:
   - 15728175357
 tags:
@@ -21,4 +21,4 @@ I&rsquo;m not ready to post a set of photos yet because I&rsquo;m being a neurot
 
 More to come soon&hellip;
 
- [1]: http://media.tumblr.com/tumblr_lyvp2pUsKm1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvp2pUsKm1r5aaue.jpg

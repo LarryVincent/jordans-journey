@@ -5,7 +5,7 @@ type: post
 date: 2005-08-23T19:33:00+00:00
 url: /2005/08/23/vital-signs/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658846732/vital-signs
+  - https://jordanmarinvincent.tumblr.com/post/15658846732/vital-signs
 tumblr_jordanmarinvincent_id:
   - 15658846732
 tags:

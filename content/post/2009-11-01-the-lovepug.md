@@ -5,7 +5,7 @@ type: post
 date: 2009-11-01T19:05:00+00:00
 url: /2009/11/01/the-lovepug/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659102404/the-lovepug
+  - https://jordanmarinvincent.tumblr.com/post/15659102404/the-lovepug
 tumblr_jordanmarinvincent_id:
   - 15659102404
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4067133860/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2484/4067133860_b4406973ac_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4067133860/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2484/4067133860_b4406973ac_m.jpg" alt="" /></a>
 
 The Lovepug
 

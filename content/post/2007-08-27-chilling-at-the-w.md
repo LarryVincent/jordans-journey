@@ -5,7 +5,7 @@ type: post
 date: 2007-08-27T06:53:00+00:00
 url: /2007/08/27/chilling-at-the-w/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658969518/chilling-at-the-w
+  - https://jordanmarinvincent.tumblr.com/post/15658969518/chilling-at-the-w
 tumblr_jordanmarinvincent_id:
   - 15658969518
 tags:

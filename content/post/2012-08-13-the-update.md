@@ -5,7 +5,7 @@ type: post
 date: 2012-08-13T14:41:19+00:00
 url: /2012/08/13/the-update/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/29337518684/the-update
+  - https://jordanmarinvincent.tumblr.com/post/29337518684/the-update
 tumblr_jordanmarinvincent_id:
   - 29337518684
 tags:

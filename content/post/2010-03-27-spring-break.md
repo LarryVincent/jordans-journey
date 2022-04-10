@@ -5,7 +5,7 @@ type: post
 date: 2010-03-27T22:36:00+00:00
 url: /2010/03/27/spring-break/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728129191/spring-break
+  - https://jordanmarinvincent.tumblr.com/post/15728129191/spring-break
 tumblr_jordanmarinvincent_id:
   - 15728129191
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4468015773/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2690/4468015773_68a202897b_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4468015773/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2690/4468015773_68a202897b_m.jpg" alt="" /></a>
 
 Family Affair
 

@@ -4,7 +4,7 @@ type: post
 date: 2012-08-19T03:43:02+00:00
 url: /2012/08/19/last-year-she-had-to-make-do-with-an-impromptu/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/29768944630/last-year-she-had-to-make-do-with-an-impromptu
+  - https://jordanmarinvincent.tumblr.com/post/29768944630/last-year-she-had-to-make-do-with-an-impromptu
 tumblr_jordanmarinvincent_id:
   - 29768944630
 tags:

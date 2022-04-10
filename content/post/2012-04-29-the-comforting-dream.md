@@ -5,7 +5,7 @@ type: post
 date: 2012-04-29T01:02:00+00:00
 url: /2012/04/29/the-comforting-dream/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/22016145346/the-comforting-dream
+  - https://jordanmarinvincent.tumblr.com/post/22016145346/the-comforting-dream
 tumblr_jordanmarinvincent_id:
   - 22016145346
 tags:

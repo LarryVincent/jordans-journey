@@ -4,7 +4,7 @@ type: post
 date: 2006-10-21T08:37:00+00:00
 url: /2006/10/21/jeanette-just-called-from-the-hospital-jordan/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658921067/jeanette-just-called-from-the-hospital-jordan
+  - https://jordanmarinvincent.tumblr.com/post/15658921067/jeanette-just-called-from-the-hospital-jordan
 tumblr_jordanmarinvincent_id:
   - 15658921067
 tags:

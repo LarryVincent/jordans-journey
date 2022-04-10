@@ -5,7 +5,7 @@ type: post
 date: 2006-07-09T16:04:00+00:00
 url: /2006/07/09/scheduled-downtime/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658900176/scheduled-downtime
+  - https://jordanmarinvincent.tumblr.com/post/15658900176/scheduled-downtime
 tumblr_jordanmarinvincent_id:
   - 15658900176
 tags:

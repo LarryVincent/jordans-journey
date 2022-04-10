@@ -5,7 +5,7 @@ type: post
 date: 2008-05-11T17:18:00+00:00
 url: /2008/05/11/dinner-conversation/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659003014/dinner-conversation
+  - https://jordanmarinvincent.tumblr.com/post/15659003014/dinner-conversation
 tumblr_jordanmarinvincent_id:
   - 15659003014
 tags:

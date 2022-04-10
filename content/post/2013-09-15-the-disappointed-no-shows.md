@@ -5,7 +5,7 @@ type: post
 date: 2013-09-15T20:58:00+00:00
 url: /2013/09/15/the-disappointed-no-shows/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/61341784684/the-disappointed-no-shows
+  - https://jordanmarinvincent.tumblr.com/post/61341784684/the-disappointed-no-shows
 tumblr_jordanmarinvincent_id:
   - 61341784684
 tags:
@@ -18,7 +18,7 @@ Today tested our Zen. It began with great disappointment, but as I write this I 
 
 <!-- more -->
 
-Today was the <a title="UTA Million Mile Run Fundraising Page" href="http://www.alexslemonade.org/mypage/116014" target="_blank" rel="noopener">UTA Million Mile Run</a> meetup that Jordan and I organized on behalf of <a title="Alex's Lemonade Stand Foundation (ALSF)" href="http://alexslemonade.org" target="_blank" rel="noopener">Alex’s Lemonade Stand Foundation</a>. When Liz Scott, Alex’s mom and co-founder of ALSF, emailed me and told me that she was planning to launch this inspiring program in September, I immediately committed Jordan and I to the cause. It’s a fantastic idea: people joining together in one month to collectively walk a million miles to show support for all children who are fighting pediatric cancer. Jordan was so inspired that she committed to walk a mile herself. And when I put the word out to my colleagues that we were taking on this challenge, I was overwhelmed by how many of them lined up to walk or run with us. In just two weeks, my UTA family has already raised over $5,000 and logged more than 250 miles. Today, those same colleagues took time out of their Sunday to converge with their families in tow on the park at Page Museum to walk together in solidarity.
+Today was the <a title="UTA Million Mile Run Fundraising Page" href="https://www.alexslemonade.org/mypage/116014" target="_blank" rel="noopener">UTA Million Mile Run</a> meetup that Jordan and I organized on behalf of <a title="Alex's Lemonade Stand Foundation (ALSF)" href="https://alexslemonade.org" target="_blank" rel="noopener">Alex’s Lemonade Stand Foundation</a>. When Liz Scott, Alex’s mom and co-founder of ALSF, emailed me and told me that she was planning to launch this inspiring program in September, I immediately committed Jordan and I to the cause. It’s a fantastic idea: people joining together in one month to collectively walk a million miles to show support for all children who are fighting pediatric cancer. Jordan was so inspired that she committed to walk a mile herself. And when I put the word out to my colleagues that we were taking on this challenge, I was overwhelmed by how many of them lined up to walk or run with us. In just two weeks, my UTA family has already raised over $5,000 and logged more than 250 miles. Today, those same colleagues took time out of their Sunday to converge with their families in tow on the park at Page Museum to walk together in solidarity.
 
 Sadly, we were not able to join them. The Slayer had a massive seizure a few minutes before we arrived at the museum. We were having the nicest conversation and then Jordan said those words that we’d love to abolish.
 
@@ -88,5 +88,5 @@ Kids contributing to help other kids.
 
 That’s what ALSF is all about. It all began with Alex, who setup her very first lemonade stand with a selfless purpose. She wasn’t raising money to fight her own cancer. She was raising money to end cancer for all children. And she kept on doing that until she raised a million dollars on her own before the disease cut short her crusade. We lost a great cancer fighter when Alex passed away, but the greatest tribute to her is the growth of the cause she inspired and led. The spirit behind that cause was alive and thriving at the Park at the Page Museum this morning. Though the Slayer was not able to be part of that effort, we are so proud of our friends and colleagues who came out to show their support. Our family is grateful to them all, and to all of you who read along and support us day in and day out as we keep climbing mountains, led by a girl who knows how to do one thing extraordinarily well: to keep going.
 
- [1]: http://media.tumblr.com/3717f019850a53d5a41f63240efbc12a/tumblr_inline_mt6q1lAzAp1r5aaue.jpg
- [2]: http://media.tumblr.com/53172ddfeb90adbdaf7073add14f0a55/tumblr_inline_mt6q5aUJM61r5aaue.jpg
+ [1]: https://media.tumblr.com/3717f019850a53d5a41f63240efbc12a/tumblr_inline_mt6q1lAzAp1r5aaue.jpg
+ [2]: https://media.tumblr.com/53172ddfeb90adbdaf7073add14f0a55/tumblr_inline_mt6q5aUJM61r5aaue.jpg

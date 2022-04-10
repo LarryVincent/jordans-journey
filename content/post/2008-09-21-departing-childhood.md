@@ -5,7 +5,7 @@ type: post
 date: 2008-09-21T16:34:00+00:00
 url: /2008/09/21/departing-childhood/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659025830/departing-childhood
+  - https://jordanmarinvincent.tumblr.com/post/15659025830/departing-childhood
 tumblr_jordanmarinvincent_id:
   - 15659025830
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2876640727/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3101/2876640727_40606c5f06_m.jpg" alt="" /></a>  
+<a href="https://www.flickr.com/photos/larryvincent/2876640727/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3101/2876640727_40606c5f06_m.jpg" alt="" /></a>  
 Sometimes it is hard to find anything to write about. Jordan&rsquo;s story is blended with crescendos and quiet passages. During the most turbulent times the words pour out of me in my mind&rsquo;s effort to vent, cope and adapt. But during the tranquil moments I struggle to express the emotions. They are no less profound, just harder to express. As I watch Jordan orchestrate her life I am most often silent, introspective and humbled.  
 Tomorrow she begins chemotherapy again. It is a new protocol &ndash; actually a mixture of new and old drugs. She will need to go to the hospital less because half of the protocol uses oral meds. I thought she would be happy about this, but then I forgot that she hates pills. She heaved a heavy sigh, then threw her arms into the air. &ldquo;Well, I guess I&rsquo;ll have to start eating apple sauce again.&rdquo; It was a reference to her penchant for mixing bits of pills into the fruity snack.<a name="more"></a>  
 Jordan has grown very spiritual. She prays. She thumbs through the bible. She likes going to church. She asks questions about god. It makes me very uncomfortable. I am neither religious nor spiritual. When I go to church it&rsquo;s usually because there&rsquo;s a good speaker. Our church is perhaps the most liberal in America (it nearly lost its tax exemption in the 2004 election), and it attracts wonderful thinkers and activists. That&rsquo;s the draw for me. But for Jordan, the attraction is rooted in beliefs. She believes that god listens to her, thinks about her, heals her.  

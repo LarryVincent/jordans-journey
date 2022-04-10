@@ -5,7 +5,7 @@ type: post
 date: 2006-12-26T11:11:00+00:00
 url: /2006/12/26/miracle-girl/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658937088/miracle-girl
+  - https://jordanmarinvincent.tumblr.com/post/15658937088/miracle-girl
 tumblr_jordanmarinvincent_id:
   - 15658937088
 tags:
@@ -40,4 +40,4 @@ I don&rsquo;t know where that puts me with G-d. He and I are anything but square
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-8167774390657764788?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://www.jordanvincent.com/images/2006/12/jordan_recent_1206.jpg
+ [1]: https://www.jordanvincent.com/images/2006/12/jordan_recent_1206.jpg

@@ -5,7 +5,7 @@ type: post
 date: 2005-10-12T18:26:00+00:00
 url: /2005/10/12/blood-drive/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658864699/blood-drive
+  - https://jordanmarinvincent.tumblr.com/post/15658864699/blood-drive
 tumblr_jordanmarinvincent_id:
   - 15658864699
 tags:

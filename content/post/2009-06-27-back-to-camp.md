@@ -5,7 +5,7 @@ type: post
 date: 2009-06-27T19:10:00+00:00
 url: /2009/06/27/back-to-camp/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659084701/back-to-camp
+  - https://jordanmarinvincent.tumblr.com/post/15659084701/back-to-camp
 tumblr_jordanmarinvincent_id:
   - 15659084701
 tags:

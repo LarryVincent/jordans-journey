@@ -5,7 +5,7 @@ type: post
 date: 2005-08-22T19:34:00+00:00
 url: /2005/08/22/rebellion/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658845682/rebellion
+  - https://jordanmarinvincent.tumblr.com/post/15658845682/rebellion
 tumblr_jordanmarinvincent_id:
   - 15658845682
 tags:

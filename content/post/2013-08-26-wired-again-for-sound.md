@@ -5,7 +5,7 @@ type: post
 date: 2013-08-26T20:53:00+00:00
 url: /2013/08/26/wired-again-for-sound/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/59422998325/wired-again-for-sound
+  - https://jordanmarinvincent.tumblr.com/post/59422998325/wired-again-for-sound
 tumblr_jordanmarinvincent_id:
   - 59422998325
 publicize_twitter_user:
@@ -48,9 +48,9 @@ You can see the video of her being monitored in the background. When I left, she
 
 ![image][6]
 
- [1]: http://media.tumblr.com/641d3db34dd0de03db7690f41d901dbe/tumblr_inline_ms5ogquLPf1qz4rgp.jpg
- [2]: http://media.tumblr.com/8eddf3e8a52e566d501ad5a73f2401dd/tumblr_inline_ms5oi5Tj3W1qz4rgp.jpg
- [3]: http://media.tumblr.com/e508b369957dd1ee3f0fd4015c7c31dc/tumblr_inline_ms5oj7q5AC1qz4rgp.jpg
- [4]: http://media.tumblr.com/f1924ddcc21f7b54c1a6a32b2f00abe0/tumblr_inline_ms5ok7pgkE1qz4rgp.jpg
- [5]: http://media.tumblr.com/548a86d6c9783498c227ed3ae70e7392/tumblr_inline_ms5olpUL5w1qz4rgp.jpg
- [6]: http://media.tumblr.com/481a1d11358f07d6e776f96944d40e05/tumblr_inline_ms5on6OMEp1qz4rgp.jpg
+ [1]: https://media.tumblr.com/641d3db34dd0de03db7690f41d901dbe/tumblr_inline_ms5ogquLPf1qz4rgp.jpg
+ [2]: https://media.tumblr.com/8eddf3e8a52e566d501ad5a73f2401dd/tumblr_inline_ms5oi5Tj3W1qz4rgp.jpg
+ [3]: https://media.tumblr.com/e508b369957dd1ee3f0fd4015c7c31dc/tumblr_inline_ms5oj7q5AC1qz4rgp.jpg
+ [4]: https://media.tumblr.com/f1924ddcc21f7b54c1a6a32b2f00abe0/tumblr_inline_ms5ok7pgkE1qz4rgp.jpg
+ [5]: https://media.tumblr.com/548a86d6c9783498c227ed3ae70e7392/tumblr_inline_ms5olpUL5w1qz4rgp.jpg
+ [6]: https://media.tumblr.com/481a1d11358f07d6e776f96944d40e05/tumblr_inline_ms5on6OMEp1qz4rgp.jpg

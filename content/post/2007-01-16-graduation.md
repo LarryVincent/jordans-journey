@@ -5,7 +5,7 @@ type: post
 date: 2007-01-16T20:06:00+00:00
 url: /2007/01/16/graduation/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658946452/graduation
+  - https://jordanmarinvincent.tumblr.com/post/15658946452/graduation
 tumblr_jordanmarinvincent_id:
   - 15658946452
 tags:

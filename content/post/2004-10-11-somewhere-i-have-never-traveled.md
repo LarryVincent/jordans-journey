@@ -5,7 +5,7 @@ type: post
 date: 2004-10-11T19:55:00+00:00
 url: /2004/10/11/somewhere-i-have-never-traveled/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658824392/somewhere-i-have-never-traveled
+  - https://jordanmarinvincent.tumblr.com/post/15658824392/somewhere-i-have-never-traveled
 tumblr_jordanmarinvincent_id:
   - 15658824392
 tags:

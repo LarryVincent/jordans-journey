@@ -5,7 +5,7 @@ type: post
 date: 2005-08-25T21:34:00+00:00
 url: /2005/08/25/the-elephant-in-the-room/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658849297/the-elephant-in-the-room
+  - https://jordanmarinvincent.tumblr.com/post/15658849297/the-elephant-in-the-room
 tumblr_jordanmarinvincent_id:
   - 15658849297
 tags:

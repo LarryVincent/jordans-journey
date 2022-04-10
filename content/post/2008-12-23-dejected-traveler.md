@@ -5,7 +5,7 @@ type: post
 date: 2008-12-23T07:44:00+00:00
 url: /2008/12/23/dejected-traveler/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659051846/dejected-traveler
+  - https://jordanmarinvincent.tumblr.com/post/15659051846/dejected-traveler
 tumblr_jordanmarinvincent_id:
   - 15659051846
 tags:

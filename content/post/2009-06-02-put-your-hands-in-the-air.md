@@ -5,7 +5,7 @@ type: post
 date: 2009-06-02T11:04:00+00:00
 url: /2009/06/02/put-your-hands-in-the-air/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659078474/put-your-hands-in-the-air
+  - https://jordanmarinvincent.tumblr.com/post/15659078474/put-your-hands-in-the-air
 tumblr_jordanmarinvincent_id:
   - 15659078474
 tags:

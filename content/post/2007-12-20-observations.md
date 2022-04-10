@@ -5,7 +5,7 @@ type: post
 date: 2007-12-20T21:35:00+00:00
 url: /2007/12/20/observations/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658977428/observations
+  - https://jordanmarinvincent.tumblr.com/post/15658977428/observations
 tumblr_jordanmarinvincent_id:
   - 15658977428
 tags:
@@ -15,7 +15,7 @@ tags:
 ---
 She has a smile that strikes you when you&rsquo;re in the middle of exhaling and leaves you gasping for air. Sometimes, I watch her and she appears to move in slow motion. The gentle crinkles of her smiling mouth barely change the shape of her face. Her cheeks rise just enough to cast a light without dimming the gracefulness of her piercing eyes. When she smiles, it is with her whole face. It is brilliant.
 
-<a href="http://www.jordanvincent.com/images/2007/12/img_0067_2.jpg" title="CPK" target="_blank" rel="noopener"><img src="http://www.jordanvincent.com/images/2007/12/img_0067_2.jpg" alt="CPK" /></a>
+<a href="https://www.jordanvincent.com/images/2007/12/img_0067_2.jpg" title="CPK" target="_blank" rel="noopener"><img src="https://www.jordanvincent.com/images/2007/12/img_0067_2.jpg" alt="CPK" /></a>
 
 I watched her tonight, as our whole family camped in a booth at our local California Pizza Kitchen. We joked and laughed and played sport with one another. Occasionally, I&rsquo;d glance over and watch my daughter. She loves her family. She loves these times. It shows. She radiates, eager to giggle. She is the warmest person I&rsquo;ve ever known: living and loving with an enthusiasm that draws you in and gives you new life.
 

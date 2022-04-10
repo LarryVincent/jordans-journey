@@ -5,7 +5,7 @@ type: post
 date: 2010-10-23T00:23:00+00:00
 url: /2010/10/23/hangin-with-dr-feelgood/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728155388/hangin-with-dr-feelgood
+  - https://jordanmarinvincent.tumblr.com/post/15728155388/hangin-with-dr-feelgood
 tumblr_jordanmarinvincent_id:
   - 15728155388
 tags:
@@ -39,4 +39,4 @@ While at CHLA, Jordan had a mild seizure. She had another today. Each was less s
   <img loading="lazy" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-97323291300768591?l=jordansjourney2.blogspot.com" alt="" width="1" height="1" />
 </div>
 
- [1]: http://media.tumblr.com/tumblr_lyvq5bttas1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvq5bttas1r5aaue.jpg

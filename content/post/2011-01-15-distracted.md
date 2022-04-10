@@ -5,7 +5,7 @@ type: post
 date: 2011-01-15T22:55:00+00:00
 url: /2011/01/15/distracted/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728169792/distracted
+  - https://jordanmarinvincent.tumblr.com/post/15728169792/distracted
 tumblr_jordanmarinvincent_id:
   - 15728169792
 tags:

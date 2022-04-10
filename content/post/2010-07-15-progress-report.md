@@ -5,7 +5,7 @@ type: post
 date: 2010-07-15T12:46:00+00:00
 url: /2010/07/15/progress-report/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728141065/progress-report
+  - https://jordanmarinvincent.tumblr.com/post/15728141065/progress-report
 tumblr_jordanmarinvincent_id:
   - 15728141065
 tags:

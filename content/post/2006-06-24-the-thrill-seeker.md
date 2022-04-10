@@ -5,7 +5,7 @@ type: post
 date: 2006-06-24T08:08:00+00:00
 url: /2006/06/24/the-thrill-seeker/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658898137/the-thrill-seeker
+  - https://jordanmarinvincent.tumblr.com/post/15658898137/the-thrill-seeker
 tumblr_jordanmarinvincent_id:
   - 15658898137
 tags:
@@ -27,4 +27,4 @@ Enter Jordan the adventurer. She&rsquo;s my young Mame. She lives the phrase, &l
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-8527716893760594530?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://jordanvincent.com/images/2006/06/100_3019_2.jpg
+ [1]: https://jordanvincent.com/images/2006/06/100_3019_2.jpg

@@ -8,7 +8,6 @@ theme = "blank"
     description = "The story of Jordan Vincent, cancer slayer."
     dateFormatToUse = "2006-01-02"
 	mainSections = ['post']
-	lv_stat = 1
 
 [menu]
 [[menu.main]]

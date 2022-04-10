@@ -5,7 +5,7 @@ type: post
 date: 2006-11-05T15:19:00+00:00
 url: /2006/11/05/aurora-jordan/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658934342/aurora-jordan
+  - https://jordanmarinvincent.tumblr.com/post/15658934342/aurora-jordan
 tumblr_jordanmarinvincent_id:
   - 15658934342
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2004-10-11T19:54:00+00:00
 url: /2004/10/11/back-to-the-4th-floor-at-last/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658823332/back-to-the-4th-floor-at-last
+  - https://jordanmarinvincent.tumblr.com/post/15658823332/back-to-the-4th-floor-at-last
 tumblr_jordanmarinvincent_id:
   - 15658823332
 tags:

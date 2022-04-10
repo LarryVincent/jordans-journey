@@ -5,7 +5,7 @@ type: post
 date: 2007-11-03T08:54:00+00:00
 url: /2007/11/03/to-dodge-a-curse/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658972318/to-dodge-a-curse
+  - https://jordanmarinvincent.tumblr.com/post/15658972318/to-dodge-a-curse
 tumblr_jordanmarinvincent_id:
   - 15658972318
 tags:

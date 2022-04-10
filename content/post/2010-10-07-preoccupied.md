@@ -5,7 +5,7 @@ type: post
 date: 2010-10-07T23:44:00+00:00
 url: /2010/10/07/preoccupied/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728151682/preoccupied
+  - https://jordanmarinvincent.tumblr.com/post/15728151682/preoccupied
 tumblr_jordanmarinvincent_id:
   - 15728151682
 tags:

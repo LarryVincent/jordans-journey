@@ -4,7 +4,7 @@ type: post
 date: 2006-10-23T20:18:00+00:00
 url: /2006/10/23/the-test-went-well-she-was-actually-awake-during/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658925754/the-test-went-well-she-was-actually-awake-during
+  - https://jordanmarinvincent.tumblr.com/post/15658925754/the-test-went-well-she-was-actually-awake-during
 tumblr_jordanmarinvincent_id:
   - 15658925754
 tags:

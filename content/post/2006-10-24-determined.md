@@ -5,7 +5,7 @@ type: post
 date: 2006-10-24T20:46:00+00:00
 url: /2006/10/24/determined/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658926595/determined
+  - https://jordanmarinvincent.tumblr.com/post/15658926595/determined
 tumblr_jordanmarinvincent_id:
   - 15658926595
 tags:

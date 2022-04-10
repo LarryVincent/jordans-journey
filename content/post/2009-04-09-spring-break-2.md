@@ -5,7 +5,7 @@ type: post
 date: 2009-04-09T15:42:00+00:00
 url: /2009/04/09/spring-break-2/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659071975/spring-break
+  - https://jordanmarinvincent.tumblr.com/post/15659071975/spring-break
 tumblr_jordanmarinvincent_id:
   - 15659071975
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3393852790/" title="La Dolce Vita by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="http://farm4.static.flickr.com/3466/3393852790_79035d3a80_m.jpg" width="240" height="159" alt="La Dolce Vita" /></a>  
+<a href="https://www.flickr.com/photos/larryvincent/3393852790/" title="La Dolce Vita by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="https://farm4.static.flickr.com/3466/3393852790_79035d3a80_m.jpg" width="240" height="159" alt="La Dolce Vita" /></a>  
 Jordan enjoyed Spring Break this week. Frankly, I think she had too much time on her hands, but it didn&rsquo;t stop her from lamenting about Spring Break coming to an end. But she was particularly sweet on Tuesday &ndash; my birthday. She took my picture to put on a card for Sprout Online. They have a contest for birthdays. I posed patiently.
 
 &ndash; Dad, smile more. Look excited.  

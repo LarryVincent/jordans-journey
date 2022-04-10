@@ -5,7 +5,7 @@ type: post
 date: 2009-06-21T12:17:00+00:00
 url: /2009/06/21/a-random-lament/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659081226/a-random-lament
+  - https://jordanmarinvincent.tumblr.com/post/15659081226/a-random-lament
 tumblr_jordanmarinvincent_id:
   - 15659081226
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3647423325/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2447/3647423325_5f84e7a49e_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3647423325/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2447/3647423325_5f84e7a49e_m.jpg" alt="" /></a>
 
 Jordan, The Persistent
 

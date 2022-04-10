@@ -5,14 +5,14 @@ type: post
 date: 2013-08-30T17:51:00+00:00
 url: /2013/08/30/summer-dream/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/59787457383/summer-dream
+  - https://jordanmarinvincent.tumblr.com/post/59787457383/summer-dream
 tumblr_jordanmarinvincent_id:
   - 59787457383
 tags:
   - Journey
 
 ---
-<small style="color:#999999;">Photo Credit: <a title="Beach Shoes" style="color:#999999;" href="http://www.flickr.com/photos/doug88888/3699056198/in/photolist-6CSCx1-5TCz6T-71R7E8-4R7N56-7Vq2Lk-5ckkh4-5ppxTV-FpQn1-cxcCyA-eJKsg-w47Fn-dKv2gW-6KLZcM-bhr4cx-bhqByt-67kGpp-5RBe3n-cd6Wzj-7ZJFx7-5fJND3-9PUpZq-764S-72ug-uh1qG-5Naehi-Mi216-EK5RY-72djjZ-7r9Z7h-9i8pgW-4tre1H-baAwRV-7TYnpy-6X1BMN-6yX5dG-7dPhJm-9RTn2G-6VXyoz-7yGf3Z-iiFXr-4rsUNh-6ydfVF-8KvQpN-jsTGi-6nqoDr-5UQGQ6-9EqCe3-7tvhrr-dRK8WD-7KNzvn-boymHK/" target="_blank" rel="noopener">Beach Shoes by Doug8888 on Flickr</a></small>
+<small style="color:#999999;">Photo Credit: <a title="Beach Shoes" style="color:#999999;" href="https://www.flickr.com/photos/doug88888/3699056198/in/photolist-6CSCx1-5TCz6T-71R7E8-4R7N56-7Vq2Lk-5ckkh4-5ppxTV-FpQn1-cxcCyA-eJKsg-w47Fn-dKv2gW-6KLZcM-bhr4cx-bhqByt-67kGpp-5RBe3n-cd6Wzj-7ZJFx7-5fJND3-9PUpZq-764S-72ug-uh1qG-5Naehi-Mi216-EK5RY-72djjZ-7r9Z7h-9i8pgW-4tre1H-baAwRV-7TYnpy-6X1BMN-6yX5dG-7dPhJm-9RTn2G-6VXyoz-7yGf3Z-iiFXr-4rsUNh-6ydfVF-8KvQpN-jsTGi-6nqoDr-5UQGQ6-9EqCe3-7tvhrr-dRK8WD-7KNzvn-boymHK/" target="_blank" rel="noopener">Beach Shoes by Doug8888 on Flickr</a></small>
 
 I stopped sleeping on my own about seven years ago. This confession makes me squirm. I feel a shame in it, like I’m some kind of addict coming out to the world. I became an insomniac during a particularly difficult step in Jordan’s Journey; during some of the worst regimens of chemotherapy and frequent hospitalizations. It was so long ago, it’s hard for me to remember how small she was back then. She was only seven. She still had the same fierce will of the warrior we know and love.<!--more-->
 

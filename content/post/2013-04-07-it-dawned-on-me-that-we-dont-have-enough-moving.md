@@ -4,7 +4,7 @@ type: post
 date: 2013-04-07T23:34:36+00:00
 url: /2013/04/07/it-dawned-on-me-that-we-dont-have-enough-moving/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/47410344403/it-dawned-on-me-that-we-dont-have-enough-moving
+  - https://jordanmarinvincent.tumblr.com/post/47410344403/it-dawned-on-me-that-we-dont-have-enough-moving
 tumblr_jordanmarinvincent_id:
   - 47410344403
 tags:

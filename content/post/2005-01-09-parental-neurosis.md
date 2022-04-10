@@ -5,7 +5,7 @@ type: post
 date: 2005-01-09T19:39:00+00:00
 url: /2005/01/09/parental-neurosis/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658839586/parental-neurosis
+  - https://jordanmarinvincent.tumblr.com/post/15658839586/parental-neurosis
 tumblr_jordanmarinvincent_id:
   - 15658839586
 tags:

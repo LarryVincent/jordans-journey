@@ -5,7 +5,7 @@ type: post
 date: 2007-05-18T15:12:00+00:00
 url: /2007/05/18/glimpses-of-the-girl/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658959137/glimpses-of-the-girl
+  - https://jordanmarinvincent.tumblr.com/post/15658959137/glimpses-of-the-girl
 tumblr_jordanmarinvincent_id:
   - 15658959137
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2009-01-29T21:42:00+00:00
 url: /2009/01/29/no-rest-for-the-weary/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659058123/no-rest-for-the-weary
+  - https://jordanmarinvincent.tumblr.com/post/15659058123/no-rest-for-the-weary
 tumblr_jordanmarinvincent_id:
   - 15659058123
 tags:

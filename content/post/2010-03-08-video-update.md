@@ -5,7 +5,7 @@ type: post
 date: 2010-03-08T10:45:00+00:00
 url: /2010/03/08/video-update/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728125151/video-update
+  - https://jordanmarinvincent.tumblr.com/post/15728125151/video-update
 tumblr_jordanmarinvincent_id:
   - 15728125151
 tags:

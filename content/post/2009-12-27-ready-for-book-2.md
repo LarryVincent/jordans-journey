@@ -5,7 +5,7 @@ type: post
 date: 2009-12-27T20:14:00+00:00
 url: /2009/12/27/ready-for-book-2/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659111501/ready-for-book-2
+  - https://jordanmarinvincent.tumblr.com/post/15659111501/ready-for-book-2
 tumblr_jordanmarinvincent_id:
   - 15659111501
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4219292339/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm5.static.flickr.com/4071/4219292339_839dde407e_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4219292339/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm5.static.flickr.com/4071/4219292339_839dde407e_m.jpg" alt="" /></a>
 
 Modeling Clothes is Fun!
 

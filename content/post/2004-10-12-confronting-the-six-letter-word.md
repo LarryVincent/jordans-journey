@@ -5,7 +5,7 @@ type: post
 date: 2004-10-12T19:48:00+00:00
 url: /2004/10/12/confronting-the-six-letter-word/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658828313/confronting-the-six-letter-word
+  - https://jordanmarinvincent.tumblr.com/post/15658828313/confronting-the-six-letter-word
 tumblr_jordanmarinvincent_id:
   - 15658828313
 tags:

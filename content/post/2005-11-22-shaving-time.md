@@ -5,7 +5,7 @@ type: post
 date: 2005-11-22T10:27:00+00:00
 url: /2005/11/22/shaving-time/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658873340/shaving-time
+  - https://jordanmarinvincent.tumblr.com/post/15658873340/shaving-time
 tumblr_jordanmarinvincent_id:
   - 15658873340
 tags:
@@ -40,7 +40,7 @@ Business travel has its benefits. As a result of my loyalty to the Starwood hote
 
 Next week Jordan gets another MRI. We’ll cross our fingers in hope that the chemotherapy is beginning to do its job. It has affected so much of her body, it seems natural that it should also affect the tumor. But we fear the prospect of disappointing news. It’s a slow process. While Jordan fights the disease with verve and sass, we must be grateful for our time together and celebrate her perseverance.
 
-It’s time for my annual thanksgiving appeal. Cancer treatment has come a long way. Only a few years ago, a child like Jordan would face a far more daunting prognosis. Thanks to the efforts of researchers and scientists around the world, we can help Jordan enjoy her childhood and speak about her future. But more work is needed. We need drugs and therapies that can improve the quality of life for children afflicted by cancer. Please join our family in supporting worthy causes such as the <a href="http://www.laf.org" target="_blank" rel="noopener">Lance Armstrong Foundation</a> and <a href="http://www.childrenshospitalla.org/body.cfm?id=9" target="_blank" rel="noopener">Children’s Hospital Los Angeles</a>. Thank you.
+It’s time for my annual thanksgiving appeal. Cancer treatment has come a long way. Only a few years ago, a child like Jordan would face a far more daunting prognosis. Thanks to the efforts of researchers and scientists around the world, we can help Jordan enjoy her childhood and speak about her future. But more work is needed. We need drugs and therapies that can improve the quality of life for children afflicted by cancer. Please join our family in supporting worthy causes such as the <a href="https://www.laf.org" target="_blank" rel="noopener">Lance Armstrong Foundation</a> and <a href="https://www.childrenshospitalla.org/body.cfm?id=9" target="_blank" rel="noopener">Children’s Hospital Los Angeles</a>. Thank you.
 
 <div class="blogger-post-footer">
   <img loading="lazy" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-532836746157925694?l=jordansjourney2.blogspot.com" alt="" width="1" height="1" />

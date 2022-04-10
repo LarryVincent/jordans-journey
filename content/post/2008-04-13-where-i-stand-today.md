@@ -5,7 +5,7 @@ type: post
 date: 2008-04-13T13:53:00+00:00
 url: /2008/04/13/where-i-stand-today/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658996856/where-i-stand-today
+  - https://jordanmarinvincent.tumblr.com/post/15658996856/where-i-stand-today
 tumblr_jordanmarinvincent_id:
   - 15658996856
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2411735212/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3177/2411735212_70585e38a3_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2411735212/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3177/2411735212_70585e38a3_m.jpg" alt="" /></a>
 
 **Jordan Portrait**
 

@@ -5,7 +5,7 @@ type: post
 date: 2005-03-17T19:36:00+00:00
 url: /2005/03/17/so-you-know/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658843224/so-you-know
+  - https://jordanmarinvincent.tumblr.com/post/15658843224/so-you-know
 tumblr_jordanmarinvincent_id:
   - 15658843224
 tags:

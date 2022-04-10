@@ -5,7 +5,7 @@ type: post
 date: 2008-05-13T19:29:00+00:00
 url: /2008/05/13/apprehensive/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659003854/apprehensive
+  - https://jordanmarinvincent.tumblr.com/post/15659003854/apprehensive
 tumblr_jordanmarinvincent_id:
   - 15659003854
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2485199478/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3111/2485199478_33622bd171_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2485199478/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3111/2485199478_33622bd171_m.jpg" alt="" /></a>
 
 Jordan and Luc help Jeanette celebrate Mother&rsquo;s Day
 

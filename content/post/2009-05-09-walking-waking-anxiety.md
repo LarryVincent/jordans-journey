@@ -5,7 +5,7 @@ type: post
 date: 2009-05-09T09:03:00+00:00
 url: /2009/05/09/walking-waking-anxiety/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659074673/walking-waking-anxiety
+  - https://jordanmarinvincent.tumblr.com/post/15659074673/walking-waking-anxiety
 tumblr_jordanmarinvincent_id:
   - 15659074673
 tags:
@@ -14,7 +14,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3516141909/" title="Jordan and the Brushing Ritual by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="http://farm4.static.flickr.com/3417/3516141909_0638547548_m.jpg" width="240" height="159" alt="Jordan and the Brushing Ritual" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3516141909/" title="Jordan and the Brushing Ritual by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="https://farm4.static.flickr.com/3417/3516141909_0638547548_m.jpg" width="240" height="159" alt="Jordan and the Brushing Ritual" /></a>
 
 She rubs the underside of her fingers across the top of her hand. Her hands are in constant motion. They move nervously around themselves, tapping and scratching, grasping it seems for comforting reassurance. Her eyes are drawn off and focused elsewhere in the room. She is unaware of her fidgeting fingers.
 

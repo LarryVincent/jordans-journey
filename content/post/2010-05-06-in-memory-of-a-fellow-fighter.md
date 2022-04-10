@@ -5,7 +5,7 @@ type: post
 date: 2010-05-06T15:50:00+00:00
 url: /2010/05/06/in-memory-of-a-fellow-fighter/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728131665/in-memory-of-a-fellow-fighter
+  - https://jordanmarinvincent.tumblr.com/post/15728131665/in-memory-of-a-fellow-fighter
 tumblr_jordanmarinvincent_id:
   - 15728131665
 tags:
@@ -13,9 +13,9 @@ tags:
   - the journey
 
 ---
-This morning, at 10:45 am, <a href="http://bit.ly/bFR8Ab" target="_blank" rel="noopener">Luke Jensen</a> passed away after a three-year battle with leukemia. He was nine years old.
+This morning, at 10:45 am, <a href="https://bit.ly/bFR8Ab" target="_blank" rel="noopener">Luke Jensen</a> passed away after a three-year battle with leukemia. He was nine years old.
 
-We didn’t really know Luke or his family very well. His parents uploaded photos to a Flickr photo group where I have often posted pictures of Jordan. Years ago, I wrote about <a href="http://www.jordanvincent.com/2004/11/16/the-secret-society/" target="_blank" rel="noopener">The Secret Society</a>–the community that you discover all around you when you learn that your child has cancer. When you’re a member of the society, you sometimes feel a compelling, unexpected need to connect with total strangers. In the <a href="http://www.flickr.com/photos/chimmichunga/2973900288/in/pool-95489120@N00" target="_blank" rel="noopener">first picture</a> I saw of Luke, I was struck by his powerful blue eyes and puckish grin. I read about his first triumphant battle with cancer, and felt a connection with his family. I wrote to his parents and we shared anecdotes about our amazing cancer fighters. I shared his story with Jordan, who asked to see his picture and commented about how handsome he was. When she learned that he lived in Portland, Oregon, she suggested that we might meet him on a future trip to visit my family.
+We didn’t really know Luke or his family very well. His parents uploaded photos to a Flickr photo group where I have often posted pictures of Jordan. Years ago, I wrote about <a href="https://www.jordanvincent.com/2004/11/16/the-secret-society/" target="_blank" rel="noopener">The Secret Society</a>–the community that you discover all around you when you learn that your child has cancer. When you’re a member of the society, you sometimes feel a compelling, unexpected need to connect with total strangers. In the <a href="https://www.flickr.com/photos/chimmichunga/2973900288/in/pool-95489120@N00" target="_blank" rel="noopener">first picture</a> I saw of Luke, I was struck by his powerful blue eyes and puckish grin. I read about his first triumphant battle with cancer, and felt a connection with his family. I wrote to his parents and we shared anecdotes about our amazing cancer fighters. I shared his story with Jordan, who asked to see his picture and commented about how handsome he was. When she learned that he lived in Portland, Oregon, she suggested that we might meet him on a future trip to visit my family.
 
 When Luke relapsed last year, I followed his story with every post from his mom and dad. They wrote from the heart, with great optimism and faith, even on the days when cancer threw dirty punches. Through it all, they told a story of a remarkable boy who persevered and fought bravely.
 

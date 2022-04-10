@@ -5,7 +5,7 @@ type: post
 date: 2011-12-04T23:31:00+00:00
 url: /2011/12/04/the-napper/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728213167/the-napper
+  - https://jordanmarinvincent.tumblr.com/post/15728213167/the-napper
 tumblr_jordanmarinvincent_id:
   - 15728213167
 tags:
@@ -33,4 +33,4 @@ even when it rests in a blissful sleep, just pressing close to mine.
 
 Nothing comes close to this. Nothing.
 
- [1]: http://media.tumblr.com/tumblr_lyu8qq1DzU1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyu8qq1DzU1r5aaue.jpg

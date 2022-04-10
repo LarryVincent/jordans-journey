@@ -5,7 +5,7 @@ type: post
 date: 2012-03-24T23:22:00+00:00
 url: /2012/03/24/chaotically-unpredictable/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/19860588364/chaotically-unpredictable
+  - https://jordanmarinvincent.tumblr.com/post/19860588364/chaotically-unpredictable
 tumblr_jordanmarinvincent_id:
   - 19860588364
 tags:
@@ -49,4 +49,4 @@ I step away and Jeanette helps Jordan dress. By the time I return to her room sh
 
 15 minutes later I pay her another visit and find her exactly as I expect. She has rolled over to one side curled up in a ball on her bed, covered with her favorite blanket. She is sound asleep. The only thing we can reliably predict when her neural network reboots is that she will turn all the other systems off to complete the reset. She sleeps for several hours. When she wakes, it is as if nothing happened at all &hellip; and she remembers nothing.
 
- [1]: http://media.tumblr.com/tumblr_m1ewt2kf9r1r5aaue.png
+ [1]: https://media.tumblr.com/tumblr_m1ewt2kf9r1r5aaue.png

@@ -5,7 +5,7 @@ type: post
 date: 2015-01-31T18:31:00+00:00
 url: /2015/01/31/sideroads/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/109690956356/sideroads
+  - https://jordanmarinvincent.tumblr.com/post/109690956356/sideroads
 tumblr_jordanmarinvincent_id:
   - 109690956356
 tags:

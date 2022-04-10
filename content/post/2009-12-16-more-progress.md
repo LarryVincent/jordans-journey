@@ -5,7 +5,7 @@ type: post
 date: 2009-12-16T16:54:00+00:00
 url: /2009/12/16/more-progress/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659108294/more-progress
+  - https://jordanmarinvincent.tumblr.com/post/15659108294/more-progress
 tumblr_jordanmarinvincent_id:
   - 15659108294
 tags:

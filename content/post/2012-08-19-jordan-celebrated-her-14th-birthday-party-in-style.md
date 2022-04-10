@@ -4,7 +4,7 @@ type: post
 date: 2012-08-19T18:24:53+00:00
 url: /2012/08/19/jordan-celebrated-her-14th-birthday-party-in-style/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/29769674051/jordan-celebrated-her-14th-birthday-party-in-style
+  - https://jordanmarinvincent.tumblr.com/post/29769674051/jordan-celebrated-her-14th-birthday-party-in-style
 tumblr_jordanmarinvincent_id:
   - 29769674051
 tags:

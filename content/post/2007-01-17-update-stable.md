@@ -5,7 +5,7 @@ type: post
 date: 2007-01-17T17:22:00+00:00
 url: /2007/01/17/update-stable/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658947524/update-stable
+  - https://jordanmarinvincent.tumblr.com/post/15658947524/update-stable
 tumblr_jordanmarinvincent_id:
   - 15658947524
 tags:

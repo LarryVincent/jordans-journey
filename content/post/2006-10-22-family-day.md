@@ -5,7 +5,7 @@ type: post
 date: 2006-10-22T18:05:00+00:00
 url: /2006/10/22/family-day/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658922888/family-day
+  - https://jordanmarinvincent.tumblr.com/post/15658922888/family-day
 tumblr_jordanmarinvincent_id:
   - 15658922888
 tags:
@@ -53,4 +53,4 @@ Then I leaned in and quoted a line from one of her favorite books. I said, &ldqu
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-1262704481594646157?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://jordanvincent.com/images/2006/10/smile.jpg
+ [1]: https://jordanvincent.com/images/2006/10/smile.jpg

@@ -5,7 +5,7 @@ type: post
 date: 2009-05-17T09:02:00+00:00
 url: /2009/05/17/enterprise/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659076525/enterprise
+  - https://jordanmarinvincent.tumblr.com/post/15659076525/enterprise
 tumblr_jordanmarinvincent_id:
   - 15659076525
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2008-03-08T15:52:00+00:00
 url: /2008/03/08/first-blush/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658988211/first-blush
+  - https://jordanmarinvincent.tumblr.com/post/15658988211/first-blush
 tumblr_jordanmarinvincent_id:
   - 15658988211
 tags:

@@ -5,14 +5,14 @@ type: post
 date: 2013-01-03T23:32:12+00:00
 url: /2013/01/03/january-guest-photographer-of-the-month-jordan-2/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/39603800014/january-guest-photographer-of-the-month-jordan
+  - https://jordanmarinvincent.tumblr.com/post/39603800014/january-guest-photographer-of-the-month-jordan
 tumblr_jordanmarinvincent_id:
   - 39603800014
 tags:
   - Journey
 
 ---
-<a href="http://pabloveshutterbugs.tumblr.com/post/39579756368/january-guest-photographer-of-the-month-jordan-vincent" class="tumblr_blog" target="_blank" rel="noopener">pabloveshutterbugs</a>:
+<a href="https://pabloveshutterbugs.tumblr.com/post/39579756368/january-guest-photographer-of-the-month-jordan-vincent" class="tumblr_blog" target="_blank" rel="noopener">pabloveshutterbugs</a>:
 
 >![image][1] 
 > 
@@ -30,10 +30,10 @@ tags:
 > 
 > February 4th, 2011, Los Angeles, CA
 > 
-> <a href="http://www.jordanvincent.com" title="Jordan Vincent" target="_self" rel="noopener">Jordan Vincent</a> is a photographer, a Pablove Shutterbug alumni, and a cancer slayer.
+> <a href="https://www.jordanvincent.com" title="Jordan Vincent" target="_self" rel="noopener">Jordan Vincent</a> is a photographer, a Pablove Shutterbug alumni, and a cancer slayer.
 > 
 > She lives in Los Angeles.
 
 One of my photos was featured on the Pablove Shutterbugs blog today.
 
- [1]: http://media.tumblr.com/3f836030698e9e731ffc3421addbeb76/tumblr_inline_mg2b9gzne51r3lsam.jpg
+ [1]: https://media.tumblr.com/3f836030698e9e731ffc3421addbeb76/tumblr_inline_mg2b9gzne51r3lsam.jpg

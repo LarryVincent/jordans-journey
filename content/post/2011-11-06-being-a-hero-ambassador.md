@@ -5,7 +5,7 @@ type: post
 date: 2011-11-06T20:45:00+00:00
 url: /2011/11/06/being-a-hero-ambassador/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728208796/being-a-hero-ambassador
+  - https://jordanmarinvincent.tumblr.com/post/15728208796/being-a-hero-ambassador
 tumblr_jordanmarinvincent_id:
   - 15728208796
 tags:
@@ -73,4 +73,4 @@ Alex&rsquo;s Lemonade Stand Foundation is one of our favorite causes because it 
 
 And now, I&rsquo;d like to introduce you to my slayer&hellip;
 
- [1]: http://media.tumblr.com/tumblr_lyua92A4OC1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyua92A4OC1r5aaue.jpg

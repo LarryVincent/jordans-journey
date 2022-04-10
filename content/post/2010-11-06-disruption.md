@@ -5,7 +5,7 @@ type: post
 date: 2010-11-06T18:11:00+00:00
 url: /2010/11/06/disruption/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728160076/disruption
+  - https://jordanmarinvincent.tumblr.com/post/15728160076/disruption
 tumblr_jordanmarinvincent_id:
   - 15728160076
 tags:

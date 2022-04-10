@@ -5,7 +5,7 @@ type: post
 date: 2006-10-18T08:12:00+00:00
 url: /2006/10/18/no-surgery-for-now/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658914586/no-surgery-for-now
+  - https://jordanmarinvincent.tumblr.com/post/15658914586/no-surgery-for-now
 tumblr_jordanmarinvincent_id:
   - 15658914586
 tags:

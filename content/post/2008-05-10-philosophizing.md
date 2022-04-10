@@ -5,7 +5,7 @@ type: post
 date: 2008-05-10T11:18:00+00:00
 url: /2008/05/10/philosophizing/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659001160/philosophizing
+  - https://jordanmarinvincent.tumblr.com/post/15659001160/philosophizing
 tumblr_jordanmarinvincent_id:
   - 15659001160
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2481275846/" title="photo sharing" target="_blank" rel="noopener"><img class="right" src="http://farm4.static.flickr.com/3267/2481275846_4d76229018_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2481275846/" title="photo sharing" target="_blank" rel="noopener"><img class="right" src="https://farm4.static.flickr.com/3267/2481275846_4d76229018_m.jpg" alt="" /></a>
 
 Jordan, in one of her contemplative states
 

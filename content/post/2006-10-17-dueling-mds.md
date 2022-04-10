@@ -5,7 +5,7 @@ type: post
 date: 2006-10-17T18:08:00+00:00
 url: /2006/10/17/dueling-mds/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658912708/dueling-mds
+  - https://jordanmarinvincent.tumblr.com/post/15658912708/dueling-mds
 tumblr_jordanmarinvincent_id:
   - 15658912708
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2012-04-26T05:47:00+00:00
 url: /2012/04/26/tripped-up/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/21836378193/tripped-up
+  - https://jordanmarinvincent.tumblr.com/post/21836378193/tripped-up
 tumblr_jordanmarinvincent_id:
   - 21836378193
 tags:

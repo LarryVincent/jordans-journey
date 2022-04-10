@@ -6,7 +6,7 @@ date: 2012-05-13T18:09:09+00:00
 draft: true
 url: /?p=616
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/22982595902/the-home-stretch
+  - https://jordanmarinvincent.tumblr.com/post/22982595902/the-home-stretch
 tumblr_jordanmarinvincent_id:
   - 22982595902
 tags:

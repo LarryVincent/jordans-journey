@@ -5,7 +5,7 @@ type: post
 date: 2008-09-13T10:34:00+00:00
 url: /2008/09/13/love-mails/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659024803/love-mails
+  - https://jordanmarinvincent.tumblr.com/post/15659024803/love-mails
 tumblr_jordanmarinvincent_id:
   - 15659024803
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2783115968/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3260/2783115968_1607c8ef63_m.jpg" alt="Jordan leaves a message for her Auntie Lisa" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2783115968/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3260/2783115968_1607c8ef63_m.jpg" alt="Jordan leaves a message for her Auntie Lisa" /></a>
 
 <p style="padding-top:12px;">
   Ever since Luc received a cell phone on his 10th birthday, Jordan has pestered us for a phone of her own. She reminded us nearly every day in the months leading up to her birthday in August. When it arrived, we didn&rsquo;t have to think very hard about what to get her. She says her phone is one of the best gifts she&rsquo;s ever received. She connects with her friends and family every day.

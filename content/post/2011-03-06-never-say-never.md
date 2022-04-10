@@ -5,7 +5,7 @@ type: post
 date: 2011-03-06T17:28:00+00:00
 url: /2011/03/06/never-say-never/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728177618/never-say-never
+  - https://jordanmarinvincent.tumblr.com/post/15728177618/never-say-never
 tumblr_jordanmarinvincent_id:
   - 15728177618
 tags:

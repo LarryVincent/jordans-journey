@@ -5,7 +5,7 @@ type: post
 date: 2015-05-03T20:31:30+00:00
 url: /2015/05/03/the-slayers-ride/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/118052704171/the-slayers-ride
+  - https://jordanmarinvincent.tumblr.com/post/118052704171/the-slayers-ride
 tumblr_jordanmarinvincent_id:
   - 118052704171
 tags:

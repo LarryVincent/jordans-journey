@@ -5,7 +5,7 @@ type: post
 date: 2008-03-29T19:21:00+00:00
 url: /2008/03/29/lounging-with-jordan/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658992404/lounging-with-jordan
+  - https://jordanmarinvincent.tumblr.com/post/15658992404/lounging-with-jordan
 tumblr_jordanmarinvincent_id:
   - 15658992404
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2372179239/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3063/2372179239_7e99b9ede5_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2372179239/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3063/2372179239_7e99b9ede5_m.jpg" alt="" /></a>
 
 Lounging with Jordan
 

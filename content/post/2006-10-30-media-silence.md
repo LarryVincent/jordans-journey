@@ -5,7 +5,7 @@ type: post
 date: 2006-10-30T17:08:00+00:00
 url: /2006/10/30/media-silence/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658931253/media-silence
+  - https://jordanmarinvincent.tumblr.com/post/15658931253/media-silence
 tumblr_jordanmarinvincent_id:
   - 15658931253
 tags:

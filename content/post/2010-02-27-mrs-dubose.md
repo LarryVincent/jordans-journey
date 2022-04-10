@@ -5,7 +5,7 @@ type: post
 date: 2010-02-27T23:31:00+00:00
 url: /2010/02/27/mrs-dubose/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728124526/mrs-dubose
+  - https://jordanmarinvincent.tumblr.com/post/15728124526/mrs-dubose
 tumblr_jordanmarinvincent_id:
   - 15728124526
 tags:

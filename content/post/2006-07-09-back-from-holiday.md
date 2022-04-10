@@ -5,7 +5,7 @@ type: post
 date: 2006-07-09T13:28:00+00:00
 url: /2006/07/09/back-from-holiday/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658899264/back-from-holiday
+  - https://jordanmarinvincent.tumblr.com/post/15658899264/back-from-holiday
 tumblr_jordanmarinvincent_id:
   - 15658899264
 tags:
@@ -25,4 +25,4 @@ Jordan needed the rest. This week she&rsquo;ll restart chemotherapy. She&rsquo;s
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-9084873209312390177?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://jordanvincent.com/images/2006/07/185744438_138baedfe3.jpg
+ [1]: https://jordanvincent.com/images/2006/07/185744438_138baedfe3.jpg

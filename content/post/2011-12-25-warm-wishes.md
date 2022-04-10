@@ -5,7 +5,7 @@ type: post
 date: 2011-12-25T17:29:00+00:00
 url: /2011/12/25/warm-wishes/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728216320/warm-wishes
+  - https://jordanmarinvincent.tumblr.com/post/15728216320/warm-wishes
 tumblr_jordanmarinvincent_id:
   - 15728216320
 tags:
@@ -27,5 +27,5 @@ She was very excited to receive a new handbag for Christmas.
 
 She&rsquo;s taken to napping on the sofa. Her favorite way is to wrap herself up in a blanket and curl up in a ball with just her hair peeking out.
 
- [1]: http://media.tumblr.com/tumblr_lxydszIeDA1r5aaue.png
- [2]: http://media.tumblr.com/tumblr_lxydubag1F1r5aaue.png
+ [1]: https://media.tumblr.com/tumblr_lxydszIeDA1r5aaue.png
+ [2]: https://media.tumblr.com/tumblr_lxydubag1F1r5aaue.png

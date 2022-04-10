@@ -5,7 +5,7 @@ type: post
 date: 2011-01-06T10:44:00+00:00
 url: /2011/01/06/coping-with-reversals/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728168905/coping-with-reversals
+  - https://jordanmarinvincent.tumblr.com/post/15728168905/coping-with-reversals
 tumblr_jordanmarinvincent_id:
   - 15728168905
 tags:
@@ -39,4 +39,4 @@ We don&rsquo;t know what to expect in this next chapter. Chemo has taken a lot o
   <img loading="lazy" alt="" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-5576114555603288657?l=jordansjourney2.blogspot.com" width="1" />
 </div>
 
- [1]: http://media.tumblr.com/tumblr_lyvpm15sxM1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvpm15sxM1r5aaue.jpg

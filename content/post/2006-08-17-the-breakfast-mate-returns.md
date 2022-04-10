@@ -5,7 +5,7 @@ type: post
 date: 2006-08-17T07:27:00+00:00
 url: /2006/08/17/the-breakfast-mate-returns/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658904828/the-breakfast-mate-returns
+  - https://jordanmarinvincent.tumblr.com/post/15658904828/the-breakfast-mate-returns
 tumblr_jordanmarinvincent_id:
   - 15658904828
 tags:

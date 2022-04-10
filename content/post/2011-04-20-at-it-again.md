@@ -5,7 +5,7 @@ type: post
 date: 2011-04-20T23:54:00+00:00
 url: /2011/04/20/at-it-again/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728180461/at-it-again
+  - https://jordanmarinvincent.tumblr.com/post/15728180461/at-it-again
 tumblr_jordanmarinvincent_id:
   - 15728180461
 tags:

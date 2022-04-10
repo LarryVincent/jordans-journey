@@ -5,7 +5,7 @@ type: post
 date: 2014-08-10T15:54:00+00:00
 url: /2014/08/10/the-teenager/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/94345207686/the-teenager
+  - https://jordanmarinvincent.tumblr.com/post/94345207686/the-teenager
 tumblr_jordanmarinvincent_id:
   - 94345207686
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2004-11-23T19:42:00+00:00
 url: /2004/11/23/science-of-the-times/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658835431/science-of-the-times
+  - https://jordanmarinvincent.tumblr.com/post/15658835431/science-of-the-times
 tumblr_jordanmarinvincent_id:
   - 15658835431
 tags:

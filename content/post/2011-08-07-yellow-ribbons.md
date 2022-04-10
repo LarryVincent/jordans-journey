@@ -5,7 +5,7 @@ type: post
 date: 2011-08-07T13:53:00+00:00
 url: /2011/08/07/yellow-ribbons/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728198059/yellow-ribbons
+  - https://jordanmarinvincent.tumblr.com/post/15728198059/yellow-ribbons
 tumblr_jordanmarinvincent_id:
   - 15728198059
 tags:

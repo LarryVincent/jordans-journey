@@ -5,7 +5,7 @@ type: post
 date: 2008-08-30T18:54:00+00:00
 url: /2008/08/30/temperamental-tempura/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659021739/temperamental-tempura
+  - https://jordanmarinvincent.tumblr.com/post/15659021739/temperamental-tempura
 tumblr_jordanmarinvincent_id:
   - 15659021739
 tags:

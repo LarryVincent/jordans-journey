@@ -4,7 +4,7 @@ type: post
 date: 2006-10-23T06:37:00+00:00
 url: /2006/10/23/she-slept-well-again-last-night-but-went-to-bed/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658923719/she-slept-well-again-last-night-but-went-to-bed
+  - https://jordanmarinvincent.tumblr.com/post/15658923719/she-slept-well-again-last-night-but-went-to-bed
 tumblr_jordanmarinvincent_id:
   - 15658923719
 tags:

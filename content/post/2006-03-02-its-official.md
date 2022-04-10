@@ -5,7 +5,7 @@ type: post
 date: 2006-03-02T09:29:00+00:00
 url: /2006/03/02/its-official/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658892129/its-official
+  - https://jordanmarinvincent.tumblr.com/post/15658892129/its-official
 tumblr_jordanmarinvincent_id:
   - 15658892129
 tags:

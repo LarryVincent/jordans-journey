@@ -5,7 +5,7 @@ type: post
 date: 2012-03-18T23:52:38+00:00
 url: /2012/03/18/the-outlier/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/19543316010/the-outlier
+  - https://jordanmarinvincent.tumblr.com/post/19543316010/the-outlier
 tumblr_jordanmarinvincent_id:
   - 19543316010
 tags:

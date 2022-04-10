@@ -5,7 +5,7 @@ type: post
 date: 2008-03-26T20:50:00+00:00
 url: /2008/03/26/independence/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658991430/independence
+  - https://jordanmarinvincent.tumblr.com/post/15658991430/independence
 tumblr_jordanmarinvincent_id:
   - 15658991430
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2359049319/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2413/2359049319_e31d84bb19_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2359049319/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2413/2359049319_e31d84bb19_m.jpg" alt="" /></a>
 
 A portrait of life with Jordan
 

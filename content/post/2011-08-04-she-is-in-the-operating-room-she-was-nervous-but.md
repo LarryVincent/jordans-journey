@@ -4,7 +4,7 @@ type: post
 date: 2011-08-04T12:15:00+00:00
 url: /2011/08/04/she-is-in-the-operating-room-she-was-nervous-but/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728192223/she-is-in-the-operating-room-she-was-nervous-but
+  - https://jordanmarinvincent.tumblr.com/post/15728192223/she-is-in-the-operating-room-she-was-nervous-but
 tumblr_jordanmarinvincent_id:
   - 15728192223
 tags:

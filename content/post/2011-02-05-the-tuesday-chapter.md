@@ -5,7 +5,7 @@ type: post
 date: 2011-02-05T17:30:00+00:00
 url: /2011/02/05/the-tuesday-chapter/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728171428/the-tuesday-chapter
+  - https://jordanmarinvincent.tumblr.com/post/15728171428/the-tuesday-chapter
 tumblr_jordanmarinvincent_id:
   - 15728171428
 tags:

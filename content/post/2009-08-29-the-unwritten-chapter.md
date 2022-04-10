@@ -5,7 +5,7 @@ type: post
 date: 2009-08-29T15:02:00+00:00
 url: /2009/08/29/the-unwritten-chapter/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659091836/the-unwritten-chapter
+  - https://jordanmarinvincent.tumblr.com/post/15659091836/the-unwritten-chapter
 tumblr_jordanmarinvincent_id:
   - 15659091836
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3867498085/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2534/3867498085_2578a22bae_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3867498085/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2534/3867498085_2578a22bae_m.jpg" alt="" /></a>
 
 Good Morning
 

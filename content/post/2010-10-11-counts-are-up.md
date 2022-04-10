@@ -5,7 +5,7 @@ type: post
 date: 2010-10-11T17:46:00+00:00
 url: /2010/10/11/counts-are-up/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728153014/counts-are-up
+  - https://jordanmarinvincent.tumblr.com/post/15728153014/counts-are-up
 tumblr_jordanmarinvincent_id:
   - 15728153014
 tags:

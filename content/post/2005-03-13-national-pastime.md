@@ -5,7 +5,7 @@ type: post
 date: 2005-03-13T19:37:00+00:00
 url: /2005/03/13/national-pastime/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658841568/national-pastime
+  - https://jordanmarinvincent.tumblr.com/post/15658841568/national-pastime
 tumblr_jordanmarinvincent_id:
   - 15658841568
 tags:

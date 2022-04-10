@@ -5,7 +5,7 @@ type: post
 date: 2010-10-17T11:29:00+00:00
 url: /2010/10/17/shades-of-blue/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728153691/shades-of-blue
+  - https://jordanmarinvincent.tumblr.com/post/15728153691/shades-of-blue
 tumblr_jordanmarinvincent_id:
   - 15728153691
 tags:
@@ -37,4 +37,4 @@ Jordan was sitting on my lap. She started mumbling. Here&rsquo;s what I heard he
 
 We are blessed with many friends and loving family. Most of them encourage us to think good thoughts. And we do. But it doesn&rsquo;t change the fact that we are surrounded by somber realities. For the past six weeks, we have allowed ourselves to marginalize the beast nesting in Jordan&rsquo;s spine. She&rsquo;s being treated. She&rsquo;s handling it well. With those facts we cross our fingers and think positive. But the cold reality is that we don&rsquo;t know if the treatment is working. She is riddled with seizures. Her back is beginning to hurt. Her energy has dropped. All the positive thinking in the world won&rsquo;t make these facts dissipate. And pleasant thoughts don&rsquo;t calm a father&rsquo;s mind when he wraps his arms around his daughter and hopes there will never be a day when she doesn&rsquo;t hug back.
 
- [1]: http://media.tumblr.com/tumblr_lyvy6fedVQ1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvy6fedVQ1r5aaue.jpg

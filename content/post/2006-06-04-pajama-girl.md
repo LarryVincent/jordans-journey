@@ -5,7 +5,7 @@ type: post
 date: 2006-06-04T19:19:00+00:00
 url: /2006/06/04/pajama-girl/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658897275/pajama-girl
+  - https://jordanmarinvincent.tumblr.com/post/15658897275/pajama-girl
 tumblr_jordanmarinvincent_id:
   - 15658897275
 tags:

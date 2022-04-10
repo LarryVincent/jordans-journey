@@ -5,7 +5,7 @@ type: post
 date: 2005-10-04T08:30:00+00:00
 url: /2005/10/04/steadfast-gentle/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658861959/steadfast-gentle
+  - https://jordanmarinvincent.tumblr.com/post/15658861959/steadfast-gentle
 tumblr_jordanmarinvincent_id:
   - 15658861959
 tags:

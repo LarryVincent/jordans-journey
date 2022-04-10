@@ -5,7 +5,7 @@ type: post
 date: 2008-11-15T11:26:00+00:00
 url: /2008/11/15/jordan-the-worrier/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659039400/jordan-the-worrier
+  - https://jordanmarinvincent.tumblr.com/post/15659039400/jordan-the-worrier
 tumblr_jordanmarinvincent_id:
   - 15659039400
 tags:
@@ -19,7 +19,7 @@ tags:
   - worrying
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3032743332/" title="Jordan, the Worrier by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="http://farm4.static.flickr.com/3276/3032743332_51204ae181_m.jpg" width="240" height="161" alt="Jordan, the Worrier" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3032743332/" title="Jordan, the Worrier by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="https://farm4.static.flickr.com/3276/3032743332_51204ae181_m.jpg" width="240" height="161" alt="Jordan, the Worrier" /></a>
 
 She&rsquo;s a little nervous. She has a full week ahead. On Monday, she returns for chemotherapy. Then, Tuesday she goes in for a new MRI scan. Wednesday, it&rsquo;s a full evaluation from her neurooncologist. All in all, she&rsquo;ll be spending a lot of time at Children&rsquo;s Hospital.
 
@@ -32,7 +32,7 @@ Jeanette&rsquo;s counsel provided some comfort, but Jordan grew a little quiet t
 
 Despite the heaviness of treatment, diagnosis and endless therapies, she is thriving at nearly everything in her life. Jeanette met with Jordan&rsquo;s teachers and aids at school. They gave a glowing report. She is working harder at her studies, fitting in just a bit more, and showing real progress in her cognitive development. She is diligent and outgoing about life. While life with cancer troubles her wearied mind more than in the past, it never seems to prevent her from finding something new to enjoy. Whether rising early to drag her mother to the local farmer&rsquo;s market, or browsing through a growing collection of hats, she never lets the disease tax her with pessimism, regret or remorse.
 
-She is thrilled by the response to our <a href="http://www.firstgiving.com/laurencevincent" target="_blank" rel="noopener">fundraising drive for the Pediatric Brain Tumor Foundation</a>. She pranced around the house today quite proud to have raised $1,000 from her friends and family &ndash; and in less than a week&rsquo;s time. Thank you, thank you, to all who contributed. Your generous contributions will benefit smart and dedicated researchers who hope to eradicate brain tumors: the second most common form of pediatric cancer.
+She is thrilled by the response to our <a href="https://www.firstgiving.com/laurencevincent" target="_blank" rel="noopener">fundraising drive for the Pediatric Brain Tumor Foundation</a>. She pranced around the house today quite proud to have raised $1,000 from her friends and family &ndash; and in less than a week&rsquo;s time. Thank you, thank you, to all who contributed. Your generous contributions will benefit smart and dedicated researchers who hope to eradicate brain tumors: the second most common form of pediatric cancer.
 
 <div class="blogger-post-footer">
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-8774995279692890164?l=jordansjourney2.blogspot.com" alt="" />

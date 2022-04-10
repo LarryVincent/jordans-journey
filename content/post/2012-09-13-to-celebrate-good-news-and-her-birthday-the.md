@@ -4,7 +4,7 @@ type: post
 date: 2012-09-13T05:06:40+00:00
 url: /2012/09/13/to-celebrate-good-news-and-her-birthday-the/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/31448414150/to-celebrate-good-news-and-her-birthday-the
+  - https://jordanmarinvincent.tumblr.com/post/31448414150/to-celebrate-good-news-and-her-birthday-the
 tumblr_jordanmarinvincent_id:
   - 31448414150
 tags:

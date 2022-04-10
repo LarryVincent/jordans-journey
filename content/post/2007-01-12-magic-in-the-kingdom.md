@@ -5,7 +5,7 @@ type: post
 date: 2007-01-12T05:11:00+00:00
 url: /2007/01/12/magic-in-the-kingdom/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658943698/magic-in-the-kingdom
+  - https://jordanmarinvincent.tumblr.com/post/15658943698/magic-in-the-kingdom
 tumblr_jordanmarinvincent_id:
   - 15658943698
 tags:
@@ -41,5 +41,5 @@ We were exhausted by the time we returned to the hotel, and pledged to sleep in 
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-2883217182521946751?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://www.jordanvincent.com/images/2007/01/jordan_cindy.jpg
- [2]: http://www.jordanvincent.com/images/2007/01/jordan_minnie.jpg
+ [1]: https://www.jordanvincent.com/images/2007/01/jordan_cindy.jpg
+ [2]: https://www.jordanvincent.com/images/2007/01/jordan_minnie.jpg

@@ -5,7 +5,7 @@ type: post
 date: 2011-11-20T18:40:00+00:00
 url: /2011/11/20/power-outages/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728210535/power-outages
+  - https://jordanmarinvincent.tumblr.com/post/15728210535/power-outages
 tumblr_jordanmarinvincent_id:
   - 15728210535
 tags:
@@ -47,7 +47,7 @@ Curled up in the hoodie and the fleece blanket is my girl. She sometimes fights 
 
 ![][4]
 
- [1]: http://media.tumblr.com/tumblr_lyu979vkCN1r5aaue.jpg
- [2]: http://media.tumblr.com/tumblr_lyu99fXp9A1r5aaue.jpg
- [3]: http://media.tumblr.com/tumblr_lyua251lkO1r5aaue.jpg
- [4]: http://media.tumblr.com/tumblr_lyua2yOkQ41r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyu979vkCN1r5aaue.jpg
+ [2]: https://media.tumblr.com/tumblr_lyu99fXp9A1r5aaue.jpg
+ [3]: https://media.tumblr.com/tumblr_lyua251lkO1r5aaue.jpg
+ [4]: https://media.tumblr.com/tumblr_lyua2yOkQ41r5aaue.jpg

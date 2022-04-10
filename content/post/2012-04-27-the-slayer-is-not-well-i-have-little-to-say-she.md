@@ -4,7 +4,7 @@ type: post
 date: 2012-04-27T05:02:15+00:00
 url: /2012/04/27/the-slayer-is-not-well-i-have-little-to-say-she/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/21899044734/the-slayer-is-not-well-i-have-little-to-say-she
+  - https://jordanmarinvincent.tumblr.com/post/21899044734/the-slayer-is-not-well-i-have-little-to-say-she
 tumblr_jordanmarinvincent_id:
   - 21899044734
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2011-06-04T18:54:00+00:00
 url: /2011/06/04/a-tale-of-two-jordans/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728182586/a-tale-of-two-jordans
+  - https://jordanmarinvincent.tumblr.com/post/15728182586/a-tale-of-two-jordans
 tumblr_jordanmarinvincent_id:
   - 15728182586
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2010-06-27T19:00:00+00:00
 url: /2010/06/27/the-trouble-with-honesty/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728137412/the-trouble-with-honesty
+  - https://jordanmarinvincent.tumblr.com/post/15728137412/the-trouble-with-honesty
 tumblr_jordanmarinvincent_id:
   - 15728137412
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-[youtube=http://www.youtube.com/watch?v=rr8JMX&#8211;w0c;rel=0&w=425&h=350]  
+[youtube=https://www.youtube.com/watch?v=rr8JMX&#8211;w0c;rel=0&w=425&h=350]  
 _The interview with Jordan when we realized she didn&rsquo;t fully understand the situation._
 
 Jordan believes in Santa Claus. She has classmates who believe otherwise, but it hasn&rsquo;t dampened her conviction. And I have purposefully not intervened. It&rsquo;s one of the few exceptions I make to my rule about honesty and candor. When Jordan was originally diagnosed with cancer, we told her immediately. She was five. Some people thought we were crazy. We thought it would have been crazy to keep that information from her. We have always been honest with Jordan&ndash;optimistic, hopeful, and encouraging, but always honest.

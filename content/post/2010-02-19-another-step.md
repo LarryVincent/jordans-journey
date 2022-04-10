@@ -5,7 +5,7 @@ type: post
 date: 2010-02-19T00:22:00+00:00
 url: /2010/02/19/another-step/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728122454/another-step
+  - https://jordanmarinvincent.tumblr.com/post/15728122454/another-step
 tumblr_jordanmarinvincent_id:
   - 15728122454
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4357627193/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2755/4357627193_386d9969ca_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4357627193/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2755/4357627193_386d9969ca_m.jpg" alt="" /></a>
 
 I know myself well enough to know that when I find it hard to write, I&rsquo;m usually avoiding something. The words aren&rsquo;t flowing today, and that&rsquo;s because I&rsquo;m uncomfortable thinking about tomorrow. At 8:30 am, Jordan will check in for the surgery we&rsquo;ve diligently researched, laboriously discussed, and frequently postponed. But we can&rsquo;t avoid it any longer because it is what Jordan needs and it will make her life better.  
 When I was not much older than Jordan, I found myself in a sticky social situation at school. I was inclined to ignore it, but one day when I was exceedingly sullen and full of self-pity, my mother gave me sage advice&ndash;advice I&rsquo;ve never forgotten. She said, &ldquo;you can avoid this for as long as you want, and you can make yourself miserable, or you can address what scares you and put it behind you.&rdquo; It was one of those moments where the world compressed and I felt a moment of understanding that made me see things differently. As usual, my mother was right. The fear of what I had to do paralyzed me. The thought of getting it done created hope.  

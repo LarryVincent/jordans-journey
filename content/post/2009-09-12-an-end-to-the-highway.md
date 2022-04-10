@@ -5,7 +5,7 @@ type: post
 date: 2009-09-12T09:24:00+00:00
 url: /2009/09/12/an-end-to-the-highway/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659093006/an-end-to-the-highway
+  - https://jordanmarinvincent.tumblr.com/post/15659093006/an-end-to-the-highway
 tumblr_jordanmarinvincent_id:
   - 15659093006
 tags:
@@ -14,7 +14,7 @@ tags:
   - the journey
 
 ---
-<a href="http://farm1.static.flickr.com/65/164852245_f7154edbba_m.jpg" target="_blank" rel="noopener"><img loading="lazy" alt="" src="http://farm1.static.flickr.com/65/164852245_f7154edbba_m.jpg" class="alignleft" width="240" height="180" /></a>  
+<a href="https://farm1.static.flickr.com/65/164852245_f7154edbba_m.jpg" target="_blank" rel="noopener"><img loading="lazy" alt="" src="https://farm1.static.flickr.com/65/164852245_f7154edbba_m.jpg" class="alignleft" width="240" height="180" /></a>  
 Monday is a big day. Not because it marks the first Monday Night Football game of the season. Not because it starts the first full week of school for the kids. Not even because it is Amy Winehouse&rsquo;s birthday (one of Jordan&rsquo;s favorite singers). Monday, September 14th may be the end of a road we&rsquo;ve been traveling for five years. Jordan goes in for an MRI that morning. If her scans show the same progress we&rsquo;ve seen for the last 12 months, Jordan will stop all chemotherapy. She may soon enjoy a life without pills and infusions, without long hours in an oncology clinic, without trepidation and anxiety about the side effects of her chemical cocktails. While the journey is certainly not over, this road may be dead-ending onto a sunny beach.
 
 She&rsquo;s nervous, of course. She knows that an MRI means anesthesia, which means needles and grogginess. But, she&rsquo;s also hopeful. She tells people she&rsquo;s kicking cancer&rsquo;s butt, but I think this milestone may actually give her confidence that she wasn&rsquo;t just boasting. I asked her about her thoughts this morning over our weekly Saturday breakfast of pancakes and tea.

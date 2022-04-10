@@ -5,7 +5,7 @@ type: post
 date: 2008-11-09T09:25:00+00:00
 url: /2008/11/09/a-rough-couple-of-days/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659035634/a-rough-couple-of-days
+  - https://jordanmarinvincent.tumblr.com/post/15659035634/a-rough-couple-of-days
 tumblr_jordanmarinvincent_id:
   - 15659035634
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3015520587/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3159/3015520587_20295a6668_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3015520587/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3159/3015520587_20295a6668_m.jpg" alt="" /></a>
 
 Even in November, Jordan prefers to lounge California style&ndash;in a bikini.
 

@@ -5,7 +5,7 @@ type: post
 date: 2008-05-18T18:13:00+00:00
 url: /2008/05/18/come-sail-away/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659009149/come-sail-away
+  - https://jordanmarinvincent.tumblr.com/post/15659009149/come-sail-away
 tumblr_jordanmarinvincent_id:
   - 15659009149
 tags:

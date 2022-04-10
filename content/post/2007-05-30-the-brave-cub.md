@@ -5,7 +5,7 @@ type: post
 date: 2007-05-30T09:10:00+00:00
 url: /2007/05/30/the-brave-cub/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658963056/the-brave-cub
+  - https://jordanmarinvincent.tumblr.com/post/15658963056/the-brave-cub
 tumblr_jordanmarinvincent_id:
   - 15658963056
 tags:
@@ -53,4 +53,4 @@ I couldn&rsquo;t help but laugh and think about what that man must have thought,
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-773559640555672495?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://www.jordanvincent.com/images/2007/05/jordan_cub.jpg
+ [1]: https://www.jordanvincent.com/images/2007/05/jordan_cub.jpg

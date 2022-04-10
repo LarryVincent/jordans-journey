@@ -5,7 +5,7 @@ type: post
 date: 2005-08-21T19:35:00+00:00
 url: /2005/08/21/back-again/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658844793/back-again
+  - https://jordanmarinvincent.tumblr.com/post/15658844793/back-again
 tumblr_jordanmarinvincent_id:
   - 15658844793
 tags:

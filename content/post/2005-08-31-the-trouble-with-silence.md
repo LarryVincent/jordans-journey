@@ -5,7 +5,7 @@ type: post
 date: 2005-08-31T18:47:00+00:00
 url: /2005/08/31/the-trouble-with-silence/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658856975/the-trouble-with-silence
+  - https://jordanmarinvincent.tumblr.com/post/15658856975/the-trouble-with-silence
 tumblr_jordanmarinvincent_id:
   - 15658856975
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2006-02-09T13:36:00+00:00
 url: /2006/02/09/unbearable-demand-for-patience/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658887110/unbearable-demand-for-patience
+  - https://jordanmarinvincent.tumblr.com/post/15658887110/unbearable-demand-for-patience
 tumblr_jordanmarinvincent_id:
   - 15658887110
 tags:

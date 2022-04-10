@@ -5,7 +5,7 @@ type: post
 date: 2008-11-04T20:17:00+00:00
 url: /2008/11/04/the-euphoric-poll/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659032083/the-euphoric-poll
+  - https://jordanmarinvincent.tumblr.com/post/15659032083/the-euphoric-poll
 tumblr_jordanmarinvincent_id:
   - 15659032083
 tags:

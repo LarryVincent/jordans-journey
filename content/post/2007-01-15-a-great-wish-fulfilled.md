@@ -5,7 +5,7 @@ type: post
 date: 2007-01-15T15:32:00+00:00
 url: /2007/01/15/a-great-wish-fulfilled/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658945632/a-great-wish-fulfilled
+  - https://jordanmarinvincent.tumblr.com/post/15658945632/a-great-wish-fulfilled
 tumblr_jordanmarinvincent_id:
   - 15658945632
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<img style="float:none;clear:left;" src="http://www.jordanvincent.com/images/2007/01/larry_jordan.jpg" alt="Larry & Jordan Snap" />  
+<img style="float:none;clear:left;" src="https://www.jordanvincent.com/images/2007/01/larry_jordan.jpg" alt="Larry & Jordan Snap" />  
 **Jordan and I take a break from meeting with princesses to pose for a photo**
 
 We are back in Pasadena&ndash;and we&rsquo;re exhausted. No alarms this morning. The family fell in as each member awoke. We greeted the day with a big platter of pancakes and large pots of tea.<a name="more"></a>
@@ -51,4 +51,4 @@ Jordan has a busy week ahead. Tomorrow she restarts physical and occupational th
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-4315908225192841152?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://www.jordanvincent.com/images/2007/01/marypoppins.jpg
+ [1]: https://www.jordanvincent.com/images/2007/01/marypoppins.jpg

@@ -5,7 +5,7 @@ type: post
 date: 2008-12-07T16:44:00+00:00
 url: /2008/12/07/the-coarse-competitor/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659049056/the-coarse-competitor
+  - https://jordanmarinvincent.tumblr.com/post/15659049056/the-coarse-competitor
 tumblr_jordanmarinvincent_id:
   - 15659049056
 tags:
@@ -13,11 +13,11 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3067190196/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3194/3067190196_24901cbb1b_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3067190196/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3194/3067190196_24901cbb1b_m.jpg" alt="" /></a>
 
 Even a trivial game like a round of Guitar Hero brings out the fierce competitor in Jordan. She isn&rsquo;t satisfied until she proves she&rsquo;s the best.
 
-Her seductive personality, which often lapses into soulful discourse on the merits of biscuits and tea, belies a gritty underbelly on her character. Psychologically speaking, she might shiv you to win a challenge. She has a ruthless side that sparks when placed in competition. It is the essence of what propelled her up that <a href="http://www.jordanvincent.com/2007/01/09/wish-day-2-quest-for-the-hard-ones/" target="_blank" rel="noopener">rock face in Orlando</a>, the substance of the never-ending war of words with her brother, and the very foundation of her survivorship. Jordan is a competitor.<a name="more"></a>
+Her seductive personality, which often lapses into soulful discourse on the merits of biscuits and tea, belies a gritty underbelly on her character. Psychologically speaking, she might shiv you to win a challenge. She has a ruthless side that sparks when placed in competition. It is the essence of what propelled her up that <a href="https://www.jordanvincent.com/2007/01/09/wish-day-2-quest-for-the-hard-ones/" target="_blank" rel="noopener">rock face in Orlando</a>, the substance of the never-ending war of words with her brother, and the very foundation of her survivorship. Jordan is a competitor.<a name="more"></a>
 
 We fist discovered this quality about her when she was still a toddler. The kids once shared a room at our condo on Lake Avenue. The condo had previously been owned by three college bachelors and the one who occupied the kids room evidently worked out quite a bit. He installed a pullup bar in the doorway. The kids loved for me to lift them up and let them hang from that bar. One day, when Jordan was about three or four, Luc had me count while he dangled in the doorway. I made it to 15 before he signaled that I needed to help him down. I looked over at Jordan and saw nothing but fire in her eyes. She asked me to lift her up and do exactly as I did for her brother. When I reached 18 she was still hanging on. Her face was steely, her grimmace determined &hellip; and she had no intention of letting go. At 22, I put my hands around her waist and asked her to let go. As I set her down, I looked over at Luc, who replied, &ldquo;yeah, that&rsquo;s a lot.&rdquo;
 

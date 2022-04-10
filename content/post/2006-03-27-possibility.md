@@ -5,7 +5,7 @@ type: post
 date: 2006-03-27T05:17:00+00:00
 url: /2006/03/27/possibility/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658893812/possibility
+  - https://jordanmarinvincent.tumblr.com/post/15658893812/possibility
 tumblr_jordanmarinvincent_id:
   - 15658893812
 tags:
@@ -40,4 +40,4 @@ I believe that no generation is influenced by the safely predictable. Innovation
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-1347130330803850120?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://jordanvincent.com/images/2006/03/100_2812_2.JPG
+ [1]: https://jordanvincent.com/images/2006/03/100_2812_2.JPG

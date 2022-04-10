@@ -5,7 +5,7 @@ type: post
 date: 2011-07-30T01:25:00+00:00
 url: /2011/07/30/gearing-up/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728189121/gearing-up
+  - https://jordanmarinvincent.tumblr.com/post/15728189121/gearing-up
 tumblr_jordanmarinvincent_id:
   - 15728189121
 tags:

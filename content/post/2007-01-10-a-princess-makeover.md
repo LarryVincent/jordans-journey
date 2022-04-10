@@ -5,7 +5,7 @@ type: post
 date: 2007-01-10T15:13:00+00:00
 url: /2007/01/10/a-princess-makeover/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658941687/a-princess-makeover
+  - https://jordanmarinvincent.tumblr.com/post/15658941687/a-princess-makeover
 tumblr_jordanmarinvincent_id:
   - 15658941687
 tags:
@@ -22,4 +22,4 @@ She has a princess personality, and today she got the makeup, hair and gown to m
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-8723438770884191575?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://www.jordanvincent.com/images/2007/01/jordan_makeover.jpg
+ [1]: https://www.jordanvincent.com/images/2007/01/jordan_makeover.jpg

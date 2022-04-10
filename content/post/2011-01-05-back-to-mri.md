@@ -5,7 +5,7 @@ type: post
 date: 2011-01-05T12:28:00+00:00
 url: /2011/01/05/back-to-mri/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728168132/back-to-mri
+  - https://jordanmarinvincent.tumblr.com/post/15728168132/back-to-mri
 tumblr_jordanmarinvincent_id:
   - 15728168132
 tags:

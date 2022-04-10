@@ -4,7 +4,7 @@ type: post
 date: 2013-03-18T01:34:26+00:00
 url: /2013/03/18/happy-st-patricks-day/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/45638499333/happy-st-patricks-day
+  - https://jordanmarinvincent.tumblr.com/post/45638499333/happy-st-patricks-day
 tumblr_jordanmarinvincent_id:
   - 45638499333
 tags:

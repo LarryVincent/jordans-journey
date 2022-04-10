@@ -5,7 +5,7 @@ type: post
 date: 2011-11-27T20:51:00+00:00
 url: /2011/11/27/a-daddy-daughter-photo-expedition/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728212299/a-daddy-daughter-photo-expedition
+  - https://jordanmarinvincent.tumblr.com/post/15728212299/a-daddy-daughter-photo-expedition
 tumblr_jordanmarinvincent_id:
   - 15728212299
 tags:
@@ -35,8 +35,8 @@ Jordan&rsquo;s on the left, mine on the right. This series is my favorite.
 
 ![][5]
 
- [1]: http://media.tumblr.com/tumblr_lyu8z3Jz7T1r5aaue.png
- [2]: http://media.tumblr.com/tumblr_lyu90aICFW1r5aaue.png
- [3]: http://media.tumblr.com/tumblr_lyu911eR1k1r5aaue.png
- [4]: http://media.tumblr.com/tumblr_lyu91tesRC1r5aaue.png
- [5]: http://media.tumblr.com/tumblr_lyu92uWrg71r5aaue.png
+ [1]: https://media.tumblr.com/tumblr_lyu8z3Jz7T1r5aaue.png
+ [2]: https://media.tumblr.com/tumblr_lyu90aICFW1r5aaue.png
+ [3]: https://media.tumblr.com/tumblr_lyu911eR1k1r5aaue.png
+ [4]: https://media.tumblr.com/tumblr_lyu91tesRC1r5aaue.png
+ [5]: https://media.tumblr.com/tumblr_lyu92uWrg71r5aaue.png

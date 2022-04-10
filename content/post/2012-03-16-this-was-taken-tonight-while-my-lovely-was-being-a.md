@@ -4,7 +4,7 @@ type: post
 date: 2012-03-16T04:32:00+00:00
 url: /2012/03/16/this-was-taken-tonight-while-my-lovely-was-being-a/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/19384645125/this-was-taken-tonight-while-my-lovely-was-being-a
+  - https://jordanmarinvincent.tumblr.com/post/19384645125/this-was-taken-tonight-while-my-lovely-was-being-a
 tumblr_jordanmarinvincent_id:
   - 19384645125
 tags:

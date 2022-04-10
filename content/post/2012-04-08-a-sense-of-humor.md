@@ -5,7 +5,7 @@ type: post
 date: 2012-04-08T21:30:00+00:00
 url: /2012/04/08/a-sense-of-humor/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/20736177948/a-sense-of-humor
+  - https://jordanmarinvincent.tumblr.com/post/20736177948/a-sense-of-humor
 tumblr_jordanmarinvincent_id:
   - 20736177948
 tags:

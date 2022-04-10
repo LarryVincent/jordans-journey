@@ -5,7 +5,7 @@ type: post
 date: 2008-10-18T06:00:00+00:00
 url: /2008/10/18/luc-the-studio-mogul/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659028673/luc-the-studio-mogul
+  - https://jordanmarinvincent.tumblr.com/post/15659028673/luc-the-studio-mogul
 tumblr_jordanmarinvincent_id:
   - 15659028673
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2008-08-21T07:04:00+00:00
 url: /2008/08/21/the-put-together-birthday-girl/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659020099/the-put-together-birthday-girl
+  - https://jordanmarinvincent.tumblr.com/post/15659020099/the-put-together-birthday-girl
 tumblr_jordanmarinvincent_id:
   - 15659020099
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2782056289/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3223/2782056289_6697412592_m.jpg" alt="" style="float:left;margin-right:8px;" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2782056289/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3223/2782056289_6697412592_m.jpg" alt="" style="float:left;margin-right:8px;" /></a>
 
 Jordan decked out for her birthday celebration
 

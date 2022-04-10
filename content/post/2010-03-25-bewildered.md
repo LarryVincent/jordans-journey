@@ -5,7 +5,7 @@ type: post
 date: 2010-03-25T23:43:00+00:00
 url: /2010/03/25/bewildered/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728128487/bewildered
+  - https://jordanmarinvincent.tumblr.com/post/15728128487/bewildered
 tumblr_jordanmarinvincent_id:
   - 15728128487
 tags:

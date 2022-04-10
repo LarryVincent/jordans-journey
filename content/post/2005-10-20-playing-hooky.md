@@ -5,7 +5,7 @@ type: post
 date: 2005-10-20T05:56:00+00:00
 url: /2005/10/20/playing-hooky/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658868512/playing-hooky
+  - https://jordanmarinvincent.tumblr.com/post/15658868512/playing-hooky
 tumblr_jordanmarinvincent_id:
   - 15658868512
 tags:

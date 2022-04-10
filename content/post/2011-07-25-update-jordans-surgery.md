@@ -5,7 +5,7 @@ type: post
 date: 2011-07-25T16:47:00+00:00
 url: /2011/07/25/update-jordans-surgery/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728188435/update-jordans-surgery
+  - https://jordanmarinvincent.tumblr.com/post/15728188435/update-jordans-surgery
 tumblr_jordanmarinvincent_id:
   - 15728188435
 tags:

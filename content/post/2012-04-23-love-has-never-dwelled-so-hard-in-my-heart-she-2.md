@@ -4,7 +4,7 @@ type: post
 date: 2012-04-23T01:29:28+00:00
 url: /2012/04/23/love-has-never-dwelled-so-hard-in-my-heart-she-2/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/21619213311/love-has-never-dwelled-so-hard-in-my-heart-she
+  - https://jordanmarinvincent.tumblr.com/post/21619213311/love-has-never-dwelled-so-hard-in-my-heart-she
 tumblr_jordanmarinvincent_id:
   - 21619213311
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2006-10-16T12:03:00+00:00
 url: /2006/10/16/october-curse/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658909142/october-curse
+  - https://jordanmarinvincent.tumblr.com/post/15658909142/october-curse
 tumblr_jordanmarinvincent_id:
   - 15658909142
 tags:

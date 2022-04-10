@@ -5,7 +5,7 @@ type: post
 date: 2008-07-05T20:35:00+00:00
 url: /2008/07/05/breakfast-with-jordan/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659013721/breakfast-with-jordan
+  - https://jordanmarinvincent.tumblr.com/post/15659013721/breakfast-with-jordan
 tumblr_jordanmarinvincent_id:
   - 15659013721
 tags:
@@ -15,7 +15,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2635898075/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3038/2635898075_9b84b3ff04_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2635898075/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3038/2635898075_9b84b3ff04_m.jpg" alt="" /></a>
 
 Jordan recounts a story over eggs and fruit.
 

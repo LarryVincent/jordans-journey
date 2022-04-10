@@ -5,7 +5,7 @@ type: post
 date: 2010-06-18T13:21:00+00:00
 url: /2010/06/18/inopportune/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728135770/inopportune
+  - https://jordanmarinvincent.tumblr.com/post/15728135770/inopportune
 tumblr_jordanmarinvincent_id:
   - 15728135770
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4712506940/" title="LUC_1696 by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="http://farm5.static.flickr.com/4057/4712506940_3161833194_m.jpg" width="240" height="159" alt="LUC_1696" /></a>  
+<a href="https://www.flickr.com/photos/larryvincent/4712506940/" title="LUC_1696 by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="https://farm5.static.flickr.com/4057/4712506940_3161833194_m.jpg" width="240" height="159" alt="LUC_1696" /></a>  
 Luc graduated from middle school today. We are so proud of him. He is growing into an active, confident, intelligent young man. I often forget how much he has gone through on Jordan&rsquo;s Journey. He has his own brand of strength, and too often it gets lost in the shadows of his sister&rsquo;s larger-than-life personality. He is as much an inspiration as she is.
 
 I am proud of her today, too. First, she managed to keep a secret. We bought Luc a 50mm lens for his camera as a gift for graduating. Ordinarily, we don&rsquo;t reveal our gift selection to Jordan because she has loose lips. When she asked me this time what we were gifting, I took a chance, but I also warned her that I was trusting her not to reveal the surprise. She did it!

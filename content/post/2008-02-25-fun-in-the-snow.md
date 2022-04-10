@@ -5,7 +5,7 @@ type: post
 date: 2008-02-25T15:19:00+00:00
 url: /2008/02/25/fun-in-the-snow/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658983974/fun-in-the-snow
+  - https://jordanmarinvincent.tumblr.com/post/15658983974/fun-in-the-snow
 tumblr_jordanmarinvincent_id:
   - 15658983974
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2292629246/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3075/2292629246_6878d8791f_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2292629246/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3075/2292629246_6878d8791f_m.jpg" alt="" /></a>
 
 One More Run  
 We started our first full day of vacation in Beaver Creek today. Jordan couldn&rsquo;t wait to go out and play in the snow. Within the first 10 minutes of her frolicking she managed to make a snow angel, bean her brother with snowballs, build a &ldquo;girl fort&rdquo; and roll around in it for awhile. She&rsquo;s having a blast.  

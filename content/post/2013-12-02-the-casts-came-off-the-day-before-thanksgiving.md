@@ -5,7 +5,7 @@ type: post
 date: 2013-12-02T21:25:18+00:00
 url: /2013/12/02/the-casts-came-off-the-day-before-thanksgiving/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/68810241670/the-casts-came-off-the-day-before-thanksgiving
+  - https://jordanmarinvincent.tumblr.com/post/68810241670/the-casts-came-off-the-day-before-thanksgiving
 tumblr_jordanmarinvincent_id:
   - 68810241670
 tags:

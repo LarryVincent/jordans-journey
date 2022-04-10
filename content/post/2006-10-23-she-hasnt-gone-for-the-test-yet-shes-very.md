@@ -4,7 +4,7 @@ type: post
 date: 2006-10-23T10:58:00+00:00
 url: /2006/10/23/she-hasnt-gone-for-the-test-yet-shes-very/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658924478/she-hasnt-gone-for-the-test-yet-shes-very
+  - https://jordanmarinvincent.tumblr.com/post/15658924478/she-hasnt-gone-for-the-test-yet-shes-very
 tumblr_jordanmarinvincent_id:
   - 15658924478
 tags:

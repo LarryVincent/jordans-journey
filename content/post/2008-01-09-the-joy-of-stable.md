@@ -5,7 +5,7 @@ type: post
 date: 2008-01-09T13:32:00+00:00
 url: /2008/01/09/the-joy-of-stable/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658980136/the-joy-of-stable
+  - https://jordanmarinvincent.tumblr.com/post/15658980136/the-joy-of-stable
 tumblr_jordanmarinvincent_id:
   - 15658980136
 tags:

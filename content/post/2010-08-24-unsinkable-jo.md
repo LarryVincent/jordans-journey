@@ -5,7 +5,7 @@ type: post
 date: 2010-08-24T16:29:00+00:00
 url: /2010/08/24/unsinkable-jo/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728145967/unsinkable-jo
+  - https://jordanmarinvincent.tumblr.com/post/15728145967/unsinkable-jo
 tumblr_jordanmarinvincent_id:
   - 15728145967
 tags:

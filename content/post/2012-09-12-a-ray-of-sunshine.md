@@ -5,7 +5,7 @@ type: post
 date: 2012-09-12T21:33:51+00:00
 url: /2012/09/12/a-ray-of-sunshine/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/31419261845/a-ray-of-sunshine
+  - https://jordanmarinvincent.tumblr.com/post/31419261845/a-ray-of-sunshine
 tumblr_jordanmarinvincent_id:
   - 31419261845
 tags:

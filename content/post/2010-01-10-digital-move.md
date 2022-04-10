@@ -5,7 +5,7 @@ type: post
 date: 2010-01-10T19:11:00+00:00
 url: /2010/01/10/digital-move/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728119146/digital-move
+  - https://jordanmarinvincent.tumblr.com/post/15728119146/digital-move
 tumblr_jordanmarinvincent_id:
   - 15728119146
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-With progress in the cancer fight comes progress in the digital story. The Jordan&rsquo;s Journey website will soon move to a new address. <a href="http://gelosi.com/category/jordans-journey/" target="_blank" rel="noopener">Take a sneak peak.</a>
+With progress in the cancer fight comes progress in the digital story. The Jordan&rsquo;s Journey website will soon move to a new address. <a href="https://gelosi.com/category/jordans-journey/" target="_blank" rel="noopener">Take a sneak peak.</a>
 
 Why are we doing this? Two reasons:
 

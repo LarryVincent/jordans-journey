@@ -5,7 +5,7 @@ type: post
 date: 2010-06-18T00:30:00+00:00
 url: /2010/06/18/weathering/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728134983/weathering
+  - https://jordanmarinvincent.tumblr.com/post/15728134983/weathering
 tumblr_jordanmarinvincent_id:
   - 15728134983
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4710522903/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm5.static.flickr.com/4031/4710522903_a1dac92d93_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4710522903/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm5.static.flickr.com/4031/4710522903_a1dac92d93_m.jpg" alt="" /></a>
 
 LMV 35 (1)
 

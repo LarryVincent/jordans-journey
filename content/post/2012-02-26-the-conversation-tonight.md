@@ -5,7 +5,7 @@ type: post
 date: 2012-02-26T04:36:00+00:00
 url: /2012/02/26/the-conversation-tonight/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/18296097711/the-conversation-tonight
+  - https://jordanmarinvincent.tumblr.com/post/18296097711/the-conversation-tonight
 tumblr_jordanmarinvincent_id:
   - 18296097711
 tags:

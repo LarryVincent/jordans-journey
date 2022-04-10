@@ -5,7 +5,7 @@ type: post
 date: 2004-10-21T19:45:00+00:00
 url: /2004/10/21/top-10-reasons-recovery-is-going-well/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658831131/top-10-reasons-recovery-is-going-well
+  - https://jordanmarinvincent.tumblr.com/post/15658831131/top-10-reasons-recovery-is-going-well
 tumblr_jordanmarinvincent_id:
   - 15658831131
 tags:

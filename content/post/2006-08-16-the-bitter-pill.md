@@ -5,7 +5,7 @@ type: post
 date: 2006-08-16T18:46:00+00:00
 url: /2006/08/16/the-bitter-pill/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658903486/the-bitter-pill
+  - https://jordanmarinvincent.tumblr.com/post/15658903486/the-bitter-pill
 tumblr_jordanmarinvincent_id:
   - 15658903486
 tags:

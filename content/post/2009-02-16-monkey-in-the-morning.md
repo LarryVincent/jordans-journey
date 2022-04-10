@@ -5,7 +5,7 @@ type: post
 date: 2009-02-16T10:16:00+00:00
 url: /2009/02/16/monkey-in-the-morning/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659059797/monkey-in-the-morning
+  - https://jordanmarinvincent.tumblr.com/post/15659059797/monkey-in-the-morning
 tumblr_jordanmarinvincent_id:
   - 15659059797
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3284573987/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3570/3284573987_5530421376_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3284573987/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3570/3284573987_5530421376_m.jpg" alt="" /></a>
 
 Jordan&rsquo;s Favorite Tea Cup
 

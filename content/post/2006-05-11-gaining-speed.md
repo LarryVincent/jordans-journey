@@ -5,7 +5,7 @@ type: post
 date: 2006-05-11T09:07:00+00:00
 url: /2006/05/11/gaining-speed/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658896132/gaining-speed
+  - https://jordanmarinvincent.tumblr.com/post/15658896132/gaining-speed
 tumblr_jordanmarinvincent_id:
   - 15658896132
 tags:

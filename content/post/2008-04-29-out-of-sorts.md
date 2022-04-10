@@ -5,7 +5,7 @@ type: post
 date: 2008-04-29T20:01:00+00:00
 url: /2008/04/29/out-of-sorts/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658998430/out-of-sorts
+  - https://jordanmarinvincent.tumblr.com/post/15658998430/out-of-sorts
 tumblr_jordanmarinvincent_id:
   - 15658998430
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2445818167/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3087/2445818167_f453cc9d4f_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2445818167/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3087/2445818167_f453cc9d4f_m.jpg" alt="" /></a>
 
 Girl and the Internet
 

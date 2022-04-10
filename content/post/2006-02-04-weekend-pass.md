@@ -5,7 +5,7 @@ type: post
 date: 2006-02-04T07:47:00+00:00
 url: /2006/02/04/weekend-pass/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658885259/weekend-pass
+  - https://jordanmarinvincent.tumblr.com/post/15658885259/weekend-pass
 tumblr_jordanmarinvincent_id:
   - 15658885259
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2011-02-12T20:06:00+00:00
 url: /2011/02/12/progressing/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728172910/progressing
+  - https://jordanmarinvincent.tumblr.com/post/15728172910/progressing
 tumblr_jordanmarinvincent_id:
   - 15728172910
 tags:

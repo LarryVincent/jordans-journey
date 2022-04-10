@@ -5,7 +5,7 @@ type: post
 date: 2014-08-02T23:48:00+00:00
 url: /2014/08/02/the-long-quiet/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/93630502696/the-long-quiet
+  - https://jordanmarinvincent.tumblr.com/post/93630502696/the-long-quiet
 tumblr_jordanmarinvincent_id:
   - 93630502696
 tags:

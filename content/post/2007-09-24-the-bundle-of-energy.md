@@ -5,7 +5,7 @@ type: post
 date: 2007-09-24T15:39:00+00:00
 url: /2007/09/24/the-bundle-of-energy/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658971481/the-bundle-of-energy
+  - https://jordanmarinvincent.tumblr.com/post/15658971481/the-bundle-of-energy
 tumblr_jordanmarinvincent_id:
   - 15658971481
 tags:

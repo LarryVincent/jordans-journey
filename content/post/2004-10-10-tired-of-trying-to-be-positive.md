@@ -5,7 +5,7 @@ type: post
 date: 2004-10-10T19:56:00+00:00
 url: /2004/10/10/tired-of-trying-to-be-positive/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658822425/tired-of-trying-to-be-positive
+  - https://jordanmarinvincent.tumblr.com/post/15658822425/tired-of-trying-to-be-positive
 tumblr_jordanmarinvincent_id:
   - 15658822425
 tags:

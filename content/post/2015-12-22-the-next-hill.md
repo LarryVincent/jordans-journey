@@ -26,7 +26,7 @@ This is Jordan at work. She humbles me with her quiet, extraordinary strength�
 
 This trip was her idea. We decided to bake cookies for some friends this holiday season. When I noted that we needed supplies, Jordan begged me to take her along to the market. My first inclination was to say no. When she tags along a 10-minute trip can become an hour. But she loves going to the market, in large part because she uses the cart as a kind of walker. She is far more mobile pushing groceries than she is wandering around our house.
 
-Jordan spends a lot of time in her wheelchair. It’s custom-made, just for her. And she appreciates all that she can do in the chair, but she’d much rather be on her feet. Unfortunately, her legs and her feet have grown weaker and weaker. She is not able to stand for very long. She has poor balance. And, walking is rife with serious risk. <a href="http://jordanvincent.com/2012/04/26/tripped-up/" target="_blank" rel="noopener">Four years ago</a>, she ended up in the hospital for several weeks after she missed a step and hit her head during a bad fall.
+Jordan spends a lot of time in her wheelchair. It’s custom-made, just for her. And she appreciates all that she can do in the chair, but she’d much rather be on her feet. Unfortunately, her legs and her feet have grown weaker and weaker. She is not able to stand for very long. She has poor balance. And, walking is rife with serious risk. <a href="https://jordanvincent.com/2012/04/26/tripped-up/" target="_blank" rel="noopener">Four years ago</a>, she ended up in the hospital for several weeks after she missed a step and hit her head during a bad fall.
 
 Today, Jordan needs to have someone supporting her every step that she&#8217;s out of the chair. It&#8217;s either that, or she crawls on her hands and knees.
 
@@ -46,4 +46,4 @@ When she had this surgery the last time, [the hardest part was getting her to st
 
 And to be honest, I wouldn’t have it any other way.
 
- [1]: http://jordanvincent.com/2010/02/27/mrs-dubose/
+ [1]: https://jordanvincent.com/2010/02/27/mrs-dubose/

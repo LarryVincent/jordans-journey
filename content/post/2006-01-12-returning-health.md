@@ -5,7 +5,7 @@ type: post
 date: 2006-01-12T09:01:00+00:00
 url: /2006/01/12/returning-health/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658880079/returning-health
+  - https://jordanmarinvincent.tumblr.com/post/15658880079/returning-health
 tumblr_jordanmarinvincent_id:
   - 15658880079
 tags:

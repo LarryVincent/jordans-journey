@@ -5,7 +5,7 @@ type: post
 date: 2006-07-21T15:25:00+00:00
 url: /2006/07/21/many-goodly-creatures-are-there-here/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658901796/many-goodly-creatures-are-there-here
+  - https://jordanmarinvincent.tumblr.com/post/15658901796/many-goodly-creatures-are-there-here
 tumblr_jordanmarinvincent_id:
   - 15658901796
 tags:

@@ -4,7 +4,7 @@ type: post
 date: 2006-10-25T19:49:00+00:00
 url: /2006/10/25/not-much-to-report-today-she-did-not-have-the/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658927473/not-much-to-report-today-she-did-not-have-the
+  - https://jordanmarinvincent.tumblr.com/post/15658927473/not-much-to-report-today-she-did-not-have-the
 tumblr_jordanmarinvincent_id:
   - 15658927473
 tags:

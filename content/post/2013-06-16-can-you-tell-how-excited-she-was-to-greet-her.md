@@ -5,7 +5,7 @@ type: post
 date: 2013-06-16T18:58:55+00:00
 url: /2013/06/16/can-you-tell-how-excited-she-was-to-greet-her/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/53130382567/can-you-tell-how-excited-she-was-to-greet-her
+  - https://jordanmarinvincent.tumblr.com/post/53130382567/can-you-tell-how-excited-she-was-to-greet-her
 tumblr_jordanmarinvincent_id:
   - 53130382567
 tags:

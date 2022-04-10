@@ -6,7 +6,7 @@ date: 2014-05-10T19:30:57+00:00
 draft: true
 url: /?p=615
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/85341875491/the-warrior-returns-to-battle
+  - https://jordanmarinvincent.tumblr.com/post/85341875491/the-warrior-returns-to-battle
 tumblr_jordanmarinvincent_id:
   - 85341875491
 tags:

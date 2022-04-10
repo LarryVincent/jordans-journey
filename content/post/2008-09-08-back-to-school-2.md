@@ -5,7 +5,7 @@ type: post
 date: 2008-09-08T07:25:00+00:00
 url: /2008/09/08/back-to-school-2/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659023672/back-to-school
+  - https://jordanmarinvincent.tumblr.com/post/15659023672/back-to-school
 tumblr_jordanmarinvincent_id:
   - 15659023672
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2013-11-01T04:58:50+00:00
 url: /2013/11/01/tradition-stands/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/65671482182/tradition-stands
+  - https://jordanmarinvincent.tumblr.com/post/65671482182/tradition-stands
 tumblr_jordanmarinvincent_id:
   - 65671482182
 tags:

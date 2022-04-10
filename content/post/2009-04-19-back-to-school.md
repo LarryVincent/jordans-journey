@@ -5,7 +5,7 @@ type: post
 date: 2009-04-19T20:23:00+00:00
 url: /2009/04/19/back-to-school/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659072788/back-to-school
+  - https://jordanmarinvincent.tumblr.com/post/15659072788/back-to-school
 tumblr_jordanmarinvincent_id:
   - 15659072788
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3457794774/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3638/3457794774_88f3ee0967_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3457794774/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3638/3457794774_88f3ee0967_m.jpg" alt="" /></a>
 
 Portrait in Sun Dress B&W
 

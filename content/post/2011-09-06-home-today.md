@@ -5,7 +5,7 @@ type: post
 date: 2011-09-06T11:05:00+00:00
 url: /2011/09/06/home-today/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728205703/home-today
+  - https://jordanmarinvincent.tumblr.com/post/15728205703/home-today
 tumblr_jordanmarinvincent_id:
   - 15728205703
 tags:

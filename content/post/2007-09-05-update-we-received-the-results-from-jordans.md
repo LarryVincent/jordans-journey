@@ -4,7 +4,7 @@ type: post
 date: 2007-09-05T07:57:00+00:00
 url: /2007/09/05/update-we-received-the-results-from-jordans/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658970657/update-we-received-the-results-from-jordans
+  - https://jordanmarinvincent.tumblr.com/post/15658970657/update-we-received-the-results-from-jordans
 tumblr_jordanmarinvincent_id:
   - 15658970657
 tags:

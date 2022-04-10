@@ -5,7 +5,7 @@ type: post
 date: 2011-02-19T01:37:00+00:00
 url: /2011/02/19/in-her-head/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728174489/in-her-head
+  - https://jordanmarinvincent.tumblr.com/post/15728174489/in-her-head
 tumblr_jordanmarinvincent_id:
   - 15728174489
 tags:
@@ -21,4 +21,4 @@ tags:
 
 &ndash;I&rsquo;m stronger than you
 
- [1]: http://media.tumblr.com/tumblr_lyvp9rFkFa1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvp9rFkFa1r5aaue.jpg

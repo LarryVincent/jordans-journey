@@ -5,7 +5,7 @@ type: post
 date: 2010-04-07T09:52:00+00:00
 url: /2010/04/07/office-mate/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728130827/office-mate
+  - https://jordanmarinvincent.tumblr.com/post/15728130827/office-mate
 tumblr_jordanmarinvincent_id:
   - 15728130827
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2007-02-25T09:41:00+00:00
 url: /2007/02/25/force-of-will/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658951885/force-of-will
+  - https://jordanmarinvincent.tumblr.com/post/15658951885/force-of-will
 tumblr_jordanmarinvincent_id:
   - 15658951885
 tags:

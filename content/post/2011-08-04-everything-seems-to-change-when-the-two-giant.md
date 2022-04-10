@@ -4,7 +4,7 @@ type: post
 date: 2011-08-04T10:01:00+00:00
 url: /2011/08/04/everything-seems-to-change-when-the-two-giant/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728190692/everything-seems-to-change-when-the-two-giant
+  - https://jordanmarinvincent.tumblr.com/post/15728190692/everything-seems-to-change-when-the-two-giant
 tumblr_jordanmarinvincent_id:
   - 15728190692
 tags:

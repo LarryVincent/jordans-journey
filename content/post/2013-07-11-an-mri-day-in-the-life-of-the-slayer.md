@@ -5,7 +5,7 @@ type: post
 date: 2013-07-11T02:34:00+00:00
 url: /2013/07/11/an-mri-day-in-the-life-of-the-slayer/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/55137715918/an-mri-day-in-the-life-of-the-slayer
+  - https://jordanmarinvincent.tumblr.com/post/55137715918/an-mri-day-in-the-life-of-the-slayer
 tumblr_jordanmarinvincent_id:
   - 55137715918
 tags:
@@ -36,8 +36,8 @@ After the procedure, there&rsquo;s a lot more waiting. We wait for Jordan to wak
 
 Though her eyes may look a little sorrowful in this picture, she was actually in very good spirits. She was hungry and tired. But she waited patiently and allowed me to photograph her while we prepared to finish up and go home.</p>
 
- [1]: http://media.tumblr.com/8b6430ecf6b11964d8ae732be268ba85/tumblr_inline_mpr2t1uFFm1qz4rgp.jpg
- [2]: http://media.tumblr.com/e5171b7c29a8e8d6a8fa2356cfdb1025/tumblr_inline_mpr2w2RWel1qz4rgp.jpg
- [3]: http://media.tumblr.com/bb0ad64c24283cc458b610b3bafb0f32/tumblr_inline_mpr2y5HXEA1qz4rgp.jpg
- [4]: http://media.tumblr.com/b33ad773feaf770d1e64d5c3e2b1568d/tumblr_inline_mpr313EzTE1qz4rgp.jpg
- [5]: http://media.tumblr.com/27a90eaa1b21f50b8bbad586b3fb0c93/tumblr_inline_mpr32wb6ny1qz4rgp.jpg
+ [1]: https://media.tumblr.com/8b6430ecf6b11964d8ae732be268ba85/tumblr_inline_mpr2t1uFFm1qz4rgp.jpg
+ [2]: https://media.tumblr.com/e5171b7c29a8e8d6a8fa2356cfdb1025/tumblr_inline_mpr2w2RWel1qz4rgp.jpg
+ [3]: https://media.tumblr.com/bb0ad64c24283cc458b610b3bafb0f32/tumblr_inline_mpr2y5HXEA1qz4rgp.jpg
+ [4]: https://media.tumblr.com/b33ad773feaf770d1e64d5c3e2b1568d/tumblr_inline_mpr313EzTE1qz4rgp.jpg
+ [5]: https://media.tumblr.com/27a90eaa1b21f50b8bbad586b3fb0c93/tumblr_inline_mpr32wb6ny1qz4rgp.jpg

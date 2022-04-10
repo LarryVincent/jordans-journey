@@ -5,7 +5,7 @@ type: post
 date: 2008-10-18T12:12:00+00:00
 url: /2008/10/18/jordans-podcast-episode-4/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659029384/jordans-podcast-episode-4
+  - https://jordanmarinvincent.tumblr.com/post/15659029384/jordans-podcast-episode-4
 tumblr_jordanmarinvincent_id:
   - 15659029384
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2008-02-27T06:51:00+00:00
 url: /2008/02/27/jordan-the-shredder/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658985164/jordan-the-shredder
+  - https://jordanmarinvincent.tumblr.com/post/15658985164/jordan-the-shredder
 tumblr_jordanmarinvincent_id:
   - 15658985164
 publicize_facebook_url:
@@ -13,9 +13,9 @@ publicize_facebook_url:
 publicize_twitter_user:
   - lvincent
 publicize_twitter_url:
-  - http://t.co/ejFB3ZysRc
+  - https://t.co/ejFB3ZysRc
 publicize_tumblr_url:
-  - http://jordanvincent.com.tumblr.com/post/119237209921
+  - https://jordanvincent.com.tumblr.com/post/119237209921
 tags:
   - Journey
   - The Big Steps

@@ -5,7 +5,7 @@ type: post
 date: 2006-02-08T17:22:00+00:00
 url: /2006/02/08/quick-update-2/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658886051/quick-update
+  - https://jordanmarinvincent.tumblr.com/post/15658886051/quick-update
 tumblr_jordanmarinvincent_id:
   - 15658886051
 tags:

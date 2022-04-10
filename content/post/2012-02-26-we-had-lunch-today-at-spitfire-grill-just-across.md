@@ -4,7 +4,7 @@ type: post
 date: 2012-02-26T04:40:00+00:00
 url: /2012/02/26/we-had-lunch-today-at-spitfire-grill-just-across/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/18296349679/we-had-lunch-today-at-spitfire-grill-just-across
+  - https://jordanmarinvincent.tumblr.com/post/18296349679/we-had-lunch-today-at-spitfire-grill-just-across
 tumblr_jordanmarinvincent_id:
   - 18296349679
 tags:

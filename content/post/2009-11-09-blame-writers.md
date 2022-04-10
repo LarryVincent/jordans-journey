@@ -5,7 +5,7 @@ type: post
 date: 2009-11-09T20:29:00+00:00
 url: /2009/11/09/blame-writers/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659103280/blame-writers
+  - https://jordanmarinvincent.tumblr.com/post/15659103280/blame-writers
 tumblr_jordanmarinvincent_id:
   - 15659103280
 tags:

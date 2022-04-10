@@ -5,7 +5,7 @@ type: post
 date: 2012-08-10T03:57:00+00:00
 url: /2012/08/10/an-old-routine/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/29101943293/an-old-routine
+  - https://jordanmarinvincent.tumblr.com/post/29101943293/an-old-routine
 tumblr_jordanmarinvincent_id:
   - 29101943293
 tags:

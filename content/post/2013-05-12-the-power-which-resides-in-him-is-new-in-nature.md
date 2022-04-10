@@ -4,7 +4,7 @@ type: post
 date: 2013-05-12T00:00:00+00:00
 url: /2013/05/12/the-power-which-resides-in-him-is-new-in-nature/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/50206821321/the-power-which-resides-in-him-is-new-in-nature
+  - https://jordanmarinvincent.tumblr.com/post/50206821321/the-power-which-resides-in-him-is-new-in-nature
 tumblr_jordanmarinvincent_id:
   - 50206821321
 tags:

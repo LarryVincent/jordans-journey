@@ -4,7 +4,7 @@ type: post
 date: 2012-07-23T03:43:34+00:00
 url: /2012/07/23/why-we-love-it-when-jordan-gets-to-go-to-camp/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/27810127050/why-we-love-it-when-jordan-gets-to-go-to-camp
+  - https://jordanmarinvincent.tumblr.com/post/27810127050/why-we-love-it-when-jordan-gets-to-go-to-camp
 tumblr_jordanmarinvincent_id:
   - 27810127050
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2009-03-27T20:25:00+00:00
 url: /2009/03/27/tech-support/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659070982/tech-support
+  - https://jordanmarinvincent.tumblr.com/post/15659070982/tech-support
 tumblr_jordanmarinvincent_id:
   - 15659070982
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3390764801/" title="photo sharing" target="_blank" rel="noopener"><img class="right" src="http://farm4.static.flickr.com/3616/3390764801_1682f4a5f2_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3390764801/" title="photo sharing" target="_blank" rel="noopener"><img class="right" src="https://farm4.static.flickr.com/3616/3390764801_1682f4a5f2_m.jpg" alt="" /></a>
 
 Framed
 

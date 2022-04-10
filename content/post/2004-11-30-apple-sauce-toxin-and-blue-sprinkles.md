@@ -5,7 +5,7 @@ type: post
 date: 2004-11-30T19:41:00+00:00
 url: /2004/11/30/apple-sauce-toxin-and-blue-sprinkles/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658836184/apple-sauce-toxin-and-blue-sprinkles
+  - https://jordanmarinvincent.tumblr.com/post/15658836184/apple-sauce-toxin-and-blue-sprinkles
 tumblr_jordanmarinvincent_id:
   - 15658836184
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2008-12-20T10:08:00+00:00
 url: /2008/12/20/the-lady-of-culture/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659050769/the-lady-of-culture
+  - https://jordanmarinvincent.tumblr.com/post/15659050769/the-lady-of-culture
 tumblr_jordanmarinvincent_id:
   - 15659050769
 tags:
@@ -14,7 +14,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3119842746/" title="Prom Date by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="http://farm4.static.flickr.com/3133/3119842746_855a88cb87_m.jpg" width="161" height="240" alt="Prom Date" /></a>  
+<a href="https://www.flickr.com/photos/larryvincent/3119842746/" title="Prom Date by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="https://farm4.static.flickr.com/3133/3119842746_855a88cb87_m.jpg" width="161" height="240" alt="Prom Date" /></a>  
 Jeanette lined us up in the backyard before we set out on our daddy/daughter excursion to the Music Center for a day of culture.
 
 Blue light reflected from the stage and bounced onto her snowy skin. The corners of her mouth lifted slightly as the pas de deux began. Clara and the Nutcracker locked their arms and glided gracefully across the stage. Jordan sighed and leaned her head against my shoulder. She grabbed my hand and interlocked our fingers. Act two was nearing the end and the music swelled with cymbal-adorned crescendos. The Nutcracker spun Clara, lifted her high to the sky, and embraced her while snow fairies waltzed upstage. I turned to Jordan, whose face was alight with inspiration, and I asked her, &ldquo;wasn&rsquo;t that lovely?&rdquo;
@@ -23,9 +23,9 @@ Her eyes widened. &ldquo;That was awesome.&rdquo;
 
 When the couple returned to the stage to take their bows, Jordan sprung to her feet shouting &ldquo;Brava!&rdquo; She also shouted &ldquo;Bravo!&rdquo; I told her it was customary to just shout for the prima ballerina. She told me she liked to compliment them both, and so she shouted again, &ldquo;Brava-Bravo&rdquo; as if it were a compound phrase meant to leap from the tongue in tandem. It was a beautiful thing. We had an afternoon we both will remember for many years to come.<a name="more"></a>
 
-Though I enjoy the ballet, I&rsquo;ve never been partial to _The Nutcracker_. I find it has a bit too much syrup. But I realized a couple of months ago that I had never taken Jordan to the ballet and _The Nutcracker_ seemed a logical way to introduce her and have a good father/daughter day out. As luck would have it, <a href="http://www.kirov.com/" target="_blank" rel="noopener">The Kirov Ballet</a> came to town, which gave me the added pleasure of taking Jordan to the place where her mother and I met &ndash; the very <a href="http://www.musiccenter.org/about/venue_dcp.html" target="_blank" rel="noopener">building</a> that housed the steps where we stole our first kiss. Jordan was thrilled by all of this.
+Though I enjoy the ballet, I&rsquo;ve never been partial to _The Nutcracker_. I find it has a bit too much syrup. But I realized a couple of months ago that I had never taken Jordan to the ballet and _The Nutcracker_ seemed a logical way to introduce her and have a good father/daughter day out. As luck would have it, <a href="https://www.kirov.com/" target="_blank" rel="noopener">The Kirov Ballet</a> came to town, which gave me the added pleasure of taking Jordan to the place where her mother and I met &ndash; the very <a href="https://www.musiccenter.org/about/venue_dcp.html" target="_blank" rel="noopener">building</a> that housed the steps where we stole our first kiss. Jordan was thrilled by all of this.
 
-We made a full day of it. We lunched at <a href="http://www.musiccenter.org/" target="_blank" rel="noopener">The Music Center </a>before the show, then caught the matinee. When it was over, Jordan was ready for more, so we strolled over to <a href="http://www.moca.org/" target="_blank" rel="noopener">MOCA</a> and took in the Bourgeois and Kippenberger exhibitions. She wasn&rsquo;t so sure about the art, but we had a fine time walking the galleries.
+We made a full day of it. We lunched at <a href="https://www.musiccenter.org/" target="_blank" rel="noopener">The Music Center </a>before the show, then caught the matinee. When it was over, Jordan was ready for more, so we strolled over to <a href="https://www.moca.org/" target="_blank" rel="noopener">MOCA</a> and took in the Bourgeois and Kippenberger exhibitions. She wasn&rsquo;t so sure about the art, but we had a fine time walking the galleries.
 
 As we drove home, Jordan was very quiet. At first I thought she was tired, but then I realized that she was deep in thought. I asked her what she was thinking.
 

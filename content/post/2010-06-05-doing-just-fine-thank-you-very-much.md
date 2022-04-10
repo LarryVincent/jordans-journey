@@ -5,7 +5,7 @@ type: post
 date: 2010-06-05T23:43:00+00:00
 url: /2010/06/05/doing-just-fine-thank-you-very-much/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728133399/doing-just-fine-thank-you-very-much
+  - https://jordanmarinvincent.tumblr.com/post/15728133399/doing-just-fine-thank-you-very-much
 tumblr_jordanmarinvincent_id:
   - 15728133399
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4673260767/" title="photo sharing" target="_blank" rel="noopener"><img alt="" src="http://farm5.staticflickr.com/4001/4673260767_4a43bc35be.jpg" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4673260767/" title="photo sharing" target="_blank" rel="noopener"><img alt="" src="https://farm5.staticflickr.com/4001/4673260767_4a43bc35be.jpg" /></a>
 
 She dusts and sweeps. She moves books from one corner to the next. Folds blankets and fluffs pillows. This activity continues for an endless hour. I hear the scraping of furniture on the upstairs patio as she sweeps the deck, one of her weekly chores. Next, I hear the thump and saunter of her descending the stairs. She sits across from me and sits quietly until I look up from the laptop to fix her in my vision.  
 &ndash; Dad, when do I get my allowance?  

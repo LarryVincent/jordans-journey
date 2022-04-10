@@ -5,7 +5,7 @@ type: post
 date: 2010-11-05T01:12:00+00:00
 url: /2010/11/05/back-to-business/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728159370/back-to-business
+  - https://jordanmarinvincent.tumblr.com/post/15728159370/back-to-business
 tumblr_jordanmarinvincent_id:
   - 15728159370
 tags:
@@ -43,4 +43,4 @@ A minute later Jeanette replied.
 
 That makes two of us, kiddo.
 
- [1]: http://media.tumblr.com/tumblr_lyvy1tRv1u1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyvy1tRv1u1r5aaue.jpg

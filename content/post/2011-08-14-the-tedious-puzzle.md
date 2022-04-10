@@ -5,7 +5,7 @@ type: post
 date: 2011-08-14T23:45:00+00:00
 url: /2011/08/14/the-tedious-puzzle/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728199746/the-tedious-puzzle
+  - https://jordanmarinvincent.tumblr.com/post/15728199746/the-tedious-puzzle
 tumblr_jordanmarinvincent_id:
   - 15728199746
 tags:
@@ -38,4 +38,4 @@ Her birthday is our biggest challenge at the moment. It’s next Saturday. She h
   <img loading="lazy" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-6767815322457942749?l=jordansjourney2.blogspot.com" alt="" width="1" height="1" />
 </div>
 
- [1]: http://media.tumblr.com/tumblr_lyud5eWEKf1r5aaue.jpg
+ [1]: https://media.tumblr.com/tumblr_lyud5eWEKf1r5aaue.jpg

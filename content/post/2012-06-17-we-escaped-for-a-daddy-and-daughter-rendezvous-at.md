@@ -4,7 +4,7 @@ type: post
 date: 2012-06-17T00:50:24+00:00
 url: /2012/06/17/we-escaped-for-a-daddy-and-daughter-rendezvous-at/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/25259382956/we-escaped-for-a-daddy-and-daughter-rendezvous-at
+  - https://jordanmarinvincent.tumblr.com/post/25259382956/we-escaped-for-a-daddy-and-daughter-rendezvous-at
 tumblr_jordanmarinvincent_id:
   - 25259382956
 tags:

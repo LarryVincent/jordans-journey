@@ -4,7 +4,7 @@ type: post
 date: 2012-03-14T04:27:00+00:00
 url: /2012/03/14/in-our-family-we-speak-of-b-c-and-a-d-b-c/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/19277165593/in-our-family-we-speak-of-b-c-and-a-d-b-c
+  - https://jordanmarinvincent.tumblr.com/post/19277165593/in-our-family-we-speak-of-b-c-and-a-d-b-c
 tumblr_jordanmarinvincent_id:
   - 19277165593
 tags:

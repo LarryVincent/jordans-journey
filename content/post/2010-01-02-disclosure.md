@@ -5,7 +5,7 @@ type: post
 date: 2010-01-02T12:24:00+00:00
 url: /2010/01/02/disclosure/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728118310/disclosure
+  - https://jordanmarinvincent.tumblr.com/post/15728118310/disclosure
 tumblr_jordanmarinvincent_id:
   - 15728118310
 tags:

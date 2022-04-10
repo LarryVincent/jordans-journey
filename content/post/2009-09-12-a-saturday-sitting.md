@@ -5,7 +5,7 @@ type: post
 date: 2009-09-12T21:12:00+00:00
 url: /2009/09/12/a-saturday-sitting/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659094937/a-saturday-sitting
+  - https://jordanmarinvincent.tumblr.com/post/15659094937/a-saturday-sitting
 tumblr_jordanmarinvincent_id:
   - 15659094937
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3914839350/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3477/3914839350_a75416f606_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3914839350/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3477/3914839350_a75416f606_m.jpg" alt="" /></a>
 
 Two To Watch
 

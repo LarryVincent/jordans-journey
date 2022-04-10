@@ -5,7 +5,7 @@ type: post
 date: 2008-04-05T22:03:00+00:00
 url: /2008/04/05/growing-up/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658995169/growing-up
+  - https://jordanmarinvincent.tumblr.com/post/15658995169/growing-up
 tumblr_jordanmarinvincent_id:
   - 15658995169
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/2388266077/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2079/2388266077_f42740b7c4_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/2388266077/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2079/2388266077_f42740b7c4_m.jpg" alt="" /></a>
 
 Just Lounging
 

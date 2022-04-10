@@ -5,7 +5,7 @@ type: post
 date: 2006-09-09T06:24:00+00:00
 url: /2006/09/09/in-the-beginning/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658907354/in-the-beginning
+  - https://jordanmarinvincent.tumblr.com/post/15658907354/in-the-beginning
 tumblr_jordanmarinvincent_id:
   - 15658907354
 tags:

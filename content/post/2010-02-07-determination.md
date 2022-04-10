@@ -5,7 +5,7 @@ type: post
 date: 2010-02-07T16:59:00+00:00
 url: /2010/02/07/determination/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728119836/determination
+  - https://jordanmarinvincent.tumblr.com/post/15728119836/determination
 tumblr_jordanmarinvincent_id:
   - 15728119836
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4314770125/" title="Resting by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="http://farm3.static.flickr.com/2696/4314770125_95b29f9994_m.jpg" width="240" height="160" alt="Resting" /></a>  
+<a href="https://www.flickr.com/photos/larryvincent/4314770125/" title="Resting by larryvincent, on Flickr" target="_blank" rel="noopener"><img loading="lazy" src="https://farm3.static.flickr.com/2696/4314770125_95b29f9994_m.jpg" width="240" height="160" alt="Resting" /></a>  
 She has an abundance of will. She can do anything she sets her mind to. Don&rsquo;t try to tell her she can&rsquo;t. She will. It&rsquo;s the part of her character that is dangerously alluring, at times beguiling, frequently intoxicating, and always humbling. There&rsquo;s something to be said for the pureness of her determination. It has literally saved her life. And it has been on display all week.
 
 Last night we attended her school choir concert. She has been practicing for weeks. Last night&rsquo;s performance was more of a sneak peak for parents&ndash;a glimpse into the work the choir is doing. Jordan took the stage in Steve Madden boots that beckoned interest from her stylishly-inclined classmates. She wobbled in them, shifting her weight back and forth to keep her balance. Stylish as they are, they are a challenge for her damaged feet. No matter. Jordan is determined to convey a sense of style, even when it isn&rsquo;t comfortable.

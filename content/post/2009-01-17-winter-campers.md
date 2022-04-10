@@ -5,7 +5,7 @@ type: post
 date: 2009-01-17T16:11:00+00:00
 url: /2009/01/17/winter-campers/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659054997/winter-campers
+  - https://jordanmarinvincent.tumblr.com/post/15659054997/winter-campers
 tumblr_jordanmarinvincent_id:
   - 15659054997
 tags:
@@ -14,7 +14,7 @@ tags:
 
 ---
 <div class="photo-block">
-  <a href="http://www.flickr.com/photos/33375860@N00/3204394435/" title="Kids" class="flickr-image" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3482/3204394435_1a483ea441_m.jpg" alt="Kids" /></a></p> 
+  <a href="https://www.flickr.com/photos/33375860@N00/3204394435/" title="Kids" class="flickr-image" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3482/3204394435_1a483ea441_m.jpg" alt="Kids" /></a></p> 
   
   <p class="caption">
     Since an early age, Luc has been adept at making his sister laugh.

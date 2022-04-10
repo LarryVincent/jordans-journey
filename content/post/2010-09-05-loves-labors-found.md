@@ -5,7 +5,7 @@ type: post
 date: 2010-09-05T23:56:00+00:00
 url: /2010/09/05/loves-labors-found/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728148572/loves-labors-found
+  - https://jordanmarinvincent.tumblr.com/post/15728148572/loves-labors-found
 tumblr_jordanmarinvincent_id:
   - 15728148572
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/4958938990/" target="_blank" rel="noopener"><img loading="lazy" src="http://farm5.static.flickr.com/4086/4958938990_89bf750e0e_z.jpg" title="Jordan_2257" alt="Jordan_2257" width="425" height="640" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/4958938990/" target="_blank" rel="noopener"><img loading="lazy" src="https://farm5.static.flickr.com/4086/4958938990_89bf750e0e_z.jpg" title="Jordan_2257" alt="Jordan_2257" width="425" height="640" /></a>
 
 In all the years I&rsquo;ve known her, I&rsquo;m not sure she&rsquo;s ever looked so good. Maybe it&rsquo;s the healthy glow from a thriving summer. Maybe it&rsquo;s the blossomy aura of a young lady growing up. Or maybe it&rsquo;s the confident air of survivor gearing up to take on life&rsquo;s challenge again. Whatever it is, it agrees with her. She is radiantly beautiful. It&rsquo;s not just her physical appearance&ndash;the tan, the way she wears her fashion, the streaks of blonde in a wild swirl of wispy hair&ndash;it&rsquo;s her way. She is agreeable, chatty, charismatic. You want to be with her and she wants to be with you.
 

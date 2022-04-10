@@ -5,7 +5,7 @@ type: post
 date: 2006-09-03T07:20:00+00:00
 url: /2006/09/03/a-boy-and-his-dog/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658905646/a-boy-and-his-dog
+  - https://jordanmarinvincent.tumblr.com/post/15658905646/a-boy-and-his-dog
 tumblr_jordanmarinvincent_id:
   - 15658905646
 tags:

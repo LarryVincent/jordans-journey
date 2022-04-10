@@ -5,7 +5,7 @@ type: post
 date: 2011-12-20T21:30:00+00:00
 url: /2011/12/20/real-conversation/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728214617/real-conversation
+  - https://jordanmarinvincent.tumblr.com/post/15728214617/real-conversation
 tumblr_jordanmarinvincent_id:
   - 15728214617
 tags:

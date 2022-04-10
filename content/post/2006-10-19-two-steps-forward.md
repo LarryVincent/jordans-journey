@@ -5,7 +5,7 @@ type: post
 date: 2006-10-19T20:38:00+00:00
 url: /2006/10/19/two-steps-forward/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658916230/two-steps-forward
+  - https://jordanmarinvincent.tumblr.com/post/15658916230/two-steps-forward
 tumblr_jordanmarinvincent_id:
   - 15658916230
 tags:

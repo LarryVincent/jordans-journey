@@ -5,7 +5,7 @@ type: post
 date: 2007-01-09T18:17:00+00:00
 url: /2007/01/09/wish-day-2-quest-for-the-hard-ones/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658940518/wish-day-2-quest-for-the-hard-ones
+  - https://jordanmarinvincent.tumblr.com/post/15658940518/wish-day-2-quest-for-the-hard-ones
 tumblr_jordanmarinvincent_id:
   - 15658940518
 publicize_twitter_user:

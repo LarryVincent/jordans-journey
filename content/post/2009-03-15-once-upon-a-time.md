@@ -5,7 +5,7 @@ type: post
 date: 2009-03-15T19:28:00+00:00
 url: /2009/03/15/once-upon-a-time/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659068565/once-upon-a-time
+  - https://jordanmarinvincent.tumblr.com/post/15659068565/once-upon-a-time
 tumblr_jordanmarinvincent_id:
   - 15659068565
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3358806088/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3589/3358806088_18a7367faf_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3358806088/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3589/3358806088_18a7367faf_m.jpg" alt="" /></a>
 
 Ow! Jordan neglects to brush her hair. When it gets really bad, Jeanette steps in. The photograph demonstrates the result.
 

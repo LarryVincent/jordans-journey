@@ -4,7 +4,7 @@ type: post
 date: 2012-04-06T18:24:48+00:00
 url: /2012/04/06/this-photo-taken-last-december-captures-my/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/20600781399/this-photo-taken-last-december-captures-my
+  - https://jordanmarinvincent.tumblr.com/post/20600781399/this-photo-taken-last-december-captures-my
 tumblr_jordanmarinvincent_id:
   - 20600781399
 tags:

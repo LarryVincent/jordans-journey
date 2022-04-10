@@ -5,7 +5,7 @@ type: post
 date: 2009-10-03T13:56:00+00:00
 url: /2009/10/03/annoyance/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659100655/annoyance
+  - https://jordanmarinvincent.tumblr.com/post/15659100655/annoyance
 tumblr_jordanmarinvincent_id:
   - 15659100655
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3977607761/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm3.static.flickr.com/2479/3977607761_dd23feb0a6_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3977607761/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm3.static.flickr.com/2479/3977607761_dd23feb0a6_m.jpg" alt="" /></a>
 
 Non-Hyper Jordan
 

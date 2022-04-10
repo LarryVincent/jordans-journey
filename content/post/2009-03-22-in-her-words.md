@@ -5,7 +5,7 @@ type: post
 date: 2009-03-22T20:16:00+00:00
 url: /2009/03/22/in-her-words/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659069996/in-her-words
+  - https://jordanmarinvincent.tumblr.com/post/15659069996/in-her-words
 tumblr_jordanmarinvincent_id:
   - 15659069996
 tags:

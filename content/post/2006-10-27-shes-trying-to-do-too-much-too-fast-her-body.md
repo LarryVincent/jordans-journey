@@ -4,7 +4,7 @@ type: post
 date: 2006-10-27T19:40:00+00:00
 url: /2006/10/27/shes-trying-to-do-too-much-too-fast-her-body/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658929364/shes-trying-to-do-too-much-too-fast-her-body
+  - https://jordanmarinvincent.tumblr.com/post/15658929364/shes-trying-to-do-too-much-too-fast-her-body
 tumblr_jordanmarinvincent_id:
   - 15658929364
 tags:

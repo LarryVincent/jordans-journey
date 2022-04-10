@@ -4,7 +4,7 @@ type: post
 date: 2012-05-06T22:20:46+00:00
 url: /2012/05/06/jordan-is-doing-much-better-shes-still-at-chla/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/22546640696/jordan-is-doing-much-better-shes-still-at-chla
+  - https://jordanmarinvincent.tumblr.com/post/22546640696/jordan-is-doing-much-better-shes-still-at-chla
 tumblr_jordanmarinvincent_id:
   - 22546640696
 tags:

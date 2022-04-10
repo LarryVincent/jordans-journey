@@ -5,7 +5,7 @@ type: post
 date: 2010-09-12T19:32:00+00:00
 url: /2010/09/12/bold-mover/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728150092/bold-mover
+  - https://jordanmarinvincent.tumblr.com/post/15728150092/bold-mover
 tumblr_jordanmarinvincent_id:
   - 15728150092
 tags:

@@ -4,7 +4,7 @@ type: post
 date: 2012-12-08T04:38:00+00:00
 url: /2012/12/08/the-world-was-moving-and-she-was-right-there-with/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/37454205243/the-world-was-moving-and-she-was-right-there-with
+  - https://jordanmarinvincent.tumblr.com/post/37454205243/the-world-was-moving-and-she-was-right-there-with
 tumblr_jordanmarinvincent_id:
   - 37454205243
 tags:

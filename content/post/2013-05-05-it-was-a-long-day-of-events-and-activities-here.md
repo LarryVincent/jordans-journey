@@ -4,7 +4,7 @@ type: post
 date: 2013-05-05T03:57:00+00:00
 url: /2013/05/05/it-was-a-long-day-of-events-and-activities-here/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/49651593565/it-was-a-long-day-of-events-and-activities-here
+  - https://jordanmarinvincent.tumblr.com/post/49651593565/it-was-a-long-day-of-events-and-activities-here
 tumblr_jordanmarinvincent_id:
   - 49651593565
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2006-11-11T18:35:00+00:00
 url: /2006/11/11/outside-in/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658935165/outside-in
+  - https://jordanmarinvincent.tumblr.com/post/15658935165/outside-in
 tumblr_jordanmarinvincent_id:
   - 15658935165
 tags:

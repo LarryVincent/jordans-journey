@@ -5,7 +5,7 @@ type: post
 date: 2007-06-07T15:26:00+00:00
 url: /2007/06/07/evening-constitutional/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658964211/evening-constitutional
+  - https://jordanmarinvincent.tumblr.com/post/15658964211/evening-constitutional
 tumblr_jordanmarinvincent_id:
   - 15658964211
 tags:
@@ -69,4 +69,4 @@ When the evening was coming to an end and Jordan was tucked into her bed, I refl
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-8741888524250868283?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://www.jordanvincent.com/images/2007/06/party_girl.jpg
+ [1]: https://www.jordanvincent.com/images/2007/06/party_girl.jpg

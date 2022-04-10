@@ -5,7 +5,7 @@ type: post
 date: 2012-01-17T19:42:06+00:00
 url: /2012/01/17/whats-up-with-the-site/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/16017295235/whats-up-with-the-site
+  - https://jordanmarinvincent.tumblr.com/post/16017295235/whats-up-with-the-site
 tumblr_jordanmarinvincent_id:
   - 16017295235
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2010-07-12T20:27:00+00:00
 url: /2010/07/12/event-horizon/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728140070/event-horizon
+  - https://jordanmarinvincent.tumblr.com/post/15728140070/event-horizon
 tumblr_jordanmarinvincent_id:
   - 15728140070
 tags:

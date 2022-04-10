@@ -5,7 +5,7 @@ type: post
 date: 2009-06-06T14:42:00+00:00
 url: /2009/06/06/hooded-bandits/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659079582/hooded-bandits
+  - https://jordanmarinvincent.tumblr.com/post/15659079582/hooded-bandits
 tumblr_jordanmarinvincent_id:
   - 15659079582
 tags:
@@ -13,7 +13,7 @@ tags:
   - the journey
 
 ---
-<a href="http://www.flickr.com/photos/larryvincent/3602000622/" title="photo sharing" target="_blank" rel="noopener"><img src="http://farm4.static.flickr.com/3364/3602000622_870549b72b_m.jpg" alt="" /></a>
+<a href="https://www.flickr.com/photos/larryvincent/3602000622/" title="photo sharing" target="_blank" rel="noopener"><img src="https://farm4.static.flickr.com/3364/3602000622_870549b72b_m.jpg" alt="" /></a>
 
 Hooded Bandits
 

@@ -5,7 +5,7 @@ type: post
 date: 2007-07-02T16:26:00+00:00
 url: /2007/07/02/when-we-last-left-our-heroine/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658965005/when-we-last-left-our-heroine
+  - https://jordanmarinvincent.tumblr.com/post/15658965005/when-we-last-left-our-heroine
 tumblr_jordanmarinvincent_id:
   - 15658965005
 tags:

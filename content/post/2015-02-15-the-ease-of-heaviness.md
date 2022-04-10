@@ -5,7 +5,7 @@ type: post
 date: 2015-02-15T18:39:00+00:00
 url: /2015/02/15/the-ease-of-heaviness/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/111096554261/the-ease-of-heaviness
+  - https://jordanmarinvincent.tumblr.com/post/111096554261/the-ease-of-heaviness
 tumblr_jordanmarinvincent_id:
   - 111096554261
 tags:

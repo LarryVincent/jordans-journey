@@ -5,7 +5,7 @@ type: post
 date: 2010-08-01T19:02:00+00:00
 url: /2010/08/01/word-games/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728142756/word-games
+  - https://jordanmarinvincent.tumblr.com/post/15728142756/word-games
 tumblr_jordanmarinvincent_id:
   - 15728142756
 tags:

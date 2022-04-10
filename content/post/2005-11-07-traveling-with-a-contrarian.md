@@ -5,7 +5,7 @@ type: post
 date: 2005-11-07T19:27:00+00:00
 url: /2005/11/07/traveling-with-a-contrarian/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658870512/traveling-with-a-contrarian
+  - https://jordanmarinvincent.tumblr.com/post/15658870512/traveling-with-a-contrarian
 tumblr_jordanmarinvincent_id:
   - 15658870512
 tags:
@@ -51,4 +51,4 @@ Our holiday was a taxing but rewarding experience. I will never forget the delig
   <img loading="lazy" width="1" height="1" src="https://blogger.googleusercontent.com/tracker/9039099668816362935-2949059493667451458?l=jordansjourney2.blogspot.com" alt="" />
 </div>
 
- [1]: http://larry.gelosi.com/wp-content/themes/deichnetz/pics/100_2592_1.jpg
+ [1]: https://larry.gelosi.com/wp-content/themes/deichnetz/pics/100_2592_1.jpg

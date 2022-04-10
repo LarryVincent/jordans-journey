@@ -5,7 +5,7 @@ type: post
 date: 2009-12-24T09:41:00+00:00
 url: /2009/12/24/all-i-wanted-for-christmas/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659110477/all-i-wanted-for-christmas
+  - https://jordanmarinvincent.tumblr.com/post/15659110477/all-i-wanted-for-christmas
 tumblr_jordanmarinvincent_id:
   - 15659110477
 tags:

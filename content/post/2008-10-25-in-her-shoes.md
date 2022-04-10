@@ -5,7 +5,7 @@ type: post
 date: 2008-10-25T10:48:00+00:00
 url: /2008/10/25/in-her-shoes/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659030439/in-her-shoes
+  - https://jordanmarinvincent.tumblr.com/post/15659030439/in-her-shoes
 tumblr_jordanmarinvincent_id:
   - 15659030439
 tags:

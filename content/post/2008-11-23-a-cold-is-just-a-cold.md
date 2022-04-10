@@ -5,7 +5,7 @@ type: post
 date: 2008-11-23T17:53:00+00:00
 url: /2008/11/23/a-cold-is-just-a-cold/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15659046224/a-cold-is-just-a-cold
+  - https://jordanmarinvincent.tumblr.com/post/15659046224/a-cold-is-just-a-cold
 tumblr_jordanmarinvincent_id:
   - 15659046224
 tags:

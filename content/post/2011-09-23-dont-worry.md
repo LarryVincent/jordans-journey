@@ -5,7 +5,7 @@ type: post
 date: 2011-09-23T00:27:00+00:00
 url: /2011/09/23/dont-worry/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15728207074/dont-worry
+  - https://jordanmarinvincent.tumblr.com/post/15728207074/dont-worry
 tumblr_jordanmarinvincent_id:
   - 15728207074
 tags:

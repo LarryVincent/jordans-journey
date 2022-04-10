@@ -5,7 +5,7 @@ type: post
 date: 2008-01-07T09:35:00+00:00
 url: /2008/01/07/adventures-in-inner-space/
 tumblr_jordanmarinvincent_permalink:
-  - http://jordanmarinvincent.tumblr.com/post/15658979309/adventures-in-inner-space
+  - https://jordanmarinvincent.tumblr.com/post/15658979309/adventures-in-inner-space
 tumblr_jordanmarinvincent_id:
   - 15658979309
 tags:
